@@ -16,9 +16,9 @@ An end-to-end marketing analytics project simulating 2 years of performance data
 
 ## Tools used
 
-- Excel — raw data, data dictionary, channel benchmarks, budget optimization model
-- SQL Server — relational schema, views, and business-question queries
-- Power BI — 5-page interactive dashboard with DAX measures and a live what-if simulator
+- Excel - raw data, data dictionary, channel benchmarks, budget optimization model
+- SQL Server - relational schema, views, and business-question queries
+- Power BI - 5-page interactive dashboard with DAX measures and a live what-if simulator
 
 ## The dataset
 
