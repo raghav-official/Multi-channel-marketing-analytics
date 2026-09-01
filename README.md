@@ -30,23 +30,23 @@ Simulated (non-confidential) data — 2 years (Jan 2024–Dec 2025), weekly grai
 <summary><b>See all 5 pages</b></summary>
 
 ### 1. Marketing Overview
-![Overview]<img width="1300" height="727" alt="Multi channel marketing overview" src="https://github.com/user-attachments/assets/0966b241-0e27-4bae-aae1-5937f6edeb65" />
+<img width="1300" height="727" alt="Multi channel marketing overview" src="https://github.com/user-attachments/assets/0966b241-0e27-4bae-aae1-5937f6edeb65" />
 
 
 ### 2. Funnel Analysis
-![Funnel Analysis]<img width="1296" height="730" alt="Funnel analysis" src="https://github.com/user-attachments/assets/fab29f43-fab4-441f-8457-2ae27384ef53" />
+<img width="1296" height="730" alt="Funnel analysis" src="https://github.com/user-attachments/assets/fab29f43-fab4-441f-8457-2ae27384ef53" />
 
 
 ### 3. Channel Analysis
-![Channel Analysis]<img width="1298" height="730" alt="Channel analysis" src="https://github.com/user-attachments/assets/c7b1cce8-36f9-4b89-8f9c-cd4f1290ecdd" />
+<img width="1298" height="730" alt="Channel analysis" src="https://github.com/user-attachments/assets/c7b1cce8-36f9-4b89-8f9c-cd4f1290ecdd" />
 
 
 ### 4. Budget Optimization
-![Budget Optimization]<img width="1301" height="731" alt="Budget optimization" src="https://github.com/user-attachments/assets/ce2f433a-fe60-41b3-a4e9-2eefead6a16b" />
+<img width="1301" height="731" alt="Budget optimization" src="https://github.com/user-attachments/assets/ce2f433a-fe60-41b3-a4e9-2eefead6a16b" />
 
 
 ### 5. What-If Budget Simulator
-![What-If Simulator]<img width="1300" height="723" alt="Budget simulator" src="https://github.com/user-attachments/assets/44371bb6-8a75-44b7-bdaf-5fcb48e35733" />
+<img width="1300" height="723" alt="Budget simulator" src="https://github.com/user-attachments/assets/44371bb6-8a75-44b7-bdaf-5fcb48e35733" />
 
 
 </details>
