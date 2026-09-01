@@ -1,0 +1,2185 @@
+Date,Channel,Campaign,Spend,Impressions,Clicks,Leads,MQLs,SQLs,Customers,Revenue
+2024-01-01,Affiliate,Cashback Partners,6087.0,50901,1264,105,56,24,5,18160.0
+2024-01-01,Affiliate,Content & Review Partners,8872.0,31705,1027,66,33,14,3,14992.0
+2024-01-01,Affiliate,Coupon & Deals Partners,10045.0,76461,1744,146,87,40,9,33882.0
+2024-01-01,Email,Abandoned Cart Series,2399.0,12814,575,109,81,46,13,56588.0
+2024-01-01,Email,Post-Purchase Upsell,2175.0,18270,544,96,63,39,11,39390.0
+2024-01-01,Email,Weekly Newsletter,2843.0,21358,946,149,104,68,18,63864.0
+2024-01-01,Email,Win-Back Campaign,2099.0,15676,605,139,99,64,17,52862.0
+2024-01-01,Google Ads,Performance Max - New Customers,19121.0,14650,654,75,45,27,7,42787.0
+2024-01-01,Google Ads,Search - Brand,15432.0,11294,519,46,32,18,4,18727.0
+2024-01-01,Google Ads,Search - Non-Brand,23213.0,20943,1058,117,79,41,8,44961.0
+2024-01-01,Google Ads,Shopping - Bestsellers,9896.0,12826,422,38,25,14,3,15350.0
+2024-01-01,LinkedIn Ads,InMail - Account Based Marketing,10824.0,10195,92,7,5,3,1,21086.0
+2024-01-01,LinkedIn Ads,Lead Gen Forms - Enterprise,14093.0,17752,133,6,4,2,1,15629.0
+2024-01-01,LinkedIn Ads,Sponsored Content - Decision Makers,16124.0,24484,128,8,6,3,1,19379.0
+2024-01-01,Meta Ads,Advantage+ Shopping,18769.0,50411,1179,59,27,15,2,10125.0
+2024-01-01,Meta Ads,Prospecting - Lookalike 1%,17539.0,76704,1797,113,57,23,4,14323.0
+2024-01-01,Meta Ads,Retargeting - Cart Abandoners,13816.0,71784,1469,125,63,31,5,18609.0
+2024-01-01,Meta Ads,Video Views - Brand Awareness,12282.0,49647,1334,91,52,21,3,13959.0
+2024-01-01,YouTube,Bumper Ads - Retargeting,8175.0,47385,682,24,9,4,0,0.0
+2024-01-01,YouTube,Discovery Ads - Product Demo,10662.0,79512,1411,44,20,7,1,5432.0
+2024-01-01,YouTube,In-Stream - Brand Awareness,12682.0,139266,1979,62,24,9,1,3539.0
+2024-01-08,Affiliate,Cashback Partners,6340.0,27476,732,59,28,14,3,11469.0
+2024-01-08,Affiliate,Content & Review Partners,9086.0,47971,1042,102,58,24,4,14210.0
+2024-01-08,Affiliate,Coupon & Deals Partners,10243.0,70326,2210,192,99,52,10,39286.0
+2024-01-08,Email,Abandoned Cart Series,2728.0,31215,971,147,98,60,19,61763.0
+2024-01-08,Email,Post-Purchase Upsell,1898.0,7905,355,79,51,33,9,38762.0
+2024-01-08,Email,Weekly Newsletter,3035.0,25118,701,132,87,56,17,67453.0
+2024-01-08,Email,Win-Back Campaign,1919.0,17190,561,120,74,44,13,52957.0
+2024-01-08,Google Ads,Performance Max - New Customers,18658.0,24249,1158,129,85,48,10,56512.0
+2024-01-08,Google Ads,Search - Brand,14637.0,22229,769,80,47,26,5,31159.0
+2024-01-08,Google Ads,Search - Non-Brand,23180.0,22693,1104,129,79,39,9,42367.0
+2024-01-08,Google Ads,Shopping - Bestsellers,9184.0,11352,515,53,34,19,4,22471.0
+2024-01-08,LinkedIn Ads,InMail - Account Based Marketing,11261.0,7731,77,4,3,2,0,0.0
+2024-01-08,LinkedIn Ads,Lead Gen Forms - Enterprise,15253.0,14348,98,6,4,2,1,23171.0
+2024-01-08,LinkedIn Ads,Sponsored Content - Decision Makers,17515.0,29266,156,8,5,3,1,15138.0
+2024-01-08,Meta Ads,Advantage+ Shopping,18358.0,49208,1255,100,55,28,4,16386.0
+2024-01-08,Meta Ads,Prospecting - Lookalike 1%,18714.0,79260,1558,138,71,33,5,19505.0
+2024-01-08,Meta Ads,Retargeting - Cart Abandoners,14737.0,40368,1106,96,56,27,4,18206.0
+2024-01-08,Meta Ads,Video Views - Brand Awareness,11146.0,44364,1235,92,43,23,4,18673.0
+2024-01-08,YouTube,Bumper Ads - Retargeting,8537.0,88927,1354,29,13,5,0,0.0
+2024-01-08,YouTube,Discovery Ads - Product Demo,13099.0,135478,2020,66,29,10,1,4751.0
+2024-01-08,YouTube,In-Stream - Brand Awareness,13099.0,66863,1127,36,13,4,0,0.0
+2024-01-15,Affiliate,Cashback Partners,6784.0,28583,994,88,47,21,3,11629.0
+2024-01-15,Affiliate,Content & Review Partners,8284.0,40609,994,62,37,15,3,13255.0
+2024-01-15,Affiliate,Coupon & Deals Partners,9995.0,39572,1291,114,58,28,6,27127.0
+2024-01-15,Email,Abandoned Cart Series,2962.0,21425,811,184,115,70,18,65040.0
+2024-01-15,Email,Post-Purchase Upsell,1980.0,10003,393,63,47,26,8,26061.0
+2024-01-15,Email,Weekly Newsletter,2752.0,19268,790,180,122,76,24,101743.0
+2024-01-15,Email,Win-Back Campaign,2119.0,19129,686,105,77,52,15,60880.0
+2024-01-15,Google Ads,Performance Max - New Customers,19136.0,34598,1169,133,82,39,8,37881.0
+2024-01-15,Google Ads,Search - Brand,14535.0,21634,881,82,50,29,6,27170.0
+2024-01-15,Google Ads,Search - Non-Brand,21678.0,23152,1047,112,75,41,9,55718.0
+2024-01-15,Google Ads,Shopping - Bestsellers,10889.0,11878,471,46,29,15,3,13979.0
+2024-01-15,LinkedIn Ads,InMail - Account Based Marketing,11446.0,10364,88,6,4,3,1,15678.0
+2024-01-15,LinkedIn Ads,Lead Gen Forms - Enterprise,15242.0,23001,134,7,5,3,1,17415.0
+2024-01-15,LinkedIn Ads,Sponsored Content - Decision Makers,18992.0,20072,166,9,6,4,1,19201.0
+2024-01-15,Meta Ads,Advantage+ Shopping,16966.0,63927,1124,81,46,22,4,12965.0
+2024-01-15,Meta Ads,Prospecting - Lookalike 1%,18584.0,60035,1414,71,39,20,3,12277.0
+2024-01-15,Meta Ads,Retargeting - Cart Abandoners,14722.0,48560,931,82,46,25,4,20086.0
+2024-01-15,Meta Ads,Video Views - Brand Awareness,9983.0,33049,710,39,18,10,1,3107.0
+2024-01-15,YouTube,Bumper Ads - Retargeting,7745.0,51004,660,25,10,4,0,0.0
+2024-01-15,YouTube,Discovery Ads - Product Demo,10520.0,136733,1878,57,21,9,1,4583.0
+2024-01-15,YouTube,In-Stream - Brand Awareness,13237.0,101909,1183,31,11,5,1,3564.0
+2024-01-22,Affiliate,Cashback Partners,6007.0,25413,752,45,24,11,2,7105.0
+2024-01-22,Affiliate,Content & Review Partners,7803.0,47358,1539,99,56,28,4,15721.0
+2024-01-22,Affiliate,Coupon & Deals Partners,10459.0,46238,1348,98,58,24,5,20961.0
+2024-01-22,Email,Abandoned Cart Series,2732.0,14903,656,118,79,54,15,53565.0
+2024-01-22,Email,Post-Purchase Upsell,2070.0,19087,727,118,72,44,12,38625.0
+2024-01-22,Email,Weekly Newsletter,2766.0,29368,1008,241,155,99,29,123632.0
+2024-01-22,Email,Win-Back Campaign,1959.0,9115,397,82,57,35,9,29348.0
+2024-01-22,Google Ads,Performance Max - New Customers,23581.0,21090,857,94,60,33,6,31889.0
+2024-01-22,Google Ads,Search - Brand,17879.0,17618,657,81,54,30,6,29994.0
+2024-01-22,Google Ads,Search - Non-Brand,22058.0,17624,725,67,40,22,4,25138.0
+2024-01-22,Google Ads,Shopping - Bestsellers,9880.0,10709,413,38,21,11,2,12871.0
+2024-01-22,LinkedIn Ads,InMail - Account Based Marketing,9576.0,10921,75,5,4,2,0,0.0
+2024-01-22,LinkedIn Ads,Lead Gen Forms - Enterprise,14855.0,12225,98,7,4,3,1,19772.0
+2024-01-22,LinkedIn Ads,Sponsored Content - Decision Makers,16949.0,17571,136,9,6,3,1,22143.0
+2024-01-22,Meta Ads,Advantage+ Shopping,13661.0,27892,780,56,28,13,2,9516.0
+2024-01-22,Meta Ads,Prospecting - Lookalike 1%,16026.0,58869,1506,123,60,29,4,14672.0
+2024-01-22,Meta Ads,Retargeting - Cart Abandoners,14107.0,34533,977,58,29,14,2,10390.0
+2024-01-22,Meta Ads,Video Views - Brand Awareness,9673.0,21767,530,37,21,10,2,6812.0
+2024-01-22,YouTube,Bumper Ads - Retargeting,7160.0,57167,755,25,11,4,0,0.0
+2024-01-22,YouTube,Discovery Ads - Product Demo,10426.0,100502,1728,39,17,5,0,0.0
+2024-01-22,YouTube,In-Stream - Brand Awareness,13226.0,91174,1133,35,15,5,1,4897.0
+2024-01-29,Affiliate,Cashback Partners,5062.0,21420,718,71,34,15,3,14508.0
+2024-01-29,Affiliate,Content & Review Partners,7391.0,48447,1423,98,52,22,4,17063.0
+2024-01-29,Affiliate,Coupon & Deals Partners,9235.0,38779,1241,88,43,21,3,13006.0
+2024-01-29,Email,Abandoned Cart Series,2710.0,22996,725,130,81,54,14,56168.0
+2024-01-29,Email,Post-Purchase Upsell,2071.0,11341,447,70,44,24,7,30196.0
+2024-01-29,Email,Weekly Newsletter,2648.0,16043,644,146,104,67,22,83151.0
+2024-01-29,Email,Win-Back Campaign,2039.0,19347,511,96,63,44,14,57149.0
+2024-01-29,Google Ads,Performance Max - New Customers,18604.0,12753,637,58,37,17,4,20075.0
+2024-01-29,Google Ads,Search - Brand,14846.0,17970,583,72,45,25,5,27353.0
+2024-01-29,Google Ads,Search - Non-Brand,23067.0,17129,744,77,46,23,5,26828.0
+2024-01-29,Google Ads,Shopping - Bestsellers,10911.0,8335,395,35,24,12,2,11241.0
+2024-01-29,LinkedIn Ads,InMail - Account Based Marketing,10918.0,11319,100,5,4,2,1,15052.0
+2024-01-29,LinkedIn Ads,Lead Gen Forms - Enterprise,15238.0,22949,118,8,5,3,1,24688.0
+2024-01-29,LinkedIn Ads,Sponsored Content - Decision Makers,15957.0,21311,125,8,5,3,1,17488.0
+2024-01-29,Meta Ads,Advantage+ Shopping,18838.0,56012,1447,125,71,33,5,23573.0
+2024-01-29,Meta Ads,Prospecting - Lookalike 1%,20275.0,51768,1152,96,48,25,3,11027.0
+2024-01-29,Meta Ads,Retargeting - Cart Abandoners,14893.0,58563,1218,101,49,25,3,14054.0
+2024-01-29,Meta Ads,Video Views - Brand Awareness,10754.0,31682,631,52,24,10,2,9826.0
+2024-01-29,YouTube,Bumper Ads - Retargeting,7286.0,68240,1109,40,19,7,1,5047.0
+2024-01-29,YouTube,Discovery Ads - Product Demo,11991.0,164922,2235,51,23,7,1,4926.0
+2024-01-29,YouTube,In-Stream - Brand Awareness,13199.0,121933,1964,42,19,6,1,4335.0
+2024-02-05,Affiliate,Cashback Partners,5447.0,44464,918,70,35,14,3,11147.0
+2024-02-05,Affiliate,Content & Review Partners,7552.0,50889,1141,109,61,33,7,27070.0
+2024-02-05,Affiliate,Coupon & Deals Partners,8864.0,55614,1150,94,49,24,5,19937.0
+2024-02-05,Email,Abandoned Cart Series,2868.0,15539,598,102,69,46,15,57632.0
+2024-02-05,Email,Post-Purchase Upsell,1807.0,8869,347,52,34,22,6,22219.0
+2024-02-05,Email,Weekly Newsletter,2761.0,18393,523,82,60,41,13,43797.0
+2024-02-05,Email,Win-Back Campaign,1851.0,11330,403,76,46,26,8,24296.0
+2024-02-05,Google Ads,Performance Max - New Customers,18621.0,18642,884,99,60,28,6,29864.0
+2024-02-05,Google Ads,Search - Brand,14670.0,13224,507,62,37,20,4,25837.0
+2024-02-05,Google Ads,Search - Non-Brand,18749.0,27553,1121,140,96,54,13,82753.0
+2024-02-05,Google Ads,Shopping - Bestsellers,10240.0,14968,516,61,35,17,4,25296.0
+2024-02-05,LinkedIn Ads,InMail - Account Based Marketing,9557.0,20357,102,6,4,2,1,22181.0
+2024-02-05,LinkedIn Ads,Lead Gen Forms - Enterprise,13535.0,10941,95,7,5,3,1,19545.0
+2024-02-05,LinkedIn Ads,Sponsored Content - Decision Makers,12956.0,12578,120,7,5,3,1,18914.0
+2024-02-05,Meta Ads,Advantage+ Shopping,16226.0,49680,1018,57,29,16,2,7221.0
+2024-02-05,Meta Ads,Prospecting - Lookalike 1%,18805.0,72793,1405,78,41,18,3,9026.0
+2024-02-05,Meta Ads,Retargeting - Cart Abandoners,12411.0,60194,1083,64,35,16,2,9917.0
+2024-02-05,Meta Ads,Video Views - Brand Awareness,10060.0,23162,580,42,24,12,2,6835.0
+2024-02-05,YouTube,Bumper Ads - Retargeting,6830.0,44092,785,21,11,4,1,3969.0
+2024-02-05,YouTube,Discovery Ads - Product Demo,10067.0,86193,1146,27,12,4,0,0.0
+2024-02-05,YouTube,In-Stream - Brand Awareness,11499.0,118110,2024,66,28,10,1,4192.0
+2024-02-12,Affiliate,Cashback Partners,5839.0,34593,1190,104,62,27,5,23661.0
+2024-02-12,Affiliate,Content & Review Partners,7647.0,43781,1491,130,74,40,8,38852.0
+2024-02-12,Affiliate,Coupon & Deals Partners,10135.0,62619,1443,122,69,36,6,21305.0
+2024-02-12,Email,Abandoned Cart Series,2323.0,25086,696,151,100,69,22,83536.0
+2024-02-12,Email,Post-Purchase Upsell,2107.0,12464,396,84,60,35,11,43814.0
+2024-02-12,Email,Weekly Newsletter,2505.0,19851,537,105,66,37,10,43040.0
+2024-02-12,Email,Win-Back Campaign,1867.0,16178,712,168,108,69,19,72603.0
+2024-02-12,Google Ads,Performance Max - New Customers,19108.0,30627,1056,129,79,39,8,46866.0
+2024-02-12,Google Ads,Search - Brand,12649.0,8647,445,47,27,12,2,9380.0
+2024-02-12,Google Ads,Search - Non-Brand,20726.0,27410,1155,130,83,40,9,53765.0
+2024-02-12,Google Ads,Shopping - Bestsellers,10024.0,9644,487,42,27,14,3,14126.0
+2024-02-12,LinkedIn Ads,InMail - Account Based Marketing,8600.0,14618,82,4,3,1,0,0.0
+2024-02-12,LinkedIn Ads,Lead Gen Forms - Enterprise,12825.0,17366,132,8,5,3,1,15010.0
+2024-02-12,LinkedIn Ads,Sponsored Content - Decision Makers,16370.0,27307,140,6,4,3,1,18373.0
+2024-02-12,Meta Ads,Advantage+ Shopping,13652.0,42676,1190,74,35,16,2,7398.0
+2024-02-12,Meta Ads,Prospecting - Lookalike 1%,16703.0,52478,1114,82,38,20,3,14310.0
+2024-02-12,Meta Ads,Retargeting - Cart Abandoners,12120.0,66659,1030,85,41,17,3,11310.0
+2024-02-12,Meta Ads,Video Views - Brand Awareness,8113.0,36058,766,65,30,13,2,9916.0
+2024-02-12,YouTube,Bumper Ads - Retargeting,7495.0,100938,1132,37,13,5,1,4721.0
+2024-02-12,YouTube,Discovery Ads - Product Demo,9983.0,63395,951,23,9,4,0,0.0
+2024-02-12,YouTube,In-Stream - Brand Awareness,10619.0,240408,2094,67,31,10,1,5399.0
+2024-02-19,Affiliate,Cashback Partners,4962.0,25974,560,37,19,10,2,9267.0
+2024-02-19,Affiliate,Content & Review Partners,7209.0,58124,1192,110,51,23,5,19764.0
+2024-02-19,Affiliate,Coupon & Deals Partners,9141.0,59416,1369,91,52,21,4,18396.0
+2024-02-19,Email,Abandoned Cart Series,2752.0,24151,758,171,119,72,24,89946.0
+2024-02-19,Email,Post-Purchase Upsell,2060.0,20323,550,100,66,38,12,38589.0
+2024-02-19,Email,Weekly Newsletter,3174.0,41695,1211,197,123,76,25,91827.0
+2024-02-19,Email,Win-Back Campaign,1748.0,11496,443,81,59,37,11,47169.0
+2024-02-19,Google Ads,Performance Max - New Customers,18246.0,17757,800,96,59,29,6,36247.0
+2024-02-19,Google Ads,Search - Brand,15341.0,11858,601,70,44,25,4,18560.0
+2024-02-19,Google Ads,Search - Non-Brand,22331.0,21193,777,83,53,31,7,37154.0
+2024-02-19,Google Ads,Shopping - Bestsellers,10122.0,17171,572,62,36,20,4,18866.0
+2024-02-19,LinkedIn Ads,InMail - Account Based Marketing,11153.0,14106,112,6,4,2,0,0.0
+2024-02-19,LinkedIn Ads,Lead Gen Forms - Enterprise,14417.0,13191,131,7,4,2,1,18828.0
+2024-02-19,LinkedIn Ads,Sponsored Content - Decision Makers,17069.0,30298,164,9,6,4,1,18258.0
+2024-02-19,Meta Ads,Advantage+ Shopping,16324.0,71271,1524,106,51,21,3,15285.0
+2024-02-19,Meta Ads,Prospecting - Lookalike 1%,15515.0,64703,1176,65,33,16,2,8688.0
+2024-02-19,Meta Ads,Retargeting - Cart Abandoners,12589.0,37620,1010,86,43,21,3,9352.0
+2024-02-19,Meta Ads,Video Views - Brand Awareness,10202.0,51087,796,59,27,13,2,7864.0
+2024-02-19,YouTube,Bumper Ads - Retargeting,6912.0,74819,1295,36,15,6,1,5169.0
+2024-02-19,YouTube,Discovery Ads - Product Demo,9144.0,67564,1115,40,15,6,1,5140.0
+2024-02-19,YouTube,In-Stream - Brand Awareness,11866.0,116264,1970,43,21,8,1,4501.0
+2024-02-26,Affiliate,Cashback Partners,6438.0,36043,917,59,34,16,3,14372.0
+2024-02-26,Affiliate,Content & Review Partners,7310.0,27741,1042,75,34,19,3,12439.0
+2024-02-26,Affiliate,Coupon & Deals Partners,9097.0,58010,1282,124,73,32,7,31118.0
+2024-02-26,Email,Abandoned Cart Series,2437.0,13924,521,99,74,42,14,58803.0
+2024-02-26,Email,Post-Purchase Upsell,1962.0,18588,624,146,93,64,22,67713.0
+2024-02-26,Email,Weekly Newsletter,2639.0,21119,798,169,109,62,18,56508.0
+2024-02-26,Email,Win-Back Campaign,1701.0,20446,575,134,85,58,17,62774.0
+2024-02-26,Google Ads,Performance Max - New Customers,18855.0,25761,953,103,63,29,6,33314.0
+2024-02-26,Google Ads,Search - Brand,13770.0,19100,670,60,33,15,3,13552.0
+2024-02-26,Google Ads,Search - Non-Brand,22948.0,21402,853,83,52,30,7,31470.0
+2024-02-26,Google Ads,Shopping - Bestsellers,9232.0,9525,315,38,22,13,3,19665.0
+2024-02-26,LinkedIn Ads,InMail - Account Based Marketing,10219.0,11615,70,4,3,2,0,0.0
+2024-02-26,LinkedIn Ads,Lead Gen Forms - Enterprise,13326.0,12507,91,5,4,2,1,23090.0
+2024-02-26,LinkedIn Ads,Sponsored Content - Decision Makers,16247.0,11886,116,7,5,3,1,18036.0
+2024-02-26,Meta Ads,Advantage+ Shopping,15463.0,32108,882,70,40,22,3,13213.0
+2024-02-26,Meta Ads,Prospecting - Lookalike 1%,13918.0,70163,1505,128,62,30,5,15669.0
+2024-02-26,Meta Ads,Retargeting - Cart Abandoners,11451.0,37125,930,63,35,19,3,15549.0
+2024-02-26,Meta Ads,Video Views - Brand Awareness,9402.0,25009,537,44,25,14,2,9122.0
+2024-02-26,YouTube,Bumper Ads - Retargeting,6029.0,47258,515,12,4,2,0,0.0
+2024-02-26,YouTube,Discovery Ads - Product Demo,9598.0,135075,1228,39,18,6,1,4647.0
+2024-02-26,YouTube,In-Stream - Brand Awareness,11508.0,54489,978,38,18,6,1,5356.0
+2024-03-04,Affiliate,Cashback Partners,4793.0,24707,741,60,34,17,3,11309.0
+2024-03-04,Affiliate,Content & Review Partners,6822.0,44158,1019,89,51,27,5,24724.0
+2024-03-04,Affiliate,Coupon & Deals Partners,9623.0,33482,1240,86,43,21,5,24945.0
+2024-03-04,Email,Abandoned Cart Series,2801.0,32451,911,138,86,50,13,55921.0
+2024-03-04,Email,Post-Purchase Upsell,1857.0,10904,436,95,62,39,12,36981.0
+2024-03-04,Email,Weekly Newsletter,2522.0,12901,578,133,98,57,17,56988.0
+2024-03-04,Email,Win-Back Campaign,1948.0,14679,597,112,80,48,14,50014.0
+2024-03-04,Google Ads,Performance Max - New Customers,19476.0,23162,917,103,61,36,9,49122.0
+2024-03-04,Google Ads,Search - Brand,15746.0,12593,599,54,34,18,4,21673.0
+2024-03-04,Google Ads,Search - Non-Brand,21523.0,21979,820,74,46,24,5,26043.0
+2024-03-04,Google Ads,Shopping - Bestsellers,9646.0,8018,393,44,29,16,3,15102.0
+2024-03-04,LinkedIn Ads,InMail - Account Based Marketing,9718.0,11198,75,4,3,2,0,0.0
+2024-03-04,LinkedIn Ads,Lead Gen Forms - Enterprise,12321.0,20280,136,7,5,2,1,15448.0
+2024-03-04,LinkedIn Ads,Sponsored Content - Decision Makers,14966.0,12518,115,8,5,3,1,18354.0
+2024-03-04,Meta Ads,Advantage+ Shopping,14780.0,42355,832,48,22,11,2,9306.0
+2024-03-04,Meta Ads,Prospecting - Lookalike 1%,18609.0,43635,1030,75,36,20,3,13783.0
+2024-03-04,Meta Ads,Retargeting - Cart Abandoners,14433.0,59232,1076,62,36,17,2,9155.0
+2024-03-04,Meta Ads,Video Views - Brand Awareness,10021.0,42574,806,49,29,12,2,7438.0
+2024-03-04,YouTube,Bumper Ads - Retargeting,7329.0,40194,639,21,10,4,0,0.0
+2024-03-04,YouTube,Discovery Ads - Product Demo,8863.0,156660,1355,30,15,5,1,3754.0
+2024-03-04,YouTube,In-Stream - Brand Awareness,10911.0,112767,1732,37,16,6,1,4350.0
+2024-03-11,Affiliate,Cashback Partners,5781.0,38637,975,59,34,16,3,14814.0
+2024-03-11,Affiliate,Content & Review Partners,7183.0,63128,1335,118,58,26,6,24472.0
+2024-03-11,Affiliate,Coupon & Deals Partners,10140.0,58457,1543,96,54,26,5,21017.0
+2024-03-11,Email,Abandoned Cart Series,2312.0,11026,436,86,54,35,11,44275.0
+2024-03-11,Email,Post-Purchase Upsell,1719.0,16407,508,98,59,35,9,35783.0
+2024-03-11,Email,Weekly Newsletter,2465.0,23927,777,123,85,55,18,71564.0
+2024-03-11,Email,Win-Back Campaign,1808.0,7837,345,71,53,36,9,35608.0
+2024-03-11,Google Ads,Performance Max - New Customers,18802.0,21800,739,81,47,25,5,27126.0
+2024-03-11,Google Ads,Search - Brand,13609.0,10198,502,45,29,14,3,13758.0
+2024-03-11,Google Ads,Search - Non-Brand,24284.0,26074,1334,156,100,57,13,84256.0
+2024-03-11,Google Ads,Shopping - Bestsellers,10047.0,7419,356,37,24,14,3,13973.0
+2024-03-11,LinkedIn Ads,InMail - Account Based Marketing,10568.0,14990,107,6,4,2,1,22114.0
+2024-03-11,LinkedIn Ads,Lead Gen Forms - Enterprise,15488.0,14050,140,8,5,3,1,19505.0
+2024-03-11,LinkedIn Ads,Sponsored Content - Decision Makers,17810.0,18046,152,8,6,3,1,24555.0
+2024-03-11,Meta Ads,Advantage+ Shopping,15718.0,57940,1596,139,67,32,6,30675.0
+2024-03-11,Meta Ads,Prospecting - Lookalike 1%,14246.0,55358,1486,105,52,26,4,20271.0
+2024-03-11,Meta Ads,Retargeting - Cart Abandoners,13471.0,31254,852,70,36,18,2,9335.0
+2024-03-11,Meta Ads,Video Views - Brand Awareness,8284.0,26037,663,39,19,8,1,4237.0
+2024-03-11,YouTube,Bumper Ads - Retargeting,6547.0,56104,548,12,5,2,0,0.0
+2024-03-11,YouTube,Discovery Ads - Product Demo,9153.0,61725,990,25,10,4,1,4097.0
+2024-03-11,YouTube,In-Stream - Brand Awareness,10763.0,177226,1571,58,20,8,1,4464.0
+2024-03-18,Affiliate,Cashback Partners,5277.0,20284,666,64,38,16,3,13591.0
+2024-03-18,Affiliate,Content & Review Partners,6191.0,30887,893,61,32,13,3,11995.0
+2024-03-18,Affiliate,Coupon & Deals Partners,9281.0,71543,2021,190,87,48,9,36832.0
+2024-03-18,Email,Abandoned Cart Series,2445.0,26662,957,179,130,84,24,80136.0
+2024-03-18,Email,Post-Purchase Upsell,2224.0,13537,481,110,70,43,14,44792.0
+2024-03-18,Email,Weekly Newsletter,3246.0,27949,844,191,118,82,26,97653.0
+2024-03-18,Email,Win-Back Campaign,1924.0,16791,644,132,95,59,16,68073.0
+2024-03-18,Google Ads,Performance Max - New Customers,18283.0,12398,590,61,37,22,5,32463.0
+2024-03-18,Google Ads,Search - Brand,13741.0,12749,605,68,41,24,6,29971.0
+2024-03-18,Google Ads,Search - Non-Brand,19212.0,25987,913,83,57,30,6,36032.0
+2024-03-18,Google Ads,Shopping - Bestsellers,8200.0,6190,277,25,16,9,2,10799.0
+2024-03-18,LinkedIn Ads,InMail - Account Based Marketing,9963.0,10650,64,3,2,1,0,0.0
+2024-03-18,LinkedIn Ads,Lead Gen Forms - Enterprise,13555.0,13171,103,7,5,3,1,22443.0
+2024-03-18,LinkedIn Ads,Sponsored Content - Decision Makers,14411.0,11669,103,5,4,2,1,22638.0
+2024-03-18,Meta Ads,Advantage+ Shopping,15804.0,76573,1644,108,55,25,4,19400.0
+2024-03-18,Meta Ads,Prospecting - Lookalike 1%,17272.0,48477,1029,63,28,12,2,6784.0
+2024-03-18,Meta Ads,Retargeting - Cart Abandoners,11805.0,44669,1116,84,50,26,4,13210.0
+2024-03-18,Meta Ads,Video Views - Brand Awareness,10651.0,30212,697,36,20,10,1,3721.0
+2024-03-18,YouTube,Bumper Ads - Retargeting,7988.0,105091,921,23,11,3,0,0.0
+2024-03-18,YouTube,Discovery Ads - Product Demo,11407.0,109455,1923,73,29,9,1,4377.0
+2024-03-18,YouTube,In-Stream - Brand Awareness,12089.0,114285,1573,52,24,10,1,5288.0
+2024-03-25,Affiliate,Cashback Partners,5971.0,39348,1337,106,54,22,4,18629.0
+2024-03-25,Affiliate,Content & Review Partners,7600.0,45855,935,58,28,14,3,11963.0
+2024-03-25,Affiliate,Coupon & Deals Partners,9477.0,64601,2355,209,112,52,11,50652.0
+2024-03-25,Email,Abandoned Cart Series,2492.0,18091,530,90,54,35,11,43783.0
+2024-03-25,Email,Post-Purchase Upsell,2180.0,21244,717,164,104,57,16,59701.0
+2024-03-25,Email,Weekly Newsletter,2766.0,36171,962,217,156,92,24,80900.0
+2024-03-25,Email,Win-Back Campaign,1943.0,10447,360,82,57,32,10,38766.0
+2024-03-25,Google Ads,Performance Max - New Customers,22351.0,36873,1358,123,82,39,10,58438.0
+2024-03-25,Google Ads,Search - Brand,14230.0,14928,610,59,41,23,4,26374.0
+2024-03-25,Google Ads,Search - Non-Brand,24490.0,24460,1192,106,74,41,9,41391.0
+2024-03-25,Google Ads,Shopping - Bestsellers,9067.0,17063,564,62,41,20,5,22630.0
+2024-03-25,LinkedIn Ads,InMail - Account Based Marketing,10251.0,10926,74,3,2,1,0,0.0
+2024-03-25,LinkedIn Ads,Lead Gen Forms - Enterprise,15097.0,26086,131,6,5,3,1,17589.0
+2024-03-25,LinkedIn Ads,Sponsored Content - Decision Makers,16326.0,19452,116,7,4,2,1,22354.0
+2024-03-25,Meta Ads,Advantage+ Shopping,16333.0,39113,1001,59,29,14,2,7614.0
+2024-03-25,Meta Ads,Prospecting - Lookalike 1%,17986.0,53763,1307,87,45,20,3,13525.0
+2024-03-25,Meta Ads,Retargeting - Cart Abandoners,12429.0,38102,733,57,31,15,2,10220.0
+2024-03-25,Meta Ads,Video Views - Brand Awareness,10204.0,37082,679,56,29,15,2,8068.0
+2024-03-25,YouTube,Bumper Ads - Retargeting,7341.0,74499,763,23,10,3,0,0.0
+2024-03-25,YouTube,Discovery Ads - Product Demo,10346.0,109143,991,22,10,4,1,3862.0
+2024-03-25,YouTube,In-Stream - Brand Awareness,11786.0,120243,1746,59,21,8,1,4943.0
+2024-04-01,Affiliate,Cashback Partners,6245.0,28226,835,70,36,15,3,11981.0
+2024-04-01,Affiliate,Content & Review Partners,7977.0,38072,1403,118,54,27,4,19264.0
+2024-04-01,Affiliate,Coupon & Deals Partners,9510.0,50808,1352,114,59,31,6,21994.0
+2024-04-01,Email,Abandoned Cart Series,2518.0,13364,488,75,53,33,11,44260.0
+2024-04-01,Email,Post-Purchase Upsell,1908.0,18599,614,123,91,53,16,51661.0
+2024-04-01,Email,Weekly Newsletter,2975.0,16589,566,105,67,39,12,37446.0
+2024-04-01,Email,Win-Back Campaign,1689.0,17968,542,116,78,52,15,52366.0
+2024-04-01,Google Ads,Performance Max - New Customers,22753.0,26667,882,97,54,31,7,33466.0
+2024-04-01,Google Ads,Search - Brand,16497.0,12659,582,69,38,18,3,16530.0
+2024-04-01,Google Ads,Search - Non-Brand,23762.0,18586,911,83,55,26,5,29809.0
+2024-04-01,Google Ads,Shopping - Bestsellers,9201.0,9417,486,50,34,18,4,18877.0
+2024-04-01,LinkedIn Ads,InMail - Account Based Marketing,10115.0,18567,109,7,5,3,1,21014.0
+2024-04-01,LinkedIn Ads,Lead Gen Forms - Enterprise,14703.0,15451,106,6,4,2,1,19023.0
+2024-04-01,LinkedIn Ads,Sponsored Content - Decision Makers,16118.0,19040,148,9,6,4,1,23839.0
+2024-04-01,Meta Ads,Advantage+ Shopping,12502.0,36804,948,82,46,21,4,12346.0
+2024-04-01,Meta Ads,Prospecting - Lookalike 1%,15778.0,43390,1269,80,43,19,3,12082.0
+2024-04-01,Meta Ads,Retargeting - Cart Abandoners,11735.0,63774,1063,58,35,16,2,10193.0
+2024-04-01,Meta Ads,Video Views - Brand Awareness,10145.0,20043,580,35,16,8,1,4151.0
+2024-04-01,YouTube,Bumper Ads - Retargeting,8221.0,122779,1523,54,21,8,1,3611.0
+2024-04-01,YouTube,Discovery Ads - Product Demo,9840.0,148175,1257,40,18,8,1,5237.0
+2024-04-01,YouTube,In-Stream - Brand Awareness,11785.0,241382,2016,42,16,6,1,4073.0
+2024-04-08,Affiliate,Cashback Partners,6294.0,39842,866,69,31,14,3,11545.0
+2024-04-08,Affiliate,Content & Review Partners,8183.0,48545,1049,92,55,25,5,20561.0
+2024-04-08,Affiliate,Coupon & Deals Partners,8796.0,26551,982,73,36,18,3,14855.0
+2024-04-08,Email,Abandoned Cart Series,2931.0,24249,869,197,138,83,25,78112.0
+2024-04-08,Email,Post-Purchase Upsell,2015.0,13086,459,108,71,40,11,42997.0
+2024-04-08,Email,Weekly Newsletter,2500.0,19794,559,93,64,39,11,38097.0
+2024-04-08,Email,Win-Back Campaign,1908.0,12525,503,114,72,40,11,41813.0
+2024-04-08,Google Ads,Performance Max - New Customers,20483.0,24998,909,99,59,27,6,32659.0
+2024-04-08,Google Ads,Search - Brand,14614.0,12584,579,64,44,21,5,26444.0
+2024-04-08,Google Ads,Search - Non-Brand,22876.0,36834,1277,123,73,38,8,46369.0
+2024-04-08,Google Ads,Shopping - Bestsellers,9774.0,8969,388,44,28,16,3,18397.0
+2024-04-08,LinkedIn Ads,InMail - Account Based Marketing,9594.0,13459,92,6,4,2,1,19821.0
+2024-04-08,LinkedIn Ads,Lead Gen Forms - Enterprise,13133.0,17458,96,4,3,2,0,0.0
+2024-04-08,LinkedIn Ads,Sponsored Content - Decision Makers,14743.0,12422,107,6,4,2,0,0.0
+2024-04-08,Meta Ads,Advantage+ Shopping,16271.0,44319,922,61,30,14,2,8906.0
+2024-04-08,Meta Ads,Prospecting - Lookalike 1%,18046.0,70953,1490,82,39,17,3,13652.0
+2024-04-08,Meta Ads,Retargeting - Cart Abandoners,14135.0,44317,1109,92,53,26,4,16499.0
+2024-04-08,Meta Ads,Video Views - Brand Awareness,10349.0,33060,926,59,35,15,2,8361.0
+2024-04-08,YouTube,Bumper Ads - Retargeting,7431.0,49340,745,28,10,3,0,0.0
+2024-04-08,YouTube,Discovery Ads - Product Demo,11004.0,168810,1429,55,23,9,1,5088.0
+2024-04-08,YouTube,In-Stream - Brand Awareness,11737.0,281002,2263,63,31,13,2,9135.0
+2024-04-15,Affiliate,Cashback Partners,6958.0,58862,1545,132,66,33,7,33199.0
+2024-04-15,Affiliate,Content & Review Partners,7352.0,47565,1198,111,61,30,7,25433.0
+2024-04-15,Affiliate,Coupon & Deals Partners,9529.0,34805,1301,112,66,36,7,32714.0
+2024-04-15,Email,Abandoned Cart Series,2747.0,18296,706,164,114,67,20,72056.0
+2024-04-15,Email,Post-Purchase Upsell,1995.0,21835,572,110,74,49,15,64603.0
+2024-04-15,Email,Weekly Newsletter,2488.0,17709,707,166,108,63,18,63500.0
+2024-04-15,Email,Win-Back Campaign,1723.0,10365,317,61,38,22,7,28886.0
+2024-04-15,Google Ads,Performance Max - New Customers,17648.0,22266,861,79,47,27,5,31099.0
+2024-04-15,Google Ads,Search - Brand,14248.0,13967,548,58,38,22,5,27540.0
+2024-04-15,Google Ads,Search - Non-Brand,21836.0,19803,758,90,56,26,5,31262.0
+2024-04-15,Google Ads,Shopping - Bestsellers,10723.0,13925,488,53,30,15,4,26360.0
+2024-04-15,LinkedIn Ads,InMail - Account Based Marketing,10226.0,7781,67,3,2,1,0,0.0
+2024-04-15,LinkedIn Ads,Lead Gen Forms - Enterprise,15494.0,15288,117,7,5,3,1,15489.0
+2024-04-15,LinkedIn Ads,Sponsored Content - Decision Makers,16842.0,17927,153,11,7,5,1,16970.0
+2024-04-15,Meta Ads,Advantage+ Shopping,14933.0,46186,838,45,26,12,2,10220.0
+2024-04-15,Meta Ads,Prospecting - Lookalike 1%,15837.0,38091,875,64,34,14,2,7160.0
+2024-04-15,Meta Ads,Retargeting - Cart Abandoners,13348.0,38356,862,46,21,9,1,4338.0
+2024-04-15,Meta Ads,Video Views - Brand Awareness,11514.0,44465,713,53,31,17,2,7742.0
+2024-04-15,YouTube,Bumper Ads - Retargeting,8280.0,67608,891,27,10,4,0,0.0
+2024-04-15,YouTube,Discovery Ads - Product Demo,10840.0,195766,2064,70,28,9,1,3690.0
+2024-04-15,YouTube,In-Stream - Brand Awareness,13051.0,204401,2013,66,25,10,1,4280.0
+2024-04-22,Affiliate,Cashback Partners,5766.0,31248,658,61,29,12,3,10508.0
+2024-04-22,Affiliate,Content & Review Partners,6477.0,41168,947,71,37,20,4,15606.0
+2024-04-22,Affiliate,Coupon & Deals Partners,8651.0,70398,2030,133,66,35,8,37865.0
+2024-04-22,Email,Abandoned Cart Series,2941.0,19878,559,94,67,43,14,48590.0
+2024-04-22,Email,Post-Purchase Upsell,2091.0,14072,629,135,97,64,19,83781.0
+2024-04-22,Email,Weekly Newsletter,2775.0,15803,631,149,99,64,18,73921.0
+2024-04-22,Email,Win-Back Campaign,2072.0,15744,455,73,52,30,10,38356.0
+2024-04-22,Google Ads,Performance Max - New Customers,20271.0,27076,910,105,64,34,6,28788.0
+2024-04-22,Google Ads,Search - Brand,14369.0,11541,532,53,35,16,3,16666.0
+2024-04-22,Google Ads,Search - Non-Brand,20756.0,22835,1113,139,88,51,13,61250.0
+2024-04-22,Google Ads,Shopping - Bestsellers,11266.0,18387,674,65,41,22,5,22925.0
+2024-04-22,LinkedIn Ads,InMail - Account Based Marketing,8946.0,15627,89,6,5,3,1,20743.0
+2024-04-22,LinkedIn Ads,Lead Gen Forms - Enterprise,13037.0,10625,93,5,4,2,1,22187.0
+2024-04-22,LinkedIn Ads,Sponsored Content - Decision Makers,14194.0,15502,126,9,6,4,1,15210.0
+2024-04-22,Meta Ads,Advantage+ Shopping,13671.0,39596,981,52,27,13,2,7637.0
+2024-04-22,Meta Ads,Prospecting - Lookalike 1%,14611.0,47946,916,58,27,13,2,7901.0
+2024-04-22,Meta Ads,Retargeting - Cart Abandoners,11730.0,36842,633,45,22,9,1,3121.0
+2024-04-22,Meta Ads,Video Views - Brand Awareness,8633.0,35029,771,69,41,23,3,9532.0
+2024-04-22,YouTube,Bumper Ads - Retargeting,6289.0,57619,660,16,8,3,0,0.0
+2024-04-22,YouTube,Discovery Ads - Product Demo,9100.0,122494,1418,52,25,8,1,3975.0
+2024-04-22,YouTube,In-Stream - Brand Awareness,10861.0,136842,2171,51,25,8,1,4813.0
+2024-04-29,Affiliate,Cashback Partners,6470.0,49785,1358,117,57,29,5,19068.0
+2024-04-29,Affiliate,Content & Review Partners,8351.0,60169,1288,126,63,25,5,21828.0
+2024-04-29,Affiliate,Coupon & Deals Partners,9274.0,41956,1308,124,71,36,6,22498.0
+2024-04-29,Email,Abandoned Cart Series,2347.0,20702,521,115,78,49,15,56619.0
+2024-04-29,Email,Post-Purchase Upsell,1861.0,14379,389,82,52,32,9,36858.0
+2024-04-29,Email,Weekly Newsletter,2796.0,27486,842,182,118,78,26,95133.0
+2024-04-29,Email,Win-Back Campaign,1777.0,15952,531,122,76,45,12,43688.0
+2024-04-29,Google Ads,Performance Max - New Customers,20520.0,22791,957,102,58,29,7,40515.0
+2024-04-29,Google Ads,Search - Brand,15026.0,12749,573,64,43,20,4,22348.0
+2024-04-29,Google Ads,Search - Non-Brand,20014.0,16282,678,78,53,28,7,39842.0
+2024-04-29,Google Ads,Shopping - Bestsellers,8732.0,11376,408,35,24,12,3,17150.0
+2024-04-29,LinkedIn Ads,InMail - Account Based Marketing,8406.0,10286,58,3,2,1,0,0.0
+2024-04-29,LinkedIn Ads,Lead Gen Forms - Enterprise,14396.0,14644,107,7,5,3,1,19524.0
+2024-04-29,LinkedIn Ads,Sponsored Content - Decision Makers,14513.0,14601,134,7,5,3,1,15792.0
+2024-04-29,Meta Ads,Advantage+ Shopping,14179.0,45678,1322,68,37,18,2,7992.0
+2024-04-29,Meta Ads,Prospecting - Lookalike 1%,15091.0,100489,1651,112,56,24,4,15143.0
+2024-04-29,Meta Ads,Retargeting - Cart Abandoners,13972.0,53067,1225,70,37,16,2,8694.0
+2024-04-29,Meta Ads,Video Views - Brand Awareness,8707.0,29306,537,31,15,8,1,5083.0
+2024-04-29,YouTube,Bumper Ads - Retargeting,8046.0,68398,765,28,10,4,1,4005.0
+2024-04-29,YouTube,Discovery Ads - Product Demo,11653.0,99276,1018,24,11,4,0,0.0
+2024-04-29,YouTube,In-Stream - Brand Awareness,12957.0,187471,1520,58,25,11,1,5093.0
+2024-05-06,Affiliate,Cashback Partners,5596.0,28323,975,80,39,16,3,11839.0
+2024-05-06,Affiliate,Content & Review Partners,7249.0,30084,954,68,32,16,3,13302.0
+2024-05-06,Affiliate,Coupon & Deals Partners,7998.0,45267,1528,127,60,29,5,20691.0
+2024-05-06,Email,Abandoned Cart Series,2649.0,16495,707,123,91,52,16,55387.0
+2024-05-06,Email,Post-Purchase Upsell,1817.0,18557,636,138,89,51,16,55228.0
+2024-05-06,Email,Weekly Newsletter,2529.0,14980,472,94,67,39,11,34119.0
+2024-05-06,Email,Win-Back Campaign,1669.0,15742,600,103,70,49,14,42734.0
+2024-05-06,Google Ads,Performance Max - New Customers,17407.0,10685,552,53,35,20,4,18690.0
+2024-05-06,Google Ads,Search - Brand,11654.0,9573,428,53,34,18,4,25549.0
+2024-05-06,Google Ads,Search - Non-Brand,19443.0,12993,619,74,42,24,5,28084.0
+2024-05-06,Google Ads,Shopping - Bestsellers,7468.0,6284,263,33,20,12,3,18438.0
+2024-05-06,LinkedIn Ads,InMail - Account Based Marketing,9635.0,10082,84,5,3,2,1,16321.0
+2024-05-06,LinkedIn Ads,Lead Gen Forms - Enterprise,13622.0,14305,97,7,5,3,1,17115.0
+2024-05-06,LinkedIn Ads,Sponsored Content - Decision Makers,13002.0,8746,86,5,3,2,0,0.0
+2024-05-06,Meta Ads,Advantage+ Shopping,16110.0,61753,1167,70,34,16,3,15267.0
+2024-05-06,Meta Ads,Prospecting - Lookalike 1%,16277.0,41272,1179,83,42,21,3,9819.0
+2024-05-06,Meta Ads,Retargeting - Cart Abandoners,12209.0,36323,1006,66,38,18,3,9893.0
+2024-05-06,Meta Ads,Video Views - Brand Awareness,9780.0,31102,676,56,32,14,3,11608.0
+2024-05-06,YouTube,Bumper Ads - Retargeting,6980.0,81759,822,31,12,4,0,0.0
+2024-05-06,YouTube,Discovery Ads - Product Demo,8333.0,82957,1470,49,17,7,1,3650.0
+2024-05-06,YouTube,In-Stream - Brand Awareness,10204.0,94001,1140,25,12,4,0,0.0
+2024-05-13,Affiliate,Cashback Partners,5052.0,33760,802,79,37,18,3,13101.0
+2024-05-13,Affiliate,Content & Review Partners,6614.0,40066,1312,83,41,17,3,13105.0
+2024-05-13,Affiliate,Coupon & Deals Partners,9936.0,53373,1583,135,70,37,6,29818.0
+2024-05-13,Email,Abandoned Cart Series,2412.0,13297,518,109,72,48,13,42037.0
+2024-05-13,Email,Post-Purchase Upsell,1889.0,12192,402,69,44,25,6,26758.0
+2024-05-13,Email,Weekly Newsletter,2829.0,23785,838,187,131,87,28,106676.0
+2024-05-13,Email,Win-Back Campaign,1645.0,13178,504,86,60,38,10,33876.0
+2024-05-13,Google Ads,Performance Max - New Customers,17571.0,18418,591,62,41,18,4,25482.0
+2024-05-13,Google Ads,Search - Brand,12686.0,8714,440,52,29,15,3,13921.0
+2024-05-13,Google Ads,Search - Non-Brand,19569.0,15037,714,85,56,32,6,29496.0
+2024-05-13,Google Ads,Shopping - Bestsellers,8887.0,9149,449,44,30,15,3,15820.0
+2024-05-13,LinkedIn Ads,InMail - Account Based Marketing,10188.0,15985,102,7,4,3,1,23234.0
+2024-05-13,LinkedIn Ads,Lead Gen Forms - Enterprise,12815.0,24943,129,6,5,3,1,18843.0
+2024-05-13,LinkedIn Ads,Sponsored Content - Decision Makers,15699.0,15206,143,7,4,3,1,19767.0
+2024-05-13,Meta Ads,Advantage+ Shopping,15541.0,60791,1054,72,36,16,3,11044.0
+2024-05-13,Meta Ads,Prospecting - Lookalike 1%,17876.0,63978,1115,82,38,20,3,13588.0
+2024-05-13,Meta Ads,Retargeting - Cart Abandoners,14126.0,62544,1307,99,51,22,3,11684.0
+2024-05-13,Meta Ads,Video Views - Brand Awareness,9738.0,23132,534,40,18,8,1,4683.0
+2024-05-13,YouTube,Bumper Ads - Retargeting,7543.0,101886,1270,34,14,5,0,0.0
+2024-05-13,YouTube,Discovery Ads - Product Demo,10290.0,144671,1164,46,22,8,1,4453.0
+2024-05-13,YouTube,In-Stream - Brand Awareness,12503.0,119321,1893,60,24,7,1,3982.0
+2024-05-20,Affiliate,Cashback Partners,5509.0,34928,831,50,28,14,3,11315.0
+2024-05-20,Affiliate,Content & Review Partners,8638.0,44558,1088,88,49,22,4,18310.0
+2024-05-20,Affiliate,Coupon & Deals Partners,9525.0,43844,1230,106,54,23,4,14611.0
+2024-05-20,Email,Abandoned Cart Series,2404.0,11061,496,88,66,39,12,51889.0
+2024-05-20,Email,Post-Purchase Upsell,1672.0,11564,319,64,40,28,9,30157.0
+2024-05-20,Email,Weekly Newsletter,2157.0,11024,422,80,56,38,10,33656.0
+2024-05-20,Email,Win-Back Campaign,1455.0,12752,467,106,65,44,12,43312.0
+2024-05-20,Google Ads,Performance Max - New Customers,17676.0,24777,974,85,50,22,5,28980.0
+2024-05-20,Google Ads,Search - Brand,14176.0,22140,746,74,48,28,7,35364.0
+2024-05-20,Google Ads,Search - Non-Brand,19028.0,24051,1046,131,86,46,10,64137.0
+2024-05-20,Google Ads,Shopping - Bestsellers,8512.0,7318,375,43,27,13,3,14752.0
+2024-05-20,LinkedIn Ads,InMail - Account Based Marketing,8425.0,10155,54,3,2,1,0,0.0
+2024-05-20,LinkedIn Ads,Lead Gen Forms - Enterprise,13090.0,17795,102,5,4,2,1,18563.0
+2024-05-20,LinkedIn Ads,Sponsored Content - Decision Makers,12523.0,13786,123,9,7,4,1,20362.0
+2024-05-20,Meta Ads,Advantage+ Shopping,15198.0,45378,1244,101,53,27,4,17188.0
+2024-05-20,Meta Ads,Prospecting - Lookalike 1%,14992.0,67483,1339,99,54,27,5,18245.0
+2024-05-20,Meta Ads,Retargeting - Cart Abandoners,13463.0,47087,922,80,37,19,3,15041.0
+2024-05-20,Meta Ads,Video Views - Brand Awareness,10579.0,39033,869,76,44,23,3,15577.0
+2024-05-20,YouTube,Bumper Ads - Retargeting,5632.0,33835,473,15,8,3,0,0.0
+2024-05-20,YouTube,Discovery Ads - Product Demo,8580.0,99205,903,31,15,5,0,0.0
+2024-05-20,YouTube,In-Stream - Brand Awareness,9006.0,83274,1183,28,12,5,0,0.0
+2024-05-27,Affiliate,Cashback Partners,5752.0,35202,1313,105,50,22,5,22255.0
+2024-05-27,Affiliate,Content & Review Partners,8316.0,46394,1020,74,36,19,3,11868.0
+2024-05-27,Affiliate,Coupon & Deals Partners,10655.0,39509,1475,147,84,46,9,38210.0
+2024-05-27,Email,Abandoned Cart Series,2075.0,16101,597,97,66,39,12,36509.0
+2024-05-27,Email,Post-Purchase Upsell,1836.0,12369,458,82,58,39,12,40850.0
+2024-05-27,Email,Weekly Newsletter,2385.0,15521,642,129,86,56,16,51078.0
+2024-05-27,Email,Win-Back Campaign,1624.0,19340,611,93,62,41,11,45131.0
+2024-05-27,Google Ads,Performance Max - New Customers,20025.0,15476,747,91,60,29,6,27745.0
+2024-05-27,Google Ads,Search - Brand,14415.0,12574,589,64,41,21,4,20438.0
+2024-05-27,Google Ads,Search - Non-Brand,18062.0,15991,602,65,43,25,5,27239.0
+2024-05-27,Google Ads,Shopping - Bestsellers,9279.0,7019,297,30,17,10,2,8981.0
+2024-05-27,LinkedIn Ads,InMail - Account Based Marketing,9723.0,9392,75,4,3,2,0,0.0
+2024-05-27,LinkedIn Ads,Lead Gen Forms - Enterprise,13732.0,12418,95,5,3,2,0,0.0
+2024-05-27,LinkedIn Ads,Sponsored Content - Decision Makers,13208.0,23872,145,10,7,5,1,18194.0
+2024-05-27,Meta Ads,Advantage+ Shopping,12079.0,42568,941,57,26,13,2,7829.0
+2024-05-27,Meta Ads,Prospecting - Lookalike 1%,14639.0,39343,1061,92,51,25,4,16491.0
+2024-05-27,Meta Ads,Retargeting - Cart Abandoners,11684.0,56310,1270,107,60,31,4,16655.0
+2024-05-27,Meta Ads,Video Views - Brand Awareness,8219.0,26501,572,39,21,8,1,3156.0
+2024-05-27,YouTube,Bumper Ads - Retargeting,6580.0,56574,555,15,7,3,0,0.0
+2024-05-27,YouTube,Discovery Ads - Product Demo,9161.0,72007,1095,37,14,4,0,0.0
+2024-05-27,YouTube,In-Stream - Brand Awareness,10259.0,118108,1381,31,13,5,0,0.0
+2024-06-03,Affiliate,Cashback Partners,5334.0,25081,930,62,36,16,2,7121.0
+2024-06-03,Affiliate,Content & Review Partners,8071.0,28569,952,86,44,21,3,13179.0
+2024-06-03,Affiliate,Coupon & Deals Partners,8876.0,30785,1044,93,48,26,5,20677.0
+2024-06-03,Email,Abandoned Cart Series,2508.0,12426,473,75,47,30,8,35140.0
+2024-06-03,Email,Post-Purchase Upsell,1849.0,8231,345,61,41,24,7,21683.0
+2024-06-03,Email,Weekly Newsletter,2382.0,23852,598,100,70,47,12,46054.0
+2024-06-03,Email,Win-Back Campaign,1910.0,11575,357,77,54,30,8,26481.0
+2024-06-03,Google Ads,Performance Max - New Customers,15606.0,15476,647,64,39,22,5,24864.0
+2024-06-03,Google Ads,Search - Brand,11645.0,11819,500,49,27,13,3,13599.0
+2024-06-03,Google Ads,Search - Non-Brand,20429.0,27807,1058,107,65,29,6,37788.0
+2024-06-03,Google Ads,Shopping - Bestsellers,8487.0,10263,427,48,28,14,3,13521.0
+2024-06-03,LinkedIn Ads,InMail - Account Based Marketing,9752.0,12275,70,3,2,1,0,0.0
+2024-06-03,LinkedIn Ads,Lead Gen Forms - Enterprise,13173.0,15589,92,7,4,3,1,23325.0
+2024-06-03,LinkedIn Ads,Sponsored Content - Decision Makers,16281.0,16607,156,9,6,3,1,17828.0
+2024-06-03,Meta Ads,Advantage+ Shopping,14523.0,32250,961,73,43,22,3,13616.0
+2024-06-03,Meta Ads,Prospecting - Lookalike 1%,14277.0,52218,1003,85,43,21,3,9128.0
+2024-06-03,Meta Ads,Retargeting - Cart Abandoners,12002.0,38163,836,74,41,23,3,14208.0
+2024-06-03,Meta Ads,Video Views - Brand Awareness,9179.0,18620,505,27,13,5,1,3178.0
+2024-06-03,YouTube,Bumper Ads - Retargeting,7882.0,85859,782,31,15,7,1,4546.0
+2024-06-03,YouTube,Discovery Ads - Product Demo,11647.0,192771,1791,69,26,11,1,4654.0
+2024-06-03,YouTube,In-Stream - Brand Awareness,10761.0,71545,1139,29,13,4,0,0.0
+2024-06-10,Affiliate,Cashback Partners,5690.0,42624,1044,103,49,20,4,15836.0
+2024-06-10,Affiliate,Content & Review Partners,6747.0,27646,899,85,48,23,4,14035.0
+2024-06-10,Affiliate,Coupon & Deals Partners,9133.0,50892,1630,129,60,27,4,14377.0
+2024-06-10,Email,Abandoned Cart Series,2164.0,23949,729,118,87,52,15,67422.0
+2024-06-10,Email,Post-Purchase Upsell,1697.0,9941,390,93,58,34,11,43405.0
+2024-06-10,Email,Weekly Newsletter,2698.0,12676,538,88,63,36,10,37733.0
+2024-06-10,Email,Win-Back Campaign,1761.0,10816,472,80,50,32,9,37759.0
+2024-06-10,Google Ads,Performance Max - New Customers,18954.0,21468,1019,121,71,42,9,51548.0
+2024-06-10,Google Ads,Search - Brand,14200.0,23413,771,70,48,22,4,17875.0
+2024-06-10,Google Ads,Search - Non-Brand,18376.0,19246,709,76,49,28,5,31387.0
+2024-06-10,Google Ads,Shopping - Bestsellers,10285.0,9783,472,46,31,17,3,15933.0
+2024-06-10,LinkedIn Ads,InMail - Account Based Marketing,10366.0,12710,71,5,3,2,0,0.0
+2024-06-10,LinkedIn Ads,Lead Gen Forms - Enterprise,13660.0,17734,110,6,4,2,1,20385.0
+2024-06-10,LinkedIn Ads,Sponsored Content - Decision Makers,17147.0,13582,116,6,4,2,1,18694.0
+2024-06-10,Meta Ads,Advantage+ Shopping,14823.0,52748,1344,86,45,19,3,10224.0
+2024-06-10,Meta Ads,Prospecting - Lookalike 1%,16281.0,48858,938,66,31,17,2,6450.0
+2024-06-10,Meta Ads,Retargeting - Cart Abandoners,11953.0,42233,701,52,29,15,2,6271.0
+2024-06-10,Meta Ads,Video Views - Brand Awareness,10062.0,34957,1036,80,38,15,2,6672.0
+2024-06-10,YouTube,Bumper Ads - Retargeting,6190.0,52219,802,32,15,6,1,3641.0
+2024-06-10,YouTube,Discovery Ads - Product Demo,10898.0,136859,1097,22,10,4,0,0.0
+2024-06-10,YouTube,In-Stream - Brand Awareness,9906.0,81893,1166,39,15,6,1,4357.0
+2024-06-17,Affiliate,Cashback Partners,6048.0,53579,1469,100,60,32,7,27607.0
+2024-06-17,Affiliate,Content & Review Partners,6815.0,44012,1432,136,79,42,8,37466.0
+2024-06-17,Affiliate,Coupon & Deals Partners,8290.0,36720,1377,121,63,28,5,22084.0
+2024-06-17,Email,Abandoned Cart Series,2401.0,18861,729,119,75,51,13,39475.0
+2024-06-17,Email,Post-Purchase Upsell,1806.0,12342,522,122,88,53,14,60749.0
+2024-06-17,Email,Weekly Newsletter,2117.0,11994,436,88,64,38,10,39207.0
+2024-06-17,Email,Win-Back Campaign,1674.0,14173,467,104,65,42,12,37877.0
+2024-06-17,Google Ads,Performance Max - New Customers,20198.0,38889,1257,157,100,47,11,69705.0
+2024-06-17,Google Ads,Search - Brand,11907.0,18562,723,62,36,20,5,30124.0
+2024-06-17,Google Ads,Search - Non-Brand,19000.0,14320,628,57,32,18,3,16548.0
+2024-06-17,Google Ads,Shopping - Bestsellers,9111.0,9373,351,31,20,10,2,12479.0
+2024-06-17,LinkedIn Ads,InMail - Account Based Marketing,10889.0,9581,85,5,3,2,0,0.0
+2024-06-17,LinkedIn Ads,Lead Gen Forms - Enterprise,13729.0,15411,117,7,4,3,1,20029.0
+2024-06-17,LinkedIn Ads,Sponsored Content - Decision Makers,13952.0,22540,133,9,6,3,1,18535.0
+2024-06-17,Meta Ads,Advantage+ Shopping,14970.0,48062,1088,86,42,22,3,10292.0
+2024-06-17,Meta Ads,Prospecting - Lookalike 1%,16199.0,61065,1078,78,38,21,3,13833.0
+2024-06-17,Meta Ads,Retargeting - Cart Abandoners,12674.0,74551,1310,86,50,24,4,18891.0
+2024-06-17,Meta Ads,Video Views - Brand Awareness,9564.0,44709,771,44,23,12,2,6134.0
+2024-06-17,YouTube,Bumper Ads - Retargeting,6600.0,63374,1114,37,17,7,1,3825.0
+2024-06-17,YouTube,Discovery Ads - Product Demo,10604.0,110934,1715,53,20,8,1,4531.0
+2024-06-17,YouTube,In-Stream - Brand Awareness,12455.0,91018,1602,39,14,5,1,4123.0
+2024-06-24,Affiliate,Cashback Partners,5537.0,21228,635,47,23,12,3,11480.0
+2024-06-24,Affiliate,Content & Review Partners,7032.0,32402,845,57,29,15,3,11469.0
+2024-06-24,Affiliate,Coupon & Deals Partners,8955.0,58277,1813,166,97,43,8,33458.0
+2024-06-24,Email,Abandoned Cart Series,2524.0,23817,711,153,110,76,20,86678.0
+2024-06-24,Email,Post-Purchase Upsell,1699.0,9136,320,72,46,30,9,39476.0
+2024-06-24,Email,Weekly Newsletter,2654.0,17435,533,86,59,38,10,38771.0
+2024-06-24,Email,Win-Back Campaign,1792.0,12449,389,59,40,24,7,30735.0
+2024-06-24,Google Ads,Performance Max - New Customers,17318.0,22689,769,93,56,31,6,39092.0
+2024-06-24,Google Ads,Search - Brand,12929.0,13264,656,62,40,21,4,23563.0
+2024-06-24,Google Ads,Search - Non-Brand,19985.0,16900,797,99,61,32,6,36908.0
+2024-06-24,Google Ads,Shopping - Bestsellers,7952.0,8425,414,50,29,15,4,25330.0
+2024-06-24,LinkedIn Ads,InMail - Account Based Marketing,9498.0,7843,64,4,3,2,0,0.0
+2024-06-24,LinkedIn Ads,Lead Gen Forms - Enterprise,12428.0,18056,136,9,6,3,1,22356.0
+2024-06-24,LinkedIn Ads,Sponsored Content - Decision Makers,15140.0,10740,95,5,3,2,1,20023.0
+2024-06-24,Meta Ads,Advantage+ Shopping,13491.0,67964,1432,121,60,30,4,15127.0
+2024-06-24,Meta Ads,Prospecting - Lookalike 1%,17230.0,49728,1461,125,62,32,5,20630.0
+2024-06-24,Meta Ads,Retargeting - Cart Abandoners,12194.0,26428,711,57,34,16,3,14692.0
+2024-06-24,Meta Ads,Video Views - Brand Awareness,9576.0,32688,930,52,31,13,2,8661.0
+2024-06-24,YouTube,Bumper Ads - Retargeting,6708.0,34728,577,16,6,2,0,0.0
+2024-06-24,YouTube,Discovery Ads - Product Demo,8950.0,76077,1350,48,23,10,1,4069.0
+2024-06-24,YouTube,In-Stream - Brand Awareness,11646.0,214194,2035,66,32,13,1,5441.0
+2024-07-01,Affiliate,Cashback Partners,4439.0,47010,1003,84,48,21,5,23440.0
+2024-07-01,Affiliate,Content & Review Partners,6919.0,36505,1313,126,75,32,5,22179.0
+2024-07-01,Affiliate,Coupon & Deals Partners,7573.0,65707,1446,100,47,21,4,16732.0
+2024-07-01,Email,Abandoned Cart Series,2122.0,13583,541,130,83,50,14,58029.0
+2024-07-01,Email,Post-Purchase Upsell,1645.0,11951,500,93,57,34,10,43744.0
+2024-07-01,Email,Weekly Newsletter,2076.0,14403,388,80,49,28,8,30616.0
+2024-07-01,Email,Win-Back Campaign,1435.0,9342,317,65,47,29,9,30604.0
+2024-07-01,Google Ads,Performance Max - New Customers,18558.0,21668,832,91,58,30,7,45205.0
+2024-07-01,Google Ads,Search - Brand,12502.0,9622,449,52,33,15,4,25217.0
+2024-07-01,Google Ads,Search - Non-Brand,20012.0,31512,1137,130,72,43,9,53842.0
+2024-07-01,Google Ads,Shopping - Bestsellers,8423.0,11124,440,44,25,12,3,15441.0
+2024-07-01,LinkedIn Ads,InMail - Account Based Marketing,7989.0,13019,68,4,3,2,0,0.0
+2024-07-01,LinkedIn Ads,Lead Gen Forms - Enterprise,11423.0,17985,111,8,5,3,1,16109.0
+2024-07-01,LinkedIn Ads,Sponsored Content - Decision Makers,14231.0,11276,94,5,3,2,0,0.0
+2024-07-01,Meta Ads,Advantage+ Shopping,12137.0,27022,660,47,27,12,2,6013.0
+2024-07-01,Meta Ads,Prospecting - Lookalike 1%,12100.0,52042,1241,102,52,24,4,16691.0
+2024-07-01,Meta Ads,Retargeting - Cart Abandoners,11295.0,32029,823,74,37,15,2,8435.0
+2024-07-01,Meta Ads,Video Views - Brand Awareness,8338.0,16947,454,38,19,10,2,8722.0
+2024-07-01,YouTube,Bumper Ads - Retargeting,5413.0,39246,646,20,8,3,0,0.0
+2024-07-01,YouTube,Discovery Ads - Product Demo,7618.0,112506,1240,25,12,4,0,0.0
+2024-07-01,YouTube,In-Stream - Brand Awareness,9417.0,60463,812,24,9,3,0,0.0
+2024-07-08,Affiliate,Cashback Partners,5390.0,44279,1105,69,41,21,4,17453.0
+2024-07-08,Affiliate,Content & Review Partners,7075.0,32317,919,57,26,11,2,9394.0
+2024-07-08,Affiliate,Coupon & Deals Partners,7993.0,50494,1842,165,91,46,8,39202.0
+2024-07-08,Email,Abandoned Cart Series,2125.0,12339,452,76,46,28,7,25148.0
+2024-07-08,Email,Post-Purchase Upsell,1560.0,14266,570,117,77,50,17,51872.0
+2024-07-08,Email,Weekly Newsletter,2153.0,13052,579,131,81,52,17,70584.0
+2024-07-08,Email,Win-Back Campaign,1642.0,12702,326,51,36,22,6,25250.0
+2024-07-08,Google Ads,Performance Max - New Customers,17531.0,17893,846,102,70,42,10,64966.0
+2024-07-08,Google Ads,Search - Brand,12827.0,15499,730,88,52,25,5,27742.0
+2024-07-08,Google Ads,Search - Non-Brand,20347.0,30688,1010,105,73,40,9,41792.0
+2024-07-08,Google Ads,Shopping - Bestsellers,8362.0,12059,459,49,28,16,4,22373.0
+2024-07-08,LinkedIn Ads,InMail - Account Based Marketing,7875.0,7550,70,5,4,2,0,0.0
+2024-07-08,LinkedIn Ads,Lead Gen Forms - Enterprise,10506.0,12322,116,8,5,3,1,24195.0
+2024-07-08,LinkedIn Ads,Sponsored Content - Decision Makers,14657.0,15219,125,9,6,3,1,15546.0
+2024-07-08,Meta Ads,Advantage+ Shopping,11466.0,47561,1119,66,37,20,3,14789.0
+2024-07-08,Meta Ads,Prospecting - Lookalike 1%,12525.0,54350,863,69,40,21,3,15202.0
+2024-07-08,Meta Ads,Retargeting - Cart Abandoners,9673.0,25502,704,37,17,7,1,4786.0
+2024-07-08,Meta Ads,Video Views - Brand Awareness,8133.0,26458,469,25,14,6,1,4521.0
+2024-07-08,YouTube,Bumper Ads - Retargeting,6012.0,51050,571,20,7,3,0,0.0
+2024-07-08,YouTube,Discovery Ads - Product Demo,8273.0,66618,850,32,12,4,0,0.0
+2024-07-08,YouTube,In-Stream - Brand Awareness,8508.0,70381,789,18,8,3,0,0.0
+2024-07-15,Affiliate,Cashback Partners,4659.0,19365,618,54,28,14,3,11575.0
+2024-07-15,Affiliate,Content & Review Partners,7039.0,31155,804,69,31,16,3,11438.0
+2024-07-15,Affiliate,Coupon & Deals Partners,8366.0,66996,1698,119,63,28,6,26111.0
+2024-07-15,Email,Abandoned Cart Series,2169.0,12043,432,80,56,38,11,40019.0
+2024-07-15,Email,Post-Purchase Upsell,1665.0,18253,521,110,74,45,12,52040.0
+2024-07-15,Email,Weekly Newsletter,2245.0,17099,572,106,67,45,13,56300.0
+2024-07-15,Email,Win-Back Campaign,1635.0,11468,384,84,55,34,10,44803.0
+2024-07-15,Google Ads,Performance Max - New Customers,17873.0,23518,947,98,57,32,8,50593.0
+2024-07-15,Google Ads,Search - Brand,11384.0,12505,613,66,44,22,4,21163.0
+2024-07-15,Google Ads,Search - Non-Brand,19284.0,18818,680,83,47,28,5,24910.0
+2024-07-15,Google Ads,Shopping - Bestsellers,7932.0,8760,324,31,18,10,3,18331.0
+2024-07-15,LinkedIn Ads,InMail - Account Based Marketing,9026.0,9959,89,5,4,2,1,21180.0
+2024-07-15,LinkedIn Ads,Lead Gen Forms - Enterprise,11272.0,12558,124,9,5,3,1,17585.0
+2024-07-15,LinkedIn Ads,Sponsored Content - Decision Makers,14561.0,19255,157,11,8,5,1,15757.0
+2024-07-15,Meta Ads,Advantage+ Shopping,13402.0,51246,899,71,34,18,2,8297.0
+2024-07-15,Meta Ads,Prospecting - Lookalike 1%,14915.0,41185,1076,64,34,17,3,13915.0
+2024-07-15,Meta Ads,Retargeting - Cart Abandoners,11345.0,34614,825,46,24,10,1,4126.0
+2024-07-15,Meta Ads,Video Views - Brand Awareness,8963.0,36090,797,67,39,17,2,9169.0
+2024-07-15,YouTube,Bumper Ads - Retargeting,6269.0,113778,966,20,7,3,0,0.0
+2024-07-15,YouTube,Discovery Ads - Product Demo,7915.0,81404,1210,26,12,4,0,0.0
+2024-07-15,YouTube,In-Stream - Brand Awareness,10837.0,58742,955,36,13,5,1,5275.0
+2024-07-22,Affiliate,Cashback Partners,4784.0,18268,546,52,30,12,2,8011.0
+2024-07-22,Affiliate,Content & Review Partners,6360.0,33018,769,59,35,15,3,12726.0
+2024-07-22,Affiliate,Coupon & Deals Partners,8896.0,39412,1096,85,51,27,5,24327.0
+2024-07-22,Email,Abandoned Cart Series,1926.0,19795,542,88,53,34,11,43256.0
+2024-07-22,Email,Post-Purchase Upsell,1768.0,9158,408,64,40,27,7,25025.0
+2024-07-22,Email,Weekly Newsletter,2402.0,31161,846,132,87,54,15,52868.0
+2024-07-22,Email,Win-Back Campaign,1409.0,5790,258,50,31,20,7,29176.0
+2024-07-22,Google Ads,Performance Max - New Customers,16794.0,15804,653,66,42,20,5,31001.0
+2024-07-22,Google Ads,Search - Brand,12838.0,12274,524,54,31,14,4,21842.0
+2024-07-22,Google Ads,Search - Non-Brand,21399.0,26676,1149,107,63,29,5,32085.0
+2024-07-22,Google Ads,Shopping - Bestsellers,9281.0,11266,395,48,29,13,3,18443.0
+2024-07-22,LinkedIn Ads,InMail - Account Based Marketing,9124.0,14590,96,7,5,3,1,19153.0
+2024-07-22,LinkedIn Ads,Lead Gen Forms - Enterprise,11698.0,8870,89,7,4,3,1,24856.0
+2024-07-22,LinkedIn Ads,Sponsored Content - Decision Makers,13260.0,9493,86,6,4,3,1,22037.0
+2024-07-22,Meta Ads,Advantage+ Shopping,15197.0,42359,1191,67,34,14,2,6663.0
+2024-07-22,Meta Ads,Prospecting - Lookalike 1%,13732.0,36302,827,63,32,15,2,9329.0
+2024-07-22,Meta Ads,Retargeting - Cart Abandoners,10861.0,23995,647,52,23,10,2,8620.0
+2024-07-22,Meta Ads,Video Views - Brand Awareness,8359.0,21675,499,25,11,5,1,3397.0
+2024-07-22,YouTube,Bumper Ads - Retargeting,6258.0,91849,972,26,9,3,0,0.0
+2024-07-22,YouTube,Discovery Ads - Product Demo,9007.0,58196,845,30,12,5,1,4637.0
+2024-07-22,YouTube,In-Stream - Brand Awareness,11060.0,171655,1896,56,20,9,1,4865.0
+2024-07-29,Affiliate,Cashback Partners,4729.0,21589,540,47,22,12,2,9935.0
+2024-07-29,Affiliate,Content & Review Partners,6407.0,41839,903,84,48,20,4,19755.0
+2024-07-29,Affiliate,Coupon & Deals Partners,8006.0,38851,1347,90,50,23,4,15064.0
+2024-07-29,Email,Abandoned Cart Series,2366.0,26608,666,147,106,59,18,71847.0
+2024-07-29,Email,Post-Purchase Upsell,1872.0,14629,491,86,60,37,12,42417.0
+2024-07-29,Email,Weekly Newsletter,2142.0,22877,831,155,106,63,21,81627.0
+2024-07-29,Email,Win-Back Campaign,1392.0,11212,335,51,37,23,7,28590.0
+2024-07-29,Google Ads,Performance Max - New Customers,17125.0,15042,620,69,44,23,6,30924.0
+2024-07-29,Google Ads,Search - Brand,13918.0,13383,485,59,36,20,4,26342.0
+2024-07-29,Google Ads,Search - Non-Brand,18657.0,26670,1098,99,57,31,6,38568.0
+2024-07-29,Google Ads,Shopping - Bestsellers,8258.0,6287,308,27,16,10,2,13164.0
+2024-07-29,LinkedIn Ads,InMail - Account Based Marketing,8936.0,7452,59,3,2,1,0,0.0
+2024-07-29,LinkedIn Ads,Lead Gen Forms - Enterprise,10896.0,17323,91,7,5,3,1,20089.0
+2024-07-29,LinkedIn Ads,Sponsored Content - Decision Makers,14648.0,15727,132,9,6,4,1,16065.0
+2024-07-29,Meta Ads,Advantage+ Shopping,13256.0,71446,1409,120,70,29,4,15356.0
+2024-07-29,Meta Ads,Prospecting - Lookalike 1%,13941.0,45156,934,54,25,11,1,3678.0
+2024-07-29,Meta Ads,Retargeting - Cart Abandoners,13081.0,36711,756,55,30,15,2,7304.0
+2024-07-29,Meta Ads,Video Views - Brand Awareness,8925.0,40088,613,51,31,15,2,8323.0
+2024-07-29,YouTube,Bumper Ads - Retargeting,7190.0,91081,979,35,14,6,1,4219.0
+2024-07-29,YouTube,Discovery Ads - Product Demo,9941.0,64079,977,34,12,4,0,0.0
+2024-07-29,YouTube,In-Stream - Brand Awareness,10984.0,139322,1115,24,11,5,1,4826.0
+2024-08-05,Affiliate,Cashback Partners,5094.0,29982,783,56,27,14,2,8277.0
+2024-08-05,Affiliate,Content & Review Partners,8429.0,41013,1049,83,46,23,4,17074.0
+2024-08-05,Affiliate,Coupon & Deals Partners,8633.0,47530,1184,77,36,20,4,14303.0
+2024-08-05,Email,Abandoned Cart Series,1858.0,15119,614,113,69,39,11,44846.0
+2024-08-05,Email,Post-Purchase Upsell,1458.0,19977,541,122,83,58,17,67032.0
+2024-08-05,Email,Weekly Newsletter,2421.0,15171,486,103,69,46,13,49445.0
+2024-08-05,Email,Win-Back Campaign,1436.0,7194,303,55,39,22,6,18878.0
+2024-08-05,Google Ads,Performance Max - New Customers,15972.0,13271,599,67,37,18,4,24448.0
+2024-08-05,Google Ads,Search - Brand,13484.0,12699,647,64,43,22,5,29918.0
+2024-08-05,Google Ads,Search - Non-Brand,19520.0,15840,640,71,43,22,5,23384.0
+2024-08-05,Google Ads,Shopping - Bestsellers,9620.0,10633,482,43,26,12,2,11769.0
+2024-08-05,LinkedIn Ads,InMail - Account Based Marketing,9101.0,11038,63,4,3,2,0,0.0
+2024-08-05,LinkedIn Ads,Lead Gen Forms - Enterprise,11381.0,8998,82,4,3,1,0,0.0
+2024-08-05,LinkedIn Ads,Sponsored Content - Decision Makers,12072.0,11810,78,5,4,2,0,0.0
+2024-08-05,Meta Ads,Advantage+ Shopping,13821.0,65503,1470,112,59,26,4,20537.0
+2024-08-05,Meta Ads,Prospecting - Lookalike 1%,13096.0,56299,882,73,38,17,2,10265.0
+2024-08-05,Meta Ads,Retargeting - Cart Abandoners,10548.0,57388,1003,77,46,20,3,10839.0
+2024-08-05,Meta Ads,Video Views - Brand Awareness,8496.0,20598,553,33,19,8,1,3247.0
+2024-08-05,YouTube,Bumper Ads - Retargeting,7065.0,76290,897,34,16,7,1,3987.0
+2024-08-05,YouTube,Discovery Ads - Product Demo,8043.0,43928,699,28,13,5,1,4113.0
+2024-08-05,YouTube,In-Stream - Brand Awareness,9843.0,189215,1959,52,21,9,1,4278.0
+2024-08-12,Affiliate,Cashback Partners,5595.0,33417,1268,112,60,28,5,23532.0
+2024-08-12,Affiliate,Content & Review Partners,7058.0,37614,1070,105,62,32,6,29092.0
+2024-08-12,Affiliate,Coupon & Deals Partners,9394.0,67189,1835,124,69,32,6,28876.0
+2024-08-12,Email,Abandoned Cart Series,1911.0,10448,428,78,53,30,10,31643.0
+2024-08-12,Email,Post-Purchase Upsell,1462.0,9678,271,53,34,22,7,25171.0
+2024-08-12,Email,Weekly Newsletter,2272.0,14244,621,145,92,59,18,69188.0
+2024-08-12,Email,Win-Back Campaign,1395.0,9896,411,88,53,30,10,36058.0
+2024-08-12,Google Ads,Performance Max - New Customers,20812.0,18250,702,75,47,25,5,24686.0
+2024-08-12,Google Ads,Search - Brand,12830.0,11298,520,64,41,20,4,20420.0
+2024-08-12,Google Ads,Search - Non-Brand,23093.0,22560,1031,89,54,31,7,37637.0
+2024-08-12,Google Ads,Shopping - Bestsellers,10354.0,6883,336,42,28,16,4,21829.0
+2024-08-12,LinkedIn Ads,InMail - Account Based Marketing,8541.0,7590,70,3,2,1,0,0.0
+2024-08-12,LinkedIn Ads,Lead Gen Forms - Enterprise,11218.0,11957,91,5,4,2,1,24969.0
+2024-08-12,LinkedIn Ads,Sponsored Content - Decision Makers,12976.0,13175,90,6,4,3,1,24353.0
+2024-08-12,Meta Ads,Advantage+ Shopping,12959.0,55458,988,79,40,19,3,14791.0
+2024-08-12,Meta Ads,Prospecting - Lookalike 1%,14350.0,36283,1007,90,42,19,3,12161.0
+2024-08-12,Meta Ads,Retargeting - Cart Abandoners,11372.0,24381,648,33,17,8,1,3287.0
+2024-08-12,Meta Ads,Video Views - Brand Awareness,7766.0,39258,766,51,25,13,2,6373.0
+2024-08-12,YouTube,Bumper Ads - Retargeting,6900.0,48721,855,21,8,3,0,0.0
+2024-08-12,YouTube,Discovery Ads - Product Demo,8610.0,145921,1363,48,20,6,1,4843.0
+2024-08-12,YouTube,In-Stream - Brand Awareness,10012.0,110360,1205,43,17,7,1,4707.0
+2024-08-19,Affiliate,Cashback Partners,5479.0,41066,1217,106,53,21,4,14241.0
+2024-08-19,Affiliate,Content & Review Partners,6812.0,26332,968,88,50,22,4,19352.0
+2024-08-19,Affiliate,Coupon & Deals Partners,8541.0,53751,1212,97,52,26,4,14574.0
+2024-08-19,Email,Abandoned Cart Series,2448.0,26942,827,171,107,64,19,63501.0
+2024-08-19,Email,Post-Purchase Upsell,1670.0,9063,311,73,45,26,8,27239.0
+2024-08-19,Email,Weekly Newsletter,2671.0,16223,540,102,75,42,11,36396.0
+2024-08-19,Email,Win-Back Campaign,1813.0,14436,606,117,72,41,12,42363.0
+2024-08-19,Google Ads,Performance Max - New Customers,15994.0,13836,719,67,38,20,4,25810.0
+2024-08-19,Google Ads,Search - Brand,12115.0,12183,460,44,28,14,3,18586.0
+2024-08-19,Google Ads,Search - Non-Brand,21057.0,35057,1127,111,74,43,8,48828.0
+2024-08-19,Google Ads,Shopping - Bestsellers,9826.0,16517,574,67,40,23,5,23230.0
+2024-08-19,LinkedIn Ads,InMail - Account Based Marketing,7885.0,9383,64,4,3,2,0,0.0
+2024-08-19,LinkedIn Ads,Lead Gen Forms - Enterprise,10840.0,14328,83,5,3,2,1,20095.0
+2024-08-19,LinkedIn Ads,Sponsored Content - Decision Makers,12127.0,14391,101,5,3,2,0,0.0
+2024-08-19,Meta Ads,Advantage+ Shopping,12432.0,62425,982,50,30,14,2,7209.0
+2024-08-19,Meta Ads,Prospecting - Lookalike 1%,15531.0,34123,887,64,36,18,2,8423.0
+2024-08-19,Meta Ads,Retargeting - Cart Abandoners,12417.0,41121,1020,71,37,15,2,9809.0
+2024-08-19,Meta Ads,Video Views - Brand Awareness,9752.0,32696,846,52,24,12,1,4487.0
+2024-08-19,YouTube,Bumper Ads - Retargeting,6216.0,70553,1061,24,9,3,0,0.0
+2024-08-19,YouTube,Discovery Ads - Product Demo,8859.0,71173,744,23,10,4,1,4710.0
+2024-08-19,YouTube,In-Stream - Brand Awareness,9463.0,55930,921,25,9,4,0,0.0
+2024-08-26,Affiliate,Cashback Partners,5260.0,45529,941,72,38,17,3,12161.0
+2024-08-26,Affiliate,Content & Review Partners,6847.0,33536,877,71,42,18,3,14485.0
+2024-08-26,Affiliate,Coupon & Deals Partners,9614.0,40088,1069,65,34,15,3,13702.0
+2024-08-26,Email,Abandoned Cart Series,2104.0,9873,412,62,41,28,7,26603.0
+2024-08-26,Email,Post-Purchase Upsell,1594.0,12212,401,90,56,39,12,47012.0
+2024-08-26,Email,Weekly Newsletter,2035.0,18617,746,131,98,56,16,56998.0
+2024-08-26,Email,Win-Back Campaign,1416.0,11341,379,70,52,32,11,44991.0
+2024-08-26,Google Ads,Performance Max - New Customers,19527.0,18886,902,107,72,37,7,42332.0
+2024-08-26,Google Ads,Search - Brand,12683.0,12937,557,58,38,21,5,32994.0
+2024-08-26,Google Ads,Search - Non-Brand,20708.0,25383,1182,147,88,46,10,45131.0
+2024-08-26,Google Ads,Shopping - Bestsellers,10054.0,8451,421,38,26,12,2,11149.0
+2024-08-26,LinkedIn Ads,InMail - Account Based Marketing,8302.0,11799,73,5,3,2,1,15919.0
+2024-08-26,LinkedIn Ads,Lead Gen Forms - Enterprise,11513.0,11021,77,4,2,1,0,0.0
+2024-08-26,LinkedIn Ads,Sponsored Content - Decision Makers,12013.0,10268,94,6,4,2,1,15568.0
+2024-08-26,Meta Ads,Advantage+ Shopping,14482.0,66592,1363,114,55,29,4,16305.0
+2024-08-26,Meta Ads,Prospecting - Lookalike 1%,15071.0,34902,903,46,26,14,2,7207.0
+2024-08-26,Meta Ads,Retargeting - Cart Abandoners,12241.0,46345,1154,93,42,20,3,11003.0
+2024-08-26,Meta Ads,Video Views - Brand Awareness,7668.0,18094,486,41,24,12,2,8225.0
+2024-08-26,YouTube,Bumper Ads - Retargeting,7407.0,103181,833,20,10,4,1,4120.0
+2024-08-26,YouTube,Discovery Ads - Product Demo,9762.0,186263,1496,37,14,5,1,4276.0
+2024-08-26,YouTube,In-Stream - Brand Awareness,11861.0,122046,1597,63,26,11,1,3948.0
+2024-09-02,Affiliate,Cashback Partners,6719.0,29588,1041,100,52,29,4,15658.0
+2024-09-02,Affiliate,Content & Review Partners,9583.0,47839,1697,108,56,25,4,16235.0
+2024-09-02,Affiliate,Coupon & Deals Partners,11915.0,51970,1644,152,72,32,5,20122.0
+2024-09-02,Email,Abandoned Cart Series,2416.0,15041,513,103,72,47,15,49652.0
+2024-09-02,Email,Post-Purchase Upsell,1957.0,8400,372,63,46,27,8,24156.0
+2024-09-02,Email,Weekly Newsletter,2840.0,16555,631,107,73,44,14,53505.0
+2024-09-02,Email,Win-Back Campaign,1694.0,12648,376,60,37,22,8,25887.0
+2024-09-02,Google Ads,Performance Max - New Customers,18426.0,15617,657,76,47,24,5,24292.0
+2024-09-02,Google Ads,Search - Brand,12808.0,19645,800,93,52,28,7,33387.0
+2024-09-02,Google Ads,Search - Non-Brand,19697.0,13652,662,70,47,22,5,30116.0
+2024-09-02,Google Ads,Shopping - Bestsellers,10373.0,17183,579,53,31,18,4,26315.0
+2024-09-02,LinkedIn Ads,InMail - Account Based Marketing,9284.0,14981,101,6,4,3,1,17812.0
+2024-09-02,LinkedIn Ads,Lead Gen Forms - Enterprise,13573.0,9956,92,5,4,2,1,24090.0
+2024-09-02,LinkedIn Ads,Sponsored Content - Decision Makers,16374.0,14773,134,10,7,4,1,21446.0
+2024-09-02,Meta Ads,Advantage+ Shopping,18238.0,53583,1493,88,41,22,4,14672.0
+2024-09-02,Meta Ads,Prospecting - Lookalike 1%,19289.0,58360,1082,76,42,18,2,10303.0
+2024-09-02,Meta Ads,Retargeting - Cart Abandoners,14683.0,67957,1357,89,49,26,5,22169.0
+2024-09-02,Meta Ads,Video Views - Brand Awareness,11658.0,42969,853,52,25,12,2,8254.0
+2024-09-02,YouTube,Bumper Ads - Retargeting,8045.0,56757,837,29,14,5,0,0.0
+2024-09-02,YouTube,Discovery Ads - Product Demo,10921.0,95045,1011,30,13,5,1,4861.0
+2024-09-02,YouTube,In-Stream - Brand Awareness,13761.0,142171,1163,45,19,8,1,4629.0
+2024-09-09,Affiliate,Cashback Partners,6957.0,32933,1047,83,46,21,3,14940.0
+2024-09-09,Affiliate,Content & Review Partners,7890.0,52951,1429,129,67,29,6,26970.0
+2024-09-09,Affiliate,Coupon & Deals Partners,10759.0,52898,1599,153,75,39,7,29650.0
+2024-09-09,Email,Abandoned Cart Series,2367.0,23445,745,125,85,55,16,58249.0
+2024-09-09,Email,Post-Purchase Upsell,2253.0,18104,657,117,70,49,13,57975.0
+2024-09-09,Email,Weekly Newsletter,2590.0,22177,562,108,76,42,14,49585.0
+2024-09-09,Email,Win-Back Campaign,1962.0,15395,577,133,84,54,18,68304.0
+2024-09-09,Google Ads,Performance Max - New Customers,17720.0,16574,692,66,40,23,5,28173.0
+2024-09-09,Google Ads,Search - Brand,15107.0,16352,652,78,54,32,6,29315.0
+2024-09-09,Google Ads,Search - Non-Brand,22674.0,23543,1099,118,75,43,10,44585.0
+2024-09-09,Google Ads,Shopping - Bestsellers,9661.0,11197,475,46,29,16,3,13207.0
+2024-09-09,LinkedIn Ads,InMail - Account Based Marketing,10041.0,13101,80,5,3,2,1,20406.0
+2024-09-09,LinkedIn Ads,Lead Gen Forms - Enterprise,16393.0,16656,119,6,4,2,1,22633.0
+2024-09-09,LinkedIn Ads,Sponsored Content - Decision Makers,14887.0,15337,106,8,6,3,1,15882.0
+2024-09-09,Meta Ads,Advantage+ Shopping,16340.0,82931,1519,88,40,19,2,7201.0
+2024-09-09,Meta Ads,Prospecting - Lookalike 1%,18507.0,42214,1203,65,36,19,3,10288.0
+2024-09-09,Meta Ads,Retargeting - Cart Abandoners,12640.0,49643,1078,68,33,17,2,7498.0
+2024-09-09,Meta Ads,Video Views - Brand Awareness,11240.0,33914,618,39,20,11,2,6555.0
+2024-09-09,YouTube,Bumper Ads - Retargeting,7493.0,89936,1454,51,20,8,1,3786.0
+2024-09-09,YouTube,Discovery Ads - Product Demo,9584.0,60330,951,30,12,4,0,0.0
+2024-09-09,YouTube,In-Stream - Brand Awareness,10882.0,83554,1032,31,15,5,0,0.0
+2024-09-16,Affiliate,Cashback Partners,6590.0,44190,1118,107,52,27,4,17860.0
+2024-09-16,Affiliate,Content & Review Partners,9268.0,51589,1804,174,82,42,8,39028.0
+2024-09-16,Affiliate,Coupon & Deals Partners,11403.0,54252,1780,116,58,24,4,14128.0
+2024-09-16,Email,Abandoned Cart Series,2365.0,21455,723,123,83,54,17,73791.0
+2024-09-16,Email,Post-Purchase Upsell,2142.0,18656,471,104,65,39,11,38485.0
+2024-09-16,Email,Weekly Newsletter,3149.0,16033,583,140,100,63,19,62537.0
+2024-09-16,Email,Win-Back Campaign,2128.0,10998,411,69,51,30,8,27811.0
+2024-09-16,Google Ads,Performance Max - New Customers,18623.0,20847,1026,100,61,28,6,29895.0
+2024-09-16,Google Ads,Search - Brand,16210.0,17365,615,74,46,24,6,27185.0
+2024-09-16,Google Ads,Search - Non-Brand,20693.0,22712,816,91,53,25,5,26650.0
+2024-09-16,Google Ads,Shopping - Bestsellers,10364.0,10798,537,66,37,17,3,17289.0
+2024-09-16,LinkedIn Ads,InMail - Account Based Marketing,10602.0,9583,93,4,3,2,0,0.0
+2024-09-16,LinkedIn Ads,Lead Gen Forms - Enterprise,13503.0,20734,124,9,6,3,1,21861.0
+2024-09-16,LinkedIn Ads,Sponsored Content - Decision Makers,16703.0,22701,134,8,5,3,1,23760.0
+2024-09-16,Meta Ads,Advantage+ Shopping,14167.0,75644,1174,72,39,17,2,6582.0
+2024-09-16,Meta Ads,Prospecting - Lookalike 1%,16208.0,32435,916,50,27,11,2,10032.0
+2024-09-16,Meta Ads,Retargeting - Cart Abandoners,13087.0,56198,1331,88,50,23,4,14409.0
+2024-09-16,Meta Ads,Video Views - Brand Awareness,8917.0,17231,502,26,15,8,1,3765.0
+2024-09-16,YouTube,Bumper Ads - Retargeting,7962.0,56701,821,21,9,3,0,0.0
+2024-09-16,YouTube,Discovery Ads - Product Demo,11443.0,62289,1076,25,11,4,0,0.0
+2024-09-16,YouTube,In-Stream - Brand Awareness,12456.0,78462,1080,34,15,6,0,0.0
+2024-09-23,Affiliate,Cashback Partners,5692.0,30331,1022,90,54,24,4,16269.0
+2024-09-23,Affiliate,Content & Review Partners,8838.0,30744,1109,106,53,23,5,18595.0
+2024-09-23,Affiliate,Coupon & Deals Partners,9679.0,83401,2091,190,106,46,8,29164.0
+2024-09-23,Email,Abandoned Cart Series,2566.0,27008,951,165,110,68,19,70860.0
+2024-09-23,Email,Post-Purchase Upsell,1916.0,15366,645,145,104,67,21,86262.0
+2024-09-23,Email,Weekly Newsletter,2599.0,33065,841,185,138,90,27,117777.0
+2024-09-23,Email,Win-Back Campaign,1892.0,15737,666,142,86,49,13,40204.0
+2024-09-23,Google Ads,Performance Max - New Customers,19385.0,19840,867,78,47,22,4,25222.0
+2024-09-23,Google Ads,Search - Brand,15872.0,11684,565,60,42,19,4,20451.0
+2024-09-23,Google Ads,Search - Non-Brand,24315.0,20027,964,88,62,32,7,45752.0
+2024-09-23,Google Ads,Shopping - Bestsellers,10192.0,11670,469,48,31,18,4,21045.0
+2024-09-23,LinkedIn Ads,InMail - Account Based Marketing,10948.0,13428,114,7,5,3,1,22414.0
+2024-09-23,LinkedIn Ads,Lead Gen Forms - Enterprise,13803.0,14373,87,6,4,2,1,24672.0
+2024-09-23,LinkedIn Ads,Sponsored Content - Decision Makers,16038.0,15010,125,9,6,4,1,18176.0
+2024-09-23,Meta Ads,Advantage+ Shopping,15424.0,76687,1492,80,41,17,2,9492.0
+2024-09-23,Meta Ads,Prospecting - Lookalike 1%,16851.0,36998,959,66,32,16,3,11640.0
+2024-09-23,Meta Ads,Retargeting - Cart Abandoners,14186.0,49197,1091,77,44,24,4,15012.0
+2024-09-23,Meta Ads,Video Views - Brand Awareness,9602.0,22271,635,46,22,10,2,8229.0
+2024-09-23,YouTube,Bumper Ads - Retargeting,7853.0,86926,1125,29,15,5,1,5336.0
+2024-09-23,YouTube,Discovery Ads - Product Demo,10067.0,84048,1081,24,11,4,0,0.0
+2024-09-23,YouTube,In-Stream - Brand Awareness,13559.0,184874,1633,33,15,5,0,0.0
+2024-09-30,Affiliate,Cashback Partners,6737.0,40517,1146,71,38,19,3,11650.0
+2024-09-30,Affiliate,Content & Review Partners,9549.0,38955,1176,81,48,26,5,24879.0
+2024-09-30,Affiliate,Coupon & Deals Partners,10534.0,41247,1205,110,63,30,6,24282.0
+2024-09-30,Email,Abandoned Cart Series,2562.0,32140,996,236,155,91,26,89752.0
+2024-09-30,Email,Post-Purchase Upsell,2032.0,10521,430,98,63,39,10,30365.0
+2024-09-30,Email,Weekly Newsletter,3148.0,16274,669,134,85,48,14,43925.0
+2024-09-30,Email,Win-Back Campaign,2071.0,18411,470,92,56,36,12,52335.0
+2024-09-30,Google Ads,Performance Max - New Customers,22359.0,16497,725,81,45,27,6,38595.0
+2024-09-30,Google Ads,Search - Brand,15026.0,14525,599,67,42,21,4,20932.0
+2024-09-30,Google Ads,Search - Non-Brand,20588.0,23750,1103,111,65,35,8,39731.0
+2024-09-30,Google Ads,Shopping - Bestsellers,10563.0,20053,657,74,47,21,5,31374.0
+2024-09-30,LinkedIn Ads,InMail - Account Based Marketing,9392.0,9536,88,6,4,2,0,0.0
+2024-09-30,LinkedIn Ads,Lead Gen Forms - Enterprise,13210.0,12267,95,7,5,3,1,22921.0
+2024-09-30,LinkedIn Ads,Sponsored Content - Decision Makers,17669.0,30354,162,10,6,3,1,17864.0
+2024-09-30,Meta Ads,Advantage+ Shopping,16273.0,101002,1714,129,62,27,5,18145.0
+2024-09-30,Meta Ads,Prospecting - Lookalike 1%,16493.0,60123,1143,85,39,18,3,10711.0
+2024-09-30,Meta Ads,Retargeting - Cart Abandoners,13703.0,52969,1046,91,45,20,3,13923.0
+2024-09-30,Meta Ads,Video Views - Brand Awareness,8993.0,44364,960,72,42,17,2,8331.0
+2024-09-30,YouTube,Bumper Ads - Retargeting,7832.0,105256,1259,41,20,8,1,4910.0
+2024-09-30,YouTube,Discovery Ads - Product Demo,9710.0,109920,1402,53,25,8,1,5060.0
+2024-09-30,YouTube,In-Stream - Brand Awareness,11865.0,86484,1547,50,22,7,1,3668.0
+2024-10-07,Affiliate,Cashback Partners,11040.0,77321,2398,200,106,50,10,47777.0
+2024-10-07,Affiliate,Content & Review Partners,14666.0,113665,2709,222,104,46,7,27860.0
+2024-10-07,Affiliate,Coupon & Deals Partners,18664.0,85114,2090,196,93,39,8,33350.0
+2024-10-07,Email,Abandoned Cart Series,3774.0,32343,1401,227,150,96,26,86786.0
+2024-10-07,Email,Post-Purchase Upsell,3038.0,20822,618,134,86,50,14,60500.0
+2024-10-07,Email,Weekly Newsletter,4393.0,32284,1354,264,197,132,43,178880.0
+2024-10-07,Email,Win-Back Campaign,2954.0,21395,824,129,87,50,15,47615.0
+2024-10-07,Google Ads,Performance Max - New Customers,33885.0,28555,1128,100,67,35,8,52486.0
+2024-10-07,Google Ads,Search - Brand,24100.0,31383,1498,147,100,51,11,54942.0
+2024-10-07,Google Ads,Search - Non-Brand,33480.0,28115,1179,126,87,52,12,57753.0
+2024-10-07,Google Ads,Shopping - Bestsellers,16994.0,18918,745,76,43,24,6,30154.0
+2024-10-07,LinkedIn Ads,InMail - Account Based Marketing,14924.0,15452,132,6,4,2,1,22061.0
+2024-10-07,LinkedIn Ads,Lead Gen Forms - Enterprise,21199.0,29492,166,11,8,5,1,17734.0
+2024-10-07,LinkedIn Ads,Sponsored Content - Decision Makers,26686.0,49411,293,18,13,7,1,17613.0
+2024-10-07,Meta Ads,Advantage+ Shopping,26390.0,81540,1709,86,44,18,2,7895.0
+2024-10-07,Meta Ads,Prospecting - Lookalike 1%,26809.0,63421,1470,98,59,24,4,16415.0
+2024-10-07,Meta Ads,Retargeting - Cart Abandoners,21557.0,52329,1183,80,39,20,3,10415.0
+2024-10-07,Meta Ads,Video Views - Brand Awareness,14532.0,49777,1236,77,46,25,4,20509.0
+2024-10-07,YouTube,Bumper Ads - Retargeting,10493.0,68667,993,25,11,4,0,0.0
+2024-10-07,YouTube,Discovery Ads - Product Demo,17785.0,263602,2285,68,28,9,1,5448.0
+2024-10-07,YouTube,In-Stream - Brand Awareness,20449.0,266110,2660,78,30,10,1,5035.0
+2024-10-14,Affiliate,Cashback Partners,9291.0,54227,2046,164,82,44,9,38207.0
+2024-10-14,Affiliate,Content & Review Partners,12788.0,77460,2677,257,127,54,10,48224.0
+2024-10-14,Affiliate,Coupon & Deals Partners,17199.0,139229,3993,321,154,64,10,35559.0
+2024-10-14,Email,Abandoned Cart Series,4457.0,39511,1128,268,199,123,34,136702.0
+2024-10-14,Email,Post-Purchase Upsell,3068.0,18530,613,108,80,46,15,46397.0
+2024-10-14,Email,Weekly Newsletter,4025.0,29934,979,217,162,102,30,105437.0
+2024-10-14,Email,Win-Back Campaign,3085.0,24418,772,137,89,50,16,50519.0
+2024-10-14,Google Ads,Performance Max - New Customers,29108.0,23297,934,110,76,35,8,50537.0
+2024-10-14,Google Ads,Search - Brand,25755.0,37068,1572,163,106,50,11,57517.0
+2024-10-14,Google Ads,Search - Non-Brand,36458.0,53131,2191,232,135,64,12,61885.0
+2024-10-14,Google Ads,Shopping - Bestsellers,16632.0,17907,727,63,40,24,6,26933.0
+2024-10-14,LinkedIn Ads,InMail - Account Based Marketing,17114.0,15324,116,6,5,3,1,23734.0
+2024-10-14,LinkedIn Ads,Lead Gen Forms - Enterprise,25858.0,34175,232,15,11,7,2,33752.0
+2024-10-14,LinkedIn Ads,Sponsored Content - Decision Makers,26850.0,31660,175,9,6,3,1,15740.0
+2024-10-14,Meta Ads,Advantage+ Shopping,24307.0,65531,1784,141,72,35,5,21369.0
+2024-10-14,Meta Ads,Prospecting - Lookalike 1%,27958.0,99388,1695,131,69,28,4,20407.0
+2024-10-14,Meta Ads,Retargeting - Cart Abandoners,22349.0,116014,2067,143,82,42,6,20755.0
+2024-10-14,Meta Ads,Video Views - Brand Awareness,17610.0,49254,1114,98,50,20,3,12304.0
+2024-10-14,YouTube,Bumper Ads - Retargeting,12797.0,279939,2288,82,35,15,1,4315.0
+2024-10-14,YouTube,Discovery Ads - Product Demo,18240.0,150443,1754,37,14,5,1,5012.0
+2024-10-14,YouTube,In-Stream - Brand Awareness,18883.0,132387,2317,67,32,14,1,4892.0
+2024-10-21,Affiliate,Cashback Partners,9812.0,34279,1104,73,39,21,3,13371.0
+2024-10-21,Affiliate,Content & Review Partners,11641.0,77838,2302,162,73,38,7,25194.0
+2024-10-21,Affiliate,Coupon & Deals Partners,16381.0,112355,3214,222,121,62,14,66694.0
+2024-10-21,Email,Abandoned Cart Series,4000.0,42902,1501,301,193,126,32,106017.0
+2024-10-21,Email,Post-Purchase Upsell,3227.0,22024,836,182,135,81,22,74715.0
+2024-10-21,Email,Weekly Newsletter,4440.0,34459,1230,207,142,81,26,100768.0
+2024-10-21,Email,Win-Back Campaign,3033.0,34470,1031,215,153,85,22,80722.0
+2024-10-21,Google Ads,Performance Max - New Customers,32919.0,45859,1730,214,121,70,16,99617.0
+2024-10-21,Google Ads,Search - Brand,24087.0,24043,791,97,65,31,6,37418.0
+2024-10-21,Google Ads,Search - Non-Brand,34801.0,28164,1417,153,93,48,9,58781.0
+2024-10-21,Google Ads,Shopping - Bestsellers,19212.0,12814,652,59,39,21,5,31888.0
+2024-10-21,LinkedIn Ads,InMail - Account Based Marketing,17547.0,31590,185,12,8,4,1,17148.0
+2024-10-21,LinkedIn Ads,Lead Gen Forms - Enterprise,24675.0,27709,165,8,6,3,1,17961.0
+2024-10-21,LinkedIn Ads,Sponsored Content - Decision Makers,30888.0,38687,203,15,10,6,1,23137.0
+2024-10-21,Meta Ads,Advantage+ Shopping,28046.0,189980,2880,158,75,40,6,21629.0
+2024-10-21,Meta Ads,Prospecting - Lookalike 1%,28215.0,91402,1748,134,74,34,5,16968.0
+2024-10-21,Meta Ads,Retargeting - Cart Abandoners,21832.0,45200,1294,95,47,24,4,14923.0
+2024-10-21,Meta Ads,Video Views - Brand Awareness,16435.0,65016,1269,70,39,16,3,10331.0
+2024-10-21,YouTube,Bumper Ads - Retargeting,11763.0,104605,1587,37,15,6,1,4537.0
+2024-10-21,YouTube,Discovery Ads - Product Demo,18300.0,131593,1623,64,29,9,1,4891.0
+2024-10-21,YouTube,In-Stream - Brand Awareness,19357.0,245233,3564,114,56,24,3,10615.0
+2024-10-28,Affiliate,Cashback Partners,11253.0,47988,1724,152,75,33,6,24357.0
+2024-10-28,Affiliate,Content & Review Partners,14795.0,87759,1776,164,98,40,8,39989.0
+2024-10-28,Affiliate,Coupon & Deals Partners,18510.0,107241,3896,284,130,54,10,35600.0
+2024-10-28,Email,Abandoned Cart Series,4147.0,29940,1119,211,135,83,21,85269.0
+2024-10-28,Email,Post-Purchase Upsell,2858.0,17815,577,106,75,47,13,55583.0
+2024-10-28,Email,Weekly Newsletter,4018.0,24581,785,128,87,61,16,66669.0
+2024-10-28,Email,Win-Back Campaign,2966.0,23854,867,148,92,60,16,66767.0
+2024-10-28,Google Ads,Performance Max - New Customers,33600.0,27314,1385,172,101,46,9,40854.0
+2024-10-28,Google Ads,Search - Brand,27723.0,28409,1168,117,71,36,7,31993.0
+2024-10-28,Google Ads,Search - Non-Brand,42298.0,36120,1828,200,111,53,10,65466.0
+2024-10-28,Google Ads,Shopping - Bestsellers,16698.0,13241,665,71,46,22,5,28796.0
+2024-10-28,LinkedIn Ads,InMail - Account Based Marketing,16069.0,26949,149,11,7,4,1,22102.0
+2024-10-28,LinkedIn Ads,Lead Gen Forms - Enterprise,22089.0,17410,144,9,7,3,1,21779.0
+2024-10-28,LinkedIn Ads,Sponsored Content - Decision Makers,24483.0,25141,212,13,9,5,1,19139.0
+2024-10-28,Meta Ads,Advantage+ Shopping,26506.0,80293,1726,103,57,28,4,16879.0
+2024-10-28,Meta Ads,Prospecting - Lookalike 1%,30908.0,184925,3014,265,138,68,8,28905.0
+2024-10-28,Meta Ads,Retargeting - Cart Abandoners,23067.0,67713,1291,105,57,24,3,10570.0
+2024-10-28,Meta Ads,Video Views - Brand Awareness,16125.0,49022,1020,66,31,15,2,7497.0
+2024-10-28,YouTube,Bumper Ads - Retargeting,12904.0,145904,2341,86,35,13,2,7768.0
+2024-10-28,YouTube,Discovery Ads - Product Demo,18788.0,124782,2152,52,26,8,1,5339.0
+2024-10-28,YouTube,In-Stream - Brand Awareness,23347.0,292435,2808,100,38,16,2,8576.0
+2024-11-04,Affiliate,Cashback Partners,10289.0,51007,1776,151,88,43,9,40903.0
+2024-11-04,Affiliate,Content & Review Partners,11850.0,53803,1346,82,48,22,4,14712.0
+2024-11-04,Affiliate,Coupon & Deals Partners,15357.0,57107,1867,137,66,28,4,17753.0
+2024-11-04,Email,Abandoned Cart Series,3596.0,28168,764,156,108,72,18,59479.0
+2024-11-04,Email,Post-Purchase Upsell,3483.0,38358,1163,185,133,93,26,90699.0
+2024-11-04,Email,Weekly Newsletter,3855.0,28196,1029,211,153,96,26,88205.0
+2024-11-04,Email,Win-Back Campaign,3120.0,21665,740,161,118,70,23,72750.0
+2024-11-04,Google Ads,Performance Max - New Customers,32752.0,29559,1057,94,59,31,7,37525.0
+2024-11-04,Google Ads,Search - Brand,28902.0,39636,1340,126,78,46,9,54861.0
+2024-11-04,Google Ads,Search - Non-Brand,39518.0,54358,2088,232,151,78,15,89823.0
+2024-11-04,Google Ads,Shopping - Bestsellers,19902.0,20138,837,85,48,26,5,29014.0
+2024-11-04,LinkedIn Ads,InMail - Account Based Marketing,16931.0,11082,109,7,5,3,1,21661.0
+2024-11-04,LinkedIn Ads,Lead Gen Forms - Enterprise,19121.0,13924,132,9,7,4,1,18983.0
+2024-11-04,LinkedIn Ads,Sponsored Content - Decision Makers,26603.0,22895,212,10,6,4,1,20249.0
+2024-11-04,Meta Ads,Advantage+ Shopping,26096.0,85768,2417,189,102,54,7,31510.0
+2024-11-04,Meta Ads,Prospecting - Lookalike 1%,31898.0,124329,3161,208,125,54,7,27808.0
+2024-11-04,Meta Ads,Retargeting - Cart Abandoners,22256.0,62935,1398,82,43,23,4,16390.0
+2024-11-04,Meta Ads,Video Views - Brand Awareness,16472.0,73415,1614,106,62,28,5,23237.0
+2024-11-04,YouTube,Bumper Ads - Retargeting,12368.0,113767,1444,41,19,7,1,3778.0
+2024-11-04,YouTube,Discovery Ads - Product Demo,17253.0,108872,1609,57,24,8,1,5053.0
+2024-11-04,YouTube,In-Stream - Brand Awareness,19863.0,195715,3193,85,41,16,2,8693.0
+2024-11-11,Affiliate,Cashback Partners,9303.0,55088,1529,114,60,30,6,24214.0
+2024-11-11,Affiliate,Content & Review Partners,11856.0,121555,2475,162,86,40,9,42417.0
+2024-11-11,Affiliate,Coupon & Deals Partners,17850.0,121225,2439,215,105,51,8,28276.0
+2024-11-11,Email,Abandoned Cart Series,4275.0,36159,920,144,103,63,19,78067.0
+2024-11-11,Email,Post-Purchase Upsell,3127.0,18872,627,150,109,65,18,61445.0
+2024-11-11,Email,Weekly Newsletter,3873.0,30385,797,189,140,79,24,107743.0
+2024-11-11,Email,Win-Back Campaign,2763.0,28802,943,215,140,78,26,104546.0
+2024-11-11,Google Ads,Performance Max - New Customers,30344.0,27585,1331,140,92,48,9,54355.0
+2024-11-11,Google Ads,Search - Brand,25617.0,21826,1090,113,63,36,8,48959.0
+2024-11-11,Google Ads,Search - Non-Brand,33851.0,26294,1292,142,86,47,11,71646.0
+2024-11-11,Google Ads,Shopping - Bestsellers,14271.0,16709,744,85,58,29,5,32517.0
+2024-11-11,LinkedIn Ads,InMail - Account Based Marketing,17515.0,12944,119,7,6,3,1,18614.0
+2024-11-11,LinkedIn Ads,Lead Gen Forms - Enterprise,22698.0,18585,145,10,7,3,1,22024.0
+2024-11-11,LinkedIn Ads,Sponsored Content - Decision Makers,28129.0,32947,180,13,8,4,1,19791.0
+2024-11-11,Meta Ads,Advantage+ Shopping,27615.0,128109,2621,207,113,48,8,24939.0
+2024-11-11,Meta Ads,Prospecting - Lookalike 1%,31580.0,115832,2415,136,67,36,5,18755.0
+2024-11-11,Meta Ads,Retargeting - Cart Abandoners,21385.0,59965,1544,95,53,26,4,14208.0
+2024-11-11,Meta Ads,Video Views - Brand Awareness,17605.0,40680,935,77,41,21,3,13561.0
+2024-11-11,YouTube,Bumper Ads - Retargeting,12165.0,60276,1054,37,14,5,1,3784.0
+2024-11-11,YouTube,Discovery Ads - Product Demo,15756.0,91194,1396,49,24,10,1,3737.0
+2024-11-11,YouTube,In-Stream - Brand Awareness,17970.0,119073,1686,48,23,8,1,4445.0
+2024-11-18,Affiliate,Cashback Partners,10631.0,65656,1449,130,71,34,6,29593.0
+2024-11-18,Affiliate,Content & Review Partners,14958.0,104339,2478,211,109,45,10,38670.0
+2024-11-18,Affiliate,Coupon & Deals Partners,16914.0,55366,2068,148,84,44,8,29053.0
+2024-11-18,Email,Abandoned Cart Series,4353.0,35749,983,218,146,87,28,98422.0
+2024-11-18,Email,Post-Purchase Upsell,3666.0,32109,995,232,156,100,31,133521.0
+2024-11-18,Email,Weekly Newsletter,4644.0,25762,1142,220,158,102,30,91894.0
+2024-11-18,Email,Win-Back Campaign,3083.0,27180,708,133,84,49,15,45257.0
+2024-11-18,Google Ads,Performance Max - New Customers,31840.0,23777,1117,131,81,46,9,46744.0
+2024-11-18,Google Ads,Search - Brand,21753.0,24722,1053,127,84,47,9,46682.0
+2024-11-18,Google Ads,Search - Non-Brand,35001.0,50882,1906,186,106,56,13,59200.0
+2024-11-18,Google Ads,Shopping - Bestsellers,14750.0,15768,628,59,39,20,4,18752.0
+2024-11-18,LinkedIn Ads,InMail - Account Based Marketing,14631.0,17124,113,5,4,2,1,15835.0
+2024-11-18,LinkedIn Ads,Lead Gen Forms - Enterprise,20729.0,26019,193,11,8,5,1,20911.0
+2024-11-18,LinkedIn Ads,Sponsored Content - Decision Makers,22691.0,18499,158,9,6,3,1,24474.0
+2024-11-18,Meta Ads,Advantage+ Shopping,23921.0,105639,2569,193,89,40,7,29965.0
+2024-11-18,Meta Ads,Prospecting - Lookalike 1%,28354.0,83871,2492,147,72,38,5,18970.0
+2024-11-18,Meta Ads,Retargeting - Cart Abandoners,22544.0,122469,2129,148,72,31,4,15260.0
+2024-11-18,Meta Ads,Video Views - Brand Awareness,15740.0,63617,1153,95,56,30,4,14735.0
+2024-11-18,YouTube,Bumper Ads - Retargeting,11988.0,70057,1005,33,12,5,1,4596.0
+2024-11-18,YouTube,Discovery Ads - Product Demo,17969.0,142959,2120,52,19,8,1,3830.0
+2024-11-18,YouTube,In-Stream - Brand Awareness,19569.0,186190,2751,108,50,19,2,10631.0
+2024-11-25,Affiliate,Cashback Partners,11012.0,63217,1445,133,71,30,6,24840.0
+2024-11-25,Affiliate,Content & Review Partners,13704.0,73621,1944,165,84,44,10,39055.0
+2024-11-25,Affiliate,Coupon & Deals Partners,16737.0,97743,2864,277,159,73,15,61009.0
+2024-11-25,Email,Abandoned Cart Series,3433.0,20090,790,140,103,64,17,72787.0
+2024-11-25,Email,Post-Purchase Upsell,2758.0,17648,585,96,61,41,12,49697.0
+2024-11-25,Email,Weekly Newsletter,3712.0,26899,677,145,100,63,20,89774.0
+2024-11-25,Email,Win-Back Campaign,3043.0,27164,1087,184,111,65,21,67447.0
+2024-11-25,Google Ads,Performance Max - New Customers,33458.0,34857,1399,151,95,55,10,48954.0
+2024-11-25,Google Ads,Search - Brand,23505.0,29217,1073,124,85,45,10,63078.0
+2024-11-25,Google Ads,Search - Non-Brand,41437.0,32233,1605,195,130,68,13,57652.0
+2024-11-25,Google Ads,Shopping - Bestsellers,18004.0,11734,609,73,50,25,5,24949.0
+2024-11-25,LinkedIn Ads,InMail - Account Based Marketing,17681.0,18580,159,11,8,4,1,22559.0
+2024-11-25,LinkedIn Ads,Lead Gen Forms - Enterprise,24593.0,25499,178,12,9,5,2,41773.0
+2024-11-25,LinkedIn Ads,Sponsored Content - Decision Makers,25578.0,23410,215,13,9,5,1,24780.0
+2024-11-25,Meta Ads,Advantage+ Shopping,23127.0,55834,1480,84,38,18,3,13295.0
+2024-11-25,Meta Ads,Prospecting - Lookalike 1%,25347.0,83933,2056,118,70,29,3,14643.0
+2024-11-25,Meta Ads,Retargeting - Cart Abandoners,22302.0,74230,1777,105,50,23,3,13061.0
+2024-11-25,Meta Ads,Video Views - Brand Awareness,16719.0,69275,1283,91,44,22,3,10922.0
+2024-11-25,YouTube,Bumper Ads - Retargeting,12656.0,97685,1227,36,13,5,1,5056.0
+2024-11-25,YouTube,Discovery Ads - Product Demo,15963.0,158138,2411,70,33,11,1,4036.0
+2024-11-25,YouTube,In-Stream - Brand Awareness,20251.0,117850,1869,74,33,11,1,5133.0
+2024-12-02,Affiliate,Cashback Partners,8001.0,77193,1757,143,70,35,6,22987.0
+2024-12-02,Affiliate,Content & Review Partners,10261.0,63599,1805,155,82,35,6,25146.0
+2024-12-02,Affiliate,Coupon & Deals Partners,12324.0,42194,1555,117,54,22,4,16225.0
+2024-12-02,Email,Abandoned Cart Series,3080.0,25971,712,146,100,69,20,83462.0
+2024-12-02,Email,Post-Purchase Upsell,2252.0,12080,543,105,68,43,11,35924.0
+2024-12-02,Email,Weekly Newsletter,3280.0,22117,671,111,73,44,12,53171.0
+2024-12-02,Email,Win-Back Campaign,2105.0,11410,497,102,72,49,16,52999.0
+2024-12-02,Google Ads,Performance Max - New Customers,25547.0,19709,952,90,53,32,6,32075.0
+2024-12-02,Google Ads,Search - Brand,22666.0,24421,1054,102,59,28,5,32442.0
+2024-12-02,Google Ads,Search - Non-Brand,30042.0,22437,1024,95,55,31,6,38455.0
+2024-12-02,Google Ads,Shopping - Bestsellers,13755.0,14439,686,79,48,28,5,22047.0
+2024-12-02,LinkedIn Ads,InMail - Account Based Marketing,14647.0,19469,154,7,5,3,1,19627.0
+2024-12-02,LinkedIn Ads,Lead Gen Forms - Enterprise,19710.0,16662,124,6,4,2,1,17105.0
+2024-12-02,LinkedIn Ads,Sponsored Content - Decision Makers,20925.0,29941,212,10,8,4,1,17271.0
+2024-12-02,Meta Ads,Advantage+ Shopping,21365.0,78466,1410,121,58,31,5,17648.0
+2024-12-02,Meta Ads,Prospecting - Lookalike 1%,22683.0,70094,1511,131,76,40,6,26382.0
+2024-12-02,Meta Ads,Retargeting - Cart Abandoners,18682.0,70569,1399,103,47,19,3,9306.0
+2024-12-02,Meta Ads,Video Views - Brand Awareness,12509.0,49048,1029,62,37,16,3,10050.0
+2024-12-02,YouTube,Bumper Ads - Retargeting,10394.0,58938,971,33,14,6,1,4461.0
+2024-12-02,YouTube,Discovery Ads - Product Demo,14312.0,89456,1229,37,17,5,1,4498.0
+2024-12-02,YouTube,In-Stream - Brand Awareness,15862.0,270452,2245,53,19,6,1,4086.0
+2024-12-09,Affiliate,Cashback Partners,9303.0,34800,1151,99,58,28,4,17495.0
+2024-12-09,Affiliate,Content & Review Partners,10260.0,48507,1541,123,63,34,7,34642.0
+2024-12-09,Affiliate,Coupon & Deals Partners,14062.0,84984,2937,227,133,57,12,56686.0
+2024-12-09,Email,Abandoned Cart Series,2751.0,22141,603,102,64,39,10,35204.0
+2024-12-09,Email,Post-Purchase Upsell,2195.0,12848,564,93,58,37,13,46524.0
+2024-12-09,Email,Weekly Newsletter,2966.0,20173,636,105,71,43,12,41680.0
+2024-12-09,Email,Win-Back Campaign,2093.0,18387,780,138,85,53,14,58235.0
+2024-12-09,Google Ads,Performance Max - New Customers,31140.0,34406,1379,168,99,55,13,59997.0
+2024-12-09,Google Ads,Search - Brand,22891.0,38093,1377,146,98,45,9,54392.0
+2024-12-09,Google Ads,Search - Non-Brand,29750.0,43554,1564,159,99,57,13,76945.0
+2024-12-09,Google Ads,Shopping - Bestsellers,13846.0,20187,721,75,44,25,6,36996.0
+2024-12-09,LinkedIn Ads,InMail - Account Based Marketing,11780.0,9891,79,5,3,2,1,22278.0
+2024-12-09,LinkedIn Ads,Lead Gen Forms - Enterprise,17299.0,18590,111,6,4,2,1,15261.0
+2024-12-09,LinkedIn Ads,Sponsored Content - Decision Makers,19228.0,32161,203,15,9,6,1,20290.0
+2024-12-09,Meta Ads,Advantage+ Shopping,23595.0,98014,1876,132,65,29,4,16450.0
+2024-12-09,Meta Ads,Prospecting - Lookalike 1%,22935.0,74225,1735,95,54,24,4,16837.0
+2024-12-09,Meta Ads,Retargeting - Cart Abandoners,20125.0,120159,2106,119,59,25,4,16514.0
+2024-12-09,Meta Ads,Video Views - Brand Awareness,16443.0,65585,1464,82,41,21,3,12837.0
+2024-12-09,YouTube,Bumper Ads - Retargeting,12141.0,94882,1372,46,22,8,1,3852.0
+2024-12-09,YouTube,Discovery Ads - Product Demo,16624.0,97230,1521,43,16,6,1,4623.0
+2024-12-09,YouTube,In-Stream - Brand Awareness,18984.0,254724,2214,54,25,8,1,4710.0
+2024-12-16,Affiliate,Cashback Partners,7005.0,21450,812,53,29,14,2,9994.0
+2024-12-16,Affiliate,Content & Review Partners,10398.0,67044,1975,155,90,48,10,39795.0
+2024-12-16,Affiliate,Coupon & Deals Partners,14663.0,67566,2027,138,73,33,6,26440.0
+2024-12-16,Email,Abandoned Cart Series,3592.0,15876,712,136,95,53,17,66701.0
+2024-12-16,Email,Post-Purchase Upsell,2750.0,18005,666,138,97,62,20,85791.0
+2024-12-16,Email,Weekly Newsletter,3329.0,25039,753,154,95,60,16,64361.0
+2024-12-16,Email,Win-Back Campaign,2376.0,15556,625,141,101,64,18,79530.0
+2024-12-16,Google Ads,Performance Max - New Customers,24910.0,30030,1482,144,93,52,10,61178.0
+2024-12-16,Google Ads,Search - Brand,18485.0,26534,921,113,69,33,8,42226.0
+2024-12-16,Google Ads,Search - Non-Brand,26046.0,31282,1401,163,95,56,13,81464.0
+2024-12-16,Google Ads,Shopping - Bestsellers,14728.0,13046,533,64,40,23,5,30243.0
+2024-12-16,LinkedIn Ads,InMail - Account Based Marketing,13801.0,10362,95,5,3,2,0,0.0
+2024-12-16,LinkedIn Ads,Lead Gen Forms - Enterprise,16330.0,15428,105,6,4,3,1,21497.0
+2024-12-16,LinkedIn Ads,Sponsored Content - Decision Makers,22250.0,25522,170,10,7,4,1,22105.0
+2024-12-16,Meta Ads,Advantage+ Shopping,22888.0,80553,1564,80,43,23,3,10087.0
+2024-12-16,Meta Ads,Prospecting - Lookalike 1%,20135.0,51804,1098,89,46,25,3,11721.0
+2024-12-16,Meta Ads,Retargeting - Cart Abandoners,19172.0,75327,1542,138,74,37,6,28929.0
+2024-12-16,Meta Ads,Video Views - Brand Awareness,12850.0,33079,911,52,28,14,3,9770.0
+2024-12-16,YouTube,Bumper Ads - Retargeting,9162.0,51514,919,23,10,3,0,0.0
+2024-12-16,YouTube,Discovery Ads - Product Demo,13291.0,62068,1116,38,17,7,1,4539.0
+2024-12-16,YouTube,In-Stream - Brand Awareness,15690.0,117096,1834,37,16,5,1,3569.0
+2024-12-23,Affiliate,Cashback Partners,9560.0,58012,1833,151,78,38,8,34867.0
+2024-12-23,Affiliate,Content & Review Partners,12241.0,73571,1475,98,52,25,4,14168.0
+2024-12-23,Affiliate,Coupon & Deals Partners,16931.0,124331,3588,344,190,88,16,56926.0
+2024-12-23,Email,Abandoned Cart Series,3630.0,33307,961,181,121,76,21,72848.0
+2024-12-23,Email,Post-Purchase Upsell,2646.0,15294,650,119,79,54,14,54480.0
+2024-12-23,Email,Weekly Newsletter,3239.0,20464,766,151,111,62,17,73078.0
+2024-12-23,Email,Win-Back Campaign,2433.0,14576,557,103,67,40,13,46707.0
+2024-12-23,Google Ads,Performance Max - New Customers,29534.0,23828,930,103,64,38,7,37151.0
+2024-12-23,Google Ads,Search - Brand,17879.0,21455,902,95,61,31,7,44863.0
+2024-12-23,Google Ads,Search - Non-Brand,27731.0,21907,998,106,61,35,9,53892.0
+2024-12-23,Google Ads,Shopping - Bestsellers,14631.0,14912,712,71,50,29,6,36567.0
+2024-12-23,LinkedIn Ads,InMail - Account Based Marketing,14200.0,21785,135,7,5,3,1,17223.0
+2024-12-23,LinkedIn Ads,Lead Gen Forms - Enterprise,19682.0,26967,204,12,8,5,1,24736.0
+2024-12-23,LinkedIn Ads,Sponsored Content - Decision Makers,19772.0,28490,183,10,7,4,1,17064.0
+2024-12-23,Meta Ads,Advantage+ Shopping,21329.0,55058,1548,108,50,20,3,14562.0
+2024-12-23,Meta Ads,Prospecting - Lookalike 1%,25099.0,95269,1506,106,57,26,4,16878.0
+2024-12-23,Meta Ads,Retargeting - Cart Abandoners,19849.0,97600,2107,123,72,40,5,16927.0
+2024-12-23,Meta Ads,Video Views - Brand Awareness,15130.0,52273,1034,90,45,24,4,16253.0
+2024-12-23,YouTube,Bumper Ads - Retargeting,10765.0,74132,1282,49,18,7,1,5147.0
+2024-12-23,YouTube,Discovery Ads - Product Demo,13684.0,201031,2237,57,26,8,1,4432.0
+2024-12-23,YouTube,In-Stream - Brand Awareness,17612.0,202131,1673,61,28,11,1,5171.0
+2024-12-30,Affiliate,Cashback Partners,8698.0,31923,1012,96,46,24,5,19775.0
+2024-12-30,Affiliate,Content & Review Partners,12405.0,83393,1741,150,76,41,9,42920.0
+2024-12-30,Affiliate,Coupon & Deals Partners,14157.0,79826,2302,180,93,40,8,29595.0
+2024-12-30,Email,Abandoned Cart Series,3366.0,20862,881,153,106,62,19,58378.0
+2024-12-30,Email,Post-Purchase Upsell,2271.0,27942,871,178,133,75,23,92899.0
+2024-12-30,Email,Weekly Newsletter,3906.0,33217,837,189,133,85,23,74151.0
+2024-12-30,Email,Win-Back Campaign,2271.0,20276,753,134,96,55,16,62248.0
+2024-12-30,Google Ads,Performance Max - New Customers,25575.0,18250,856,103,60,32,7,34584.0
+2024-12-30,Google Ads,Search - Brand,20422.0,15838,770,66,39,21,5,27452.0
+2024-12-30,Google Ads,Search - Non-Brand,26681.0,25087,1237,107,65,38,7,42345.0
+2024-12-30,Google Ads,Shopping - Bestsellers,12700.0,15101,773,88,57,32,7,38132.0
+2024-12-30,LinkedIn Ads,InMail - Account Based Marketing,14004.0,21555,111,6,5,3,1,21240.0
+2024-12-30,LinkedIn Ads,Lead Gen Forms - Enterprise,18649.0,20674,196,12,9,5,1,17547.0
+2024-12-30,LinkedIn Ads,Sponsored Content - Decision Makers,21984.0,16103,159,8,5,3,1,20923.0
+2024-12-30,Meta Ads,Advantage+ Shopping,24106.0,72670,1904,105,52,27,4,19367.0
+2024-12-30,Meta Ads,Prospecting - Lookalike 1%,23147.0,91013,1485,102,49,20,2,7429.0
+2024-12-30,Meta Ads,Retargeting - Cart Abandoners,19986.0,75525,1475,132,78,33,5,22137.0
+2024-12-30,Meta Ads,Video Views - Brand Awareness,13078.0,77399,1217,70,32,15,2,8895.0
+2024-12-30,YouTube,Bumper Ads - Retargeting,10702.0,149572,1570,62,30,12,1,3560.0
+2024-12-30,YouTube,Discovery Ads - Product Demo,14856.0,216406,2457,93,39,16,2,8860.0
+2024-12-30,YouTube,In-Stream - Brand Awareness,15814.0,190714,2345,84,40,12,1,4346.0
+2025-01-06,Affiliate,Cashback Partners,7789.0,36535,931,71,35,17,4,14986.0
+2025-01-06,Affiliate,Content & Review Partners,10101.0,60688,1357,126,73,35,6,24618.0
+2025-01-06,Affiliate,Coupon & Deals Partners,14200.0,82700,1662,136,76,31,6,26863.0
+2025-01-06,Email,Abandoned Cart Series,2861.0,21104,568,120,78,51,15,45203.0
+2025-01-06,Email,Post-Purchase Upsell,2362.0,21524,587,120,85,54,17,54032.0
+2025-01-06,Email,Weekly Newsletter,3229.0,17066,598,135,86,58,20,87303.0
+2025-01-06,Email,Win-Back Campaign,2006.0,22762,764,172,122,82,26,92506.0
+2025-01-06,Google Ads,Performance Max - New Customers,27295.0,45837,1588,188,119,68,15,95112.0
+2025-01-06,Google Ads,Search - Brand,18514.0,19353,963,113,68,37,7,45774.0
+2025-01-06,Google Ads,Search - Non-Brand,29463.0,24795,958,88,51,24,4,18227.0
+2025-01-06,Google Ads,Shopping - Bestsellers,12618.0,11201,518,53,32,17,3,18457.0
+2025-01-06,LinkedIn Ads,InMail - Account Based Marketing,12133.0,13063,107,8,5,3,1,21071.0
+2025-01-06,LinkedIn Ads,Lead Gen Forms - Enterprise,17196.0,32300,165,12,8,5,1,18706.0
+2025-01-06,LinkedIn Ads,Sponsored Content - Decision Makers,20706.0,24866,139,10,7,4,1,17128.0
+2025-01-06,Meta Ads,Advantage+ Shopping,19734.0,72520,1368,78,37,17,2,6087.0
+2025-01-06,Meta Ads,Prospecting - Lookalike 1%,17556.0,70532,1115,94,43,21,4,17038.0
+2025-01-06,Meta Ads,Retargeting - Cart Abandoners,16361.0,61441,1034,80,46,25,4,15032.0
+2025-01-06,Meta Ads,Video Views - Brand Awareness,10674.0,36242,583,31,16,7,1,5004.0
+2025-01-06,YouTube,Bumper Ads - Retargeting,8085.0,111405,1146,44,18,7,1,4905.0
+2025-01-06,YouTube,Discovery Ads - Product Demo,13175.0,131880,1189,30,13,4,0,0.0
+2025-01-06,YouTube,In-Stream - Brand Awareness,15049.0,106164,1405,55,21,8,1,4113.0
+2025-01-13,Affiliate,Cashback Partners,6547.0,27413,783,59,32,13,3,14753.0
+2025-01-13,Affiliate,Content & Review Partners,9296.0,52714,1779,108,62,32,7,25440.0
+2025-01-13,Affiliate,Coupon & Deals Partners,10988.0,83765,2289,208,111,45,9,42237.0
+2025-01-13,Email,Abandoned Cart Series,3099.0,18881,592,116,84,52,17,62383.0
+2025-01-13,Email,Post-Purchase Upsell,2352.0,10571,454,89,57,33,9,37538.0
+2025-01-13,Email,Weekly Newsletter,3037.0,19799,592,115,77,46,13,42619.0
+2025-01-13,Email,Win-Back Campaign,2146.0,26260,722,148,107,61,20,70766.0
+2025-01-13,Google Ads,Performance Max - New Customers,24457.0,21345,949,86,56,31,7,31941.0
+2025-01-13,Google Ads,Search - Brand,15977.0,16404,801,79,51,30,6,36498.0
+2025-01-13,Google Ads,Search - Non-Brand,24932.0,27979,1281,155,92,49,10,56194.0
+2025-01-13,Google Ads,Shopping - Bestsellers,11730.0,15423,520,49,30,17,3,18676.0
+2025-01-13,LinkedIn Ads,InMail - Account Based Marketing,10599.0,8524,69,5,3,2,1,21684.0
+2025-01-13,LinkedIn Ads,Lead Gen Forms - Enterprise,17565.0,28395,162,11,7,4,1,17309.0
+2025-01-13,LinkedIn Ads,Sponsored Content - Decision Makers,16320.0,13858,109,6,5,2,1,18280.0
+2025-01-13,Meta Ads,Advantage+ Shopping,20586.0,74794,1576,124,67,29,4,15851.0
+2025-01-13,Meta Ads,Prospecting - Lookalike 1%,19810.0,99792,1554,96,45,19,3,9652.0
+2025-01-13,Meta Ads,Retargeting - Cart Abandoners,14516.0,48603,1051,58,26,11,2,9521.0
+2025-01-13,Meta Ads,Video Views - Brand Awareness,12221.0,60651,1177,73,36,17,3,12362.0
+2025-01-13,YouTube,Bumper Ads - Retargeting,7500.0,70271,1043,28,10,4,0,0.0
+2025-01-13,YouTube,Discovery Ads - Product Demo,11599.0,114767,1663,56,24,9,1,5021.0
+2025-01-13,YouTube,In-Stream - Brand Awareness,12096.0,77602,1185,30,12,5,0,0.0
+2025-01-20,Affiliate,Cashback Partners,6994.0,38661,882,65,32,14,2,9305.0
+2025-01-20,Affiliate,Content & Review Partners,9550.0,73217,2279,163,86,38,8,38748.0
+2025-01-20,Affiliate,Coupon & Deals Partners,12934.0,45350,1469,91,50,21,4,17694.0
+2025-01-20,Email,Abandoned Cart Series,2980.0,23200,1006,232,170,106,28,115685.0
+2025-01-20,Email,Post-Purchase Upsell,1997.0,11318,376,72,48,29,9,27188.0
+2025-01-20,Email,Weekly Newsletter,3192.0,29926,1035,188,127,81,27,117446.0
+2025-01-20,Email,Win-Back Campaign,1979.0,17064,560,112,73,48,15,56449.0
+2025-01-20,Google Ads,Performance Max - New Customers,24680.0,35947,1306,116,64,33,8,48109.0
+2025-01-20,Google Ads,Search - Brand,19461.0,19674,826,91,62,33,7,40071.0
+2025-01-20,Google Ads,Search - Non-Brand,29040.0,40019,1693,177,122,64,14,91236.0
+2025-01-20,Google Ads,Shopping - Bestsellers,11086.0,12579,441,54,31,17,3,17434.0
+2025-01-20,LinkedIn Ads,InMail - Account Based Marketing,12431.0,13149,116,7,5,2,1,24397.0
+2025-01-20,LinkedIn Ads,Lead Gen Forms - Enterprise,15929.0,24389,170,8,6,4,1,17005.0
+2025-01-20,LinkedIn Ads,Sponsored Content - Decision Makers,16714.0,10671,106,6,4,2,1,15731.0
+2025-01-20,Meta Ads,Advantage+ Shopping,17582.0,92944,1851,157,92,44,8,39404.0
+2025-01-20,Meta Ads,Prospecting - Lookalike 1%,17598.0,46060,1022,54,26,14,2,9854.0
+2025-01-20,Meta Ads,Retargeting - Cart Abandoners,15943.0,56317,1205,70,38,19,2,9897.0
+2025-01-20,Meta Ads,Video Views - Brand Awareness,12582.0,34495,715,57,31,16,2,9218.0
+2025-01-20,YouTube,Bumper Ads - Retargeting,9640.0,66672,983,29,12,5,0,0.0
+2025-01-20,YouTube,Discovery Ads - Product Demo,14026.0,131034,1641,47,21,8,1,4046.0
+2025-01-20,YouTube,In-Stream - Brand Awareness,15944.0,161622,1688,61,23,10,1,3609.0
+2025-01-27,Affiliate,Cashback Partners,8450.0,39151,1087,77,36,14,2,7494.0
+2025-01-27,Affiliate,Content & Review Partners,9722.0,43495,1569,123,68,32,6,24968.0
+2025-01-27,Affiliate,Coupon & Deals Partners,14928.0,61861,1721,112,51,24,5,19509.0
+2025-01-27,Email,Abandoned Cart Series,3112.0,18284,821,173,117,71,20,81163.0
+2025-01-27,Email,Post-Purchase Upsell,2340.0,11925,511,112,73,48,13,40134.0
+2025-01-27,Email,Weekly Newsletter,3011.0,14577,548,85,58,35,12,49598.0
+2025-01-27,Email,Win-Back Campaign,2266.0,12453,449,91,61,41,12,51335.0
+2025-01-27,Google Ads,Performance Max - New Customers,26652.0,23887,862,91,62,31,6,39410.0
+2025-01-27,Google Ads,Search - Brand,19111.0,19367,971,102,68,39,10,48927.0
+2025-01-27,Google Ads,Search - Non-Brand,25605.0,34351,1280,139,97,58,13,75476.0
+2025-01-27,Google Ads,Shopping - Bestsellers,13694.0,9361,449,43,26,14,3,16536.0
+2025-01-27,LinkedIn Ads,InMail - Account Based Marketing,12547.0,14194,107,5,3,2,1,18494.0
+2025-01-27,LinkedIn Ads,Lead Gen Forms - Enterprise,18114.0,24305,167,10,7,4,1,19725.0
+2025-01-27,LinkedIn Ads,Sponsored Content - Decision Makers,21825.0,23515,140,9,6,4,1,24748.0
+2025-01-27,Meta Ads,Advantage+ Shopping,19250.0,101058,1656,120,65,33,5,15135.0
+2025-01-27,Meta Ads,Prospecting - Lookalike 1%,20948.0,53716,1111,64,30,16,2,7351.0
+2025-01-27,Meta Ads,Retargeting - Cart Abandoners,18049.0,67429,1465,124,68,35,5,25905.0
+2025-01-27,Meta Ads,Video Views - Brand Awareness,13612.0,36920,717,41,20,9,1,3763.0
+2025-01-27,YouTube,Bumper Ads - Retargeting,9892.0,57411,954,36,14,5,1,4255.0
+2025-01-27,YouTube,Discovery Ads - Product Demo,12026.0,73700,1005,25,11,4,0,0.0
+2025-01-27,YouTube,In-Stream - Brand Awareness,13766.0,308923,2631,89,44,16,1,5136.0
+2025-02-03,Affiliate,Cashback Partners,7732.0,49296,1748,146,71,39,8,38149.0
+2025-02-03,Affiliate,Content & Review Partners,10307.0,87454,2285,186,101,49,10,43575.0
+2025-02-03,Affiliate,Coupon & Deals Partners,12895.0,50820,1678,167,100,44,7,26110.0
+2025-02-03,Email,Abandoned Cart Series,3110.0,23991,709,131,93,54,18,59543.0
+2025-02-03,Email,Post-Purchase Upsell,2362.0,27379,698,132,82,55,15,66233.0
+2025-02-03,Email,Weekly Newsletter,3213.0,28453,1251,238,175,117,39,165752.0
+2025-02-03,Email,Win-Back Campaign,2174.0,13161,550,130,86,56,15,63018.0
+2025-02-03,Google Ads,Performance Max - New Customers,20773.0,28205,1231,106,72,34,8,43027.0
+2025-02-03,Google Ads,Search - Brand,16636.0,15371,594,58,33,16,4,21527.0
+2025-02-03,Google Ads,Search - Non-Brand,23848.0,19666,847,73,43,21,5,25025.0
+2025-02-03,Google Ads,Shopping - Bestsellers,11439.0,13880,667,81,44,21,5,28044.0
+2025-02-03,LinkedIn Ads,InMail - Account Based Marketing,10941.0,11676,80,6,4,2,1,18083.0
+2025-02-03,LinkedIn Ads,Lead Gen Forms - Enterprise,12894.0,13256,113,6,4,2,1,16194.0
+2025-02-03,LinkedIn Ads,Sponsored Content - Decision Makers,17710.0,15517,113,5,4,2,1,17777.0
+2025-02-03,Meta Ads,Advantage+ Shopping,18960.0,61721,1154,65,33,17,3,13395.0
+2025-02-03,Meta Ads,Prospecting - Lookalike 1%,18385.0,90930,1419,123,63,28,4,17581.0
+2025-02-03,Meta Ads,Retargeting - Cart Abandoners,16610.0,102735,1765,99,53,29,4,15025.0
+2025-02-03,Meta Ads,Video Views - Brand Awareness,12363.0,52265,1050,54,32,15,2,6305.0
+2025-02-03,YouTube,Bumper Ads - Retargeting,7990.0,96107,1547,60,27,11,1,4804.0
+2025-02-03,YouTube,Discovery Ads - Product Demo,9500.0,172410,1658,44,18,7,1,3632.0
+2025-02-03,YouTube,In-Stream - Brand Awareness,11649.0,104208,1740,51,23,10,1,5022.0
+2025-02-10,Affiliate,Cashback Partners,8092.0,34857,1157,87,44,18,3,13924.0
+2025-02-10,Affiliate,Content & Review Partners,8937.0,64940,1853,168,80,43,9,35716.0
+2025-02-10,Affiliate,Coupon & Deals Partners,12091.0,101008,2353,223,128,70,15,66728.0
+2025-02-10,Email,Abandoned Cart Series,3216.0,21788,641,138,83,52,15,53580.0
+2025-02-10,Email,Post-Purchase Upsell,2117.0,19415,809,185,138,96,29,125901.0
+2025-02-10,Email,Weekly Newsletter,3379.0,25900,786,175,123,86,24,74116.0
+2025-02-10,Email,Win-Back Campaign,1926.0,16989,579,100,67,43,13,52204.0
+2025-02-10,Google Ads,Performance Max - New Customers,22073.0,16106,776,88,50,26,6,29641.0
+2025-02-10,Google Ads,Search - Brand,14644.0,11858,551,60,42,22,4,21800.0
+2025-02-10,Google Ads,Search - Non-Brand,22856.0,35441,1167,116,76,34,7,40718.0
+2025-02-10,Google Ads,Shopping - Bestsellers,9571.0,11896,489,50,29,16,4,19372.0
+2025-02-10,LinkedIn Ads,InMail - Account Based Marketing,10756.0,14197,112,6,4,3,1,19003.0
+2025-02-10,LinkedIn Ads,Lead Gen Forms - Enterprise,16103.0,17603,107,7,5,3,1,16918.0
+2025-02-10,LinkedIn Ads,Sponsored Content - Decision Makers,16839.0,11669,109,6,4,2,1,15634.0
+2025-02-10,Meta Ads,Advantage+ Shopping,19854.0,38002,1113,75,42,22,3,9959.0
+2025-02-10,Meta Ads,Prospecting - Lookalike 1%,20567.0,72726,1313,114,64,32,5,24948.0
+2025-02-10,Meta Ads,Retargeting - Cart Abandoners,17123.0,53875,1145,74,42,21,3,9938.0
+2025-02-10,Meta Ads,Video Views - Brand Awareness,13034.0,58480,1401,107,59,26,4,13904.0
+2025-02-10,YouTube,Bumper Ads - Retargeting,9447.0,71837,938,26,10,4,0,0.0
+2025-02-10,YouTube,Discovery Ads - Product Demo,11980.0,172534,1695,53,26,11,1,4016.0
+2025-02-10,YouTube,In-Stream - Brand Awareness,15711.0,138814,1967,71,25,9,1,4934.0
+2025-02-17,Affiliate,Cashback Partners,7621.0,36452,1001,73,40,20,3,10589.0
+2025-02-17,Affiliate,Content & Review Partners,10672.0,93270,2124,132,71,34,5,20986.0
+2025-02-17,Affiliate,Coupon & Deals Partners,13786.0,82563,3108,205,94,48,10,49247.0
+2025-02-17,Email,Abandoned Cart Series,2779.0,21799,855,157,108,65,19,77799.0
+2025-02-17,Email,Post-Purchase Upsell,2289.0,15996,670,119,81,55,17,73003.0
+2025-02-17,Email,Weekly Newsletter,3036.0,13825,566,106,70,41,12,50770.0
+2025-02-17,Email,Win-Back Campaign,1998.0,12793,420,89,57,35,11,44327.0
+2025-02-17,Google Ads,Performance Max - New Customers,25835.0,32235,1502,179,111,58,12,78394.0
+2025-02-17,Google Ads,Search - Brand,15842.0,10078,514,44,29,17,4,26142.0
+2025-02-17,Google Ads,Search - Non-Brand,27197.0,32178,1577,173,111,57,13,61592.0
+2025-02-17,Google Ads,Shopping - Bestsellers,12898.0,16589,589,55,34,20,5,24368.0
+2025-02-17,LinkedIn Ads,InMail - Account Based Marketing,11835.0,12731,121,6,4,2,1,18729.0
+2025-02-17,LinkedIn Ads,Lead Gen Forms - Enterprise,14083.0,15813,151,11,8,4,1,22961.0
+2025-02-17,LinkedIn Ads,Sponsored Content - Decision Makers,16708.0,15415,129,7,5,3,1,16409.0
+2025-02-17,Meta Ads,Advantage+ Shopping,17633.0,56822,1439,74,41,18,3,9967.0
+2025-02-17,Meta Ads,Prospecting - Lookalike 1%,18450.0,43196,1156,67,32,17,2,6839.0
+2025-02-17,Meta Ads,Retargeting - Cart Abandoners,15658.0,36519,856,56,33,16,2,7811.0
+2025-02-17,Meta Ads,Video Views - Brand Awareness,12021.0,36308,738,42,20,11,1,4704.0
+2025-02-17,YouTube,Bumper Ads - Retargeting,9790.0,85285,1102,44,17,6,1,4878.0
+2025-02-17,YouTube,Discovery Ads - Product Demo,12264.0,160122,1895,73,30,12,2,10882.0
+2025-02-17,YouTube,In-Stream - Brand Awareness,14686.0,100166,1277,37,18,8,1,5138.0
+2025-02-24,Affiliate,Cashback Partners,7726.0,46470,947,86,45,22,4,17725.0
+2025-02-24,Affiliate,Content & Review Partners,9172.0,40330,1148,98,49,20,3,14879.0
+2025-02-24,Affiliate,Coupon & Deals Partners,13379.0,88557,2673,224,105,45,10,42620.0
+2025-02-24,Email,Abandoned Cart Series,3034.0,31467,822,162,106,60,16,51673.0
+2025-02-24,Email,Post-Purchase Upsell,2338.0,12932,502,98,67,41,12,40874.0
+2025-02-24,Email,Weekly Newsletter,2850.0,11891,520,98,60,35,12,53116.0
+2025-02-24,Email,Win-Back Campaign,1866.0,12008,392,74,51,36,11,43654.0
+2025-02-24,Google Ads,Performance Max - New Customers,23297.0,18606,789,94,58,34,8,37240.0
+2025-02-24,Google Ads,Search - Brand,17269.0,15824,583,64,44,22,5,32860.0
+2025-02-24,Google Ads,Search - Non-Brand,24446.0,30863,1404,138,78,40,9,45245.0
+2025-02-24,Google Ads,Shopping - Bestsellers,13250.0,15964,556,51,33,15,3,14123.0
+2025-02-24,LinkedIn Ads,InMail - Account Based Marketing,11248.0,17562,115,6,4,2,1,19294.0
+2025-02-24,LinkedIn Ads,Lead Gen Forms - Enterprise,15148.0,14288,113,8,5,3,1,19967.0
+2025-02-24,LinkedIn Ads,Sponsored Content - Decision Makers,19761.0,22867,201,11,7,4,1,17060.0
+2025-02-24,Meta Ads,Advantage+ Shopping,17534.0,64433,1395,106,55,28,4,19304.0
+2025-02-24,Meta Ads,Prospecting - Lookalike 1%,16972.0,47345,1043,53,32,13,2,7693.0
+2025-02-24,Meta Ads,Retargeting - Cart Abandoners,14636.0,57543,868,76,41,22,4,20165.0
+2025-02-24,Meta Ads,Video Views - Brand Awareness,10224.0,31988,554,31,17,9,2,10226.0
+2025-02-24,YouTube,Bumper Ads - Retargeting,7897.0,138762,1304,45,17,5,1,4020.0
+2025-02-24,YouTube,Discovery Ads - Product Demo,11415.0,114268,1233,36,14,5,1,4176.0
+2025-02-24,YouTube,In-Stream - Brand Awareness,12186.0,81306,1418,45,19,7,1,5326.0
+2025-03-03,Affiliate,Cashback Partners,5956.0,27542,776,71,34,14,3,14976.0
+2025-03-03,Affiliate,Content & Review Partners,9100.0,71427,2150,176,88,45,10,37208.0
+2025-03-03,Affiliate,Coupon & Deals Partners,9744.0,54805,1219,74,43,19,4,19034.0
+2025-03-03,Email,Abandoned Cart Series,2307.0,23988,838,140,94,60,20,79667.0
+2025-03-03,Email,Post-Purchase Upsell,2256.0,9752,412,74,53,31,9,36412.0
+2025-03-03,Email,Weekly Newsletter,2755.0,18575,650,104,68,41,13,45491.0
+2025-03-03,Email,Win-Back Campaign,1659.0,11142,455,79,58,37,9,30263.0
+2025-03-03,Google Ads,Performance Max - New Customers,20185.0,21406,833,85,48,27,7,31143.0
+2025-03-03,Google Ads,Search - Brand,16377.0,17891,673,58,37,19,4,18556.0
+2025-03-03,Google Ads,Search - Non-Brand,22155.0,26969,1109,112,75,38,8,45646.0
+2025-03-03,Google Ads,Shopping - Bestsellers,11678.0,10977,414,48,31,18,5,22466.0
+2025-03-03,LinkedIn Ads,InMail - Account Based Marketing,10291.0,7826,74,5,3,2,1,17944.0
+2025-03-03,LinkedIn Ads,Lead Gen Forms - Enterprise,17373.0,15858,119,6,4,3,1,23253.0
+2025-03-03,LinkedIn Ads,Sponsored Content - Decision Makers,18515.0,21237,154,10,6,4,1,22568.0
+2025-03-03,Meta Ads,Advantage+ Shopping,15393.0,59301,939,77,44,19,3,9638.0
+2025-03-03,Meta Ads,Prospecting - Lookalike 1%,19641.0,68026,1569,106,48,23,4,13536.0
+2025-03-03,Meta Ads,Retargeting - Cart Abandoners,16080.0,63608,1124,85,41,17,3,9731.0
+2025-03-03,Meta Ads,Video Views - Brand Awareness,11276.0,40147,1171,68,38,16,2,7984.0
+2025-03-03,YouTube,Bumper Ads - Retargeting,9507.0,87576,997,38,16,7,1,4077.0
+2025-03-03,YouTube,Discovery Ads - Product Demo,12524.0,68760,1102,23,11,5,1,3740.0
+2025-03-03,YouTube,In-Stream - Brand Awareness,14538.0,106763,1453,34,16,7,1,5028.0
+2025-03-10,Affiliate,Cashback Partners,6709.0,31602,798,57,29,12,2,9984.0
+2025-03-10,Affiliate,Content & Review Partners,8089.0,27108,994,76,39,21,3,14139.0
+2025-03-10,Affiliate,Coupon & Deals Partners,12063.0,100255,2035,164,80,41,7,29558.0
+2025-03-10,Email,Abandoned Cart Series,2725.0,22649,694,129,88,57,19,66468.0
+2025-03-10,Email,Post-Purchase Upsell,2254.0,11807,525,91,65,41,11,43618.0
+2025-03-10,Email,Weekly Newsletter,3043.0,25954,763,142,87,59,15,60379.0
+2025-03-10,Email,Win-Back Campaign,2101.0,13101,404,92,68,46,14,57164.0
+2025-03-10,Google Ads,Performance Max - New Customers,20646.0,17912,906,95,66,32,7,44037.0
+2025-03-10,Google Ads,Search - Brand,16979.0,23896,925,115,64,33,8,40901.0
+2025-03-10,Google Ads,Search - Non-Brand,25063.0,19083,792,71,40,24,5,27545.0
+2025-03-10,Google Ads,Shopping - Bestsellers,11306.0,11245,552,56,35,21,4,20252.0
+2025-03-10,LinkedIn Ads,InMail - Account Based Marketing,9132.0,7315,60,4,3,2,0,0.0
+2025-03-10,LinkedIn Ads,Lead Gen Forms - Enterprise,16045.0,18146,141,10,6,4,1,15079.0
+2025-03-10,LinkedIn Ads,Sponsored Content - Decision Makers,17787.0,12280,114,6,4,2,1,21558.0
+2025-03-10,Meta Ads,Advantage+ Shopping,16835.0,46086,903,46,22,10,1,3248.0
+2025-03-10,Meta Ads,Prospecting - Lookalike 1%,21483.0,154631,2320,149,75,40,7,34560.0
+2025-03-10,Meta Ads,Retargeting - Cart Abandoners,14034.0,40843,1070,67,37,16,2,9786.0
+2025-03-10,Meta Ads,Video Views - Brand Awareness,11860.0,32695,668,38,19,10,2,6445.0
+2025-03-10,YouTube,Bumper Ads - Retargeting,8471.0,53203,708,26,13,5,1,4606.0
+2025-03-10,YouTube,Discovery Ads - Product Demo,13382.0,131799,1998,41,19,7,1,4256.0
+2025-03-10,YouTube,In-Stream - Brand Awareness,14615.0,140926,1696,39,17,6,1,5430.0
+2025-03-17,Affiliate,Cashback Partners,6829.0,42537,922,89,50,21,4,18462.0
+2025-03-17,Affiliate,Content & Review Partners,9625.0,60015,1657,162,94,43,8,31438.0
+2025-03-17,Affiliate,Coupon & Deals Partners,10114.0,68570,1875,154,71,37,8,30558.0
+2025-03-17,Email,Abandoned Cart Series,3086.0,35163,1163,256,182,124,39,172405.0
+2025-03-17,Email,Post-Purchase Upsell,2230.0,11054,462,80,56,35,10,37348.0
+2025-03-17,Email,Weekly Newsletter,3060.0,18889,610,142,99,66,18,66045.0
+2025-03-17,Email,Win-Back Campaign,2006.0,10933,459,98,60,36,11,45453.0
+2025-03-17,Google Ads,Performance Max - New Customers,19068.0,23127,797,75,50,23,6,38767.0
+2025-03-17,Google Ads,Search - Brand,15315.0,17489,798,74,48,23,5,25837.0
+2025-03-17,Google Ads,Search - Non-Brand,24811.0,26957,1057,126,80,39,9,46384.0
+2025-03-17,Google Ads,Shopping - Bestsellers,10994.0,8683,402,50,30,14,3,16719.0
+2025-03-17,LinkedIn Ads,InMail - Account Based Marketing,11617.0,9203,76,5,3,2,1,23437.0
+2025-03-17,LinkedIn Ads,Lead Gen Forms - Enterprise,13300.0,9417,91,4,3,2,0,0.0
+2025-03-17,LinkedIn Ads,Sponsored Content - Decision Makers,17830.0,24192,160,9,7,3,1,21800.0
+2025-03-17,Meta Ads,Advantage+ Shopping,19807.0,57474,1158,97,51,23,4,18619.0
+2025-03-17,Meta Ads,Prospecting - Lookalike 1%,18988.0,92921,1547,138,66,28,4,17018.0
+2025-03-17,Meta Ads,Retargeting - Cart Abandoners,15101.0,61265,1314,101,50,27,4,13744.0
+2025-03-17,Meta Ads,Video Views - Brand Awareness,10924.0,35297,725,36,22,10,2,8640.0
+2025-03-17,YouTube,Bumper Ads - Retargeting,8231.0,69788,1211,26,11,4,0,0.0
+2025-03-17,YouTube,Discovery Ads - Product Demo,11980.0,189471,1769,48,23,8,1,4978.0
+2025-03-17,YouTube,In-Stream - Brand Awareness,15710.0,139901,2153,55,24,10,1,4397.0
+2025-03-24,Affiliate,Cashback Partners,7377.0,39102,1362,105,48,26,5,20109.0
+2025-03-24,Affiliate,Content & Review Partners,9122.0,54347,1090,84,45,22,4,14393.0
+2025-03-24,Affiliate,Coupon & Deals Partners,11659.0,37529,1405,100,55,29,6,21636.0
+2025-03-24,Email,Abandoned Cart Series,2484.0,21147,714,154,112,63,20,81616.0
+2025-03-24,Email,Post-Purchase Upsell,2339.0,11547,457,105,65,43,14,43029.0
+2025-03-24,Email,Weekly Newsletter,3122.0,30202,804,156,113,72,20,87629.0
+2025-03-24,Email,Win-Back Campaign,2117.0,10037,407,68,44,30,9,34273.0
+2025-03-24,Google Ads,Performance Max - New Customers,19548.0,21563,1016,127,87,46,10,50921.0
+2025-03-24,Google Ads,Search - Brand,16618.0,20259,1024,98,54,25,5,25013.0
+2025-03-24,Google Ads,Search - Non-Brand,21547.0,29355,1053,105,64,32,7,32182.0
+2025-03-24,Google Ads,Shopping - Bestsellers,11756.0,8517,416,50,31,17,4,20314.0
+2025-03-24,LinkedIn Ads,InMail - Account Based Marketing,10471.0,9132,71,5,4,2,1,22992.0
+2025-03-24,LinkedIn Ads,Lead Gen Forms - Enterprise,14092.0,20837,128,9,6,3,1,15192.0
+2025-03-24,LinkedIn Ads,Sponsored Content - Decision Makers,18191.0,20638,155,9,6,3,1,19165.0
+2025-03-24,Meta Ads,Advantage+ Shopping,17364.0,98428,1734,151,74,37,5,17135.0
+2025-03-24,Meta Ads,Prospecting - Lookalike 1%,18264.0,40117,976,75,39,17,2,7541.0
+2025-03-24,Meta Ads,Retargeting - Cart Abandoners,14190.0,32230,908,56,28,14,2,10090.0
+2025-03-24,Meta Ads,Video Views - Brand Awareness,12590.0,78613,1201,84,49,22,3,15483.0
+2025-03-24,YouTube,Bumper Ads - Retargeting,8374.0,87355,1318,35,17,7,1,5234.0
+2025-03-24,YouTube,Discovery Ads - Product Demo,10756.0,82467,920,20,9,3,0,0.0
+2025-03-24,YouTube,In-Stream - Brand Awareness,12348.0,88812,1094,31,13,6,0,0.0
+2025-03-31,Affiliate,Cashback Partners,7035.0,40154,1435,89,47,19,4,19615.0
+2025-03-31,Affiliate,Content & Review Partners,10036.0,56273,2082,134,65,35,7,26490.0
+2025-03-31,Affiliate,Coupon & Deals Partners,11810.0,52394,1322,129,65,33,6,21765.0
+2025-03-31,Email,Abandoned Cart Series,2715.0,31849,1069,191,139,96,28,124869.0
+2025-03-31,Email,Post-Purchase Upsell,1872.0,11116,488,99,69,38,10,31004.0
+2025-03-31,Email,Weekly Newsletter,2948.0,27160,726,126,82,49,16,63889.0
+2025-03-31,Email,Win-Back Campaign,1622.0,11516,466,85,63,37,12,39631.0
+2025-03-31,Google Ads,Performance Max - New Customers,24303.0,21494,1066,102,70,36,7,38539.0
+2025-03-31,Google Ads,Search - Brand,16512.0,10917,517,46,30,14,3,18475.0
+2025-03-31,Google Ads,Search - Non-Brand,28114.0,27867,946,91,56,25,5,24917.0
+2025-03-31,Google Ads,Shopping - Bestsellers,12226.0,14452,608,55,33,18,4,24850.0
+2025-03-31,LinkedIn Ads,InMail - Account Based Marketing,11678.0,11234,109,8,5,3,1,24600.0
+2025-03-31,LinkedIn Ads,Lead Gen Forms - Enterprise,16300.0,35403,180,12,8,5,1,17794.0
+2025-03-31,LinkedIn Ads,Sponsored Content - Decision Makers,17086.0,15678,110,8,5,3,1,24143.0
+2025-03-31,Meta Ads,Advantage+ Shopping,18673.0,42381,1218,81,43,20,3,9444.0
+2025-03-31,Meta Ads,Prospecting - Lookalike 1%,21333.0,50689,1291,84,42,21,3,15274.0
+2025-03-31,Meta Ads,Retargeting - Cart Abandoners,16001.0,59947,1339,100,51,27,4,12083.0
+2025-03-31,Meta Ads,Video Views - Brand Awareness,12932.0,30761,714,52,24,12,2,9120.0
+2025-03-31,YouTube,Bumper Ads - Retargeting,9144.0,91306,1122,31,12,5,0,0.0
+2025-03-31,YouTube,Discovery Ads - Product Demo,10958.0,82274,1365,30,13,5,1,3845.0
+2025-03-31,YouTube,In-Stream - Brand Awareness,13821.0,140371,2075,57,20,9,1,4845.0
+2025-04-07,Affiliate,Cashback Partners,6752.0,27287,890,58,28,14,2,9073.0
+2025-04-07,Affiliate,Content & Review Partners,9993.0,40571,1482,146,79,41,8,33129.0
+2025-04-07,Affiliate,Coupon & Deals Partners,12300.0,106974,2373,225,104,51,9,44943.0
+2025-04-07,Email,Abandoned Cart Series,2650.0,22642,573,133,99,54,16,57932.0
+2025-04-07,Email,Post-Purchase Upsell,2407.0,15319,548,127,92,63,21,75710.0
+2025-04-07,Email,Weekly Newsletter,2840.0,21899,815,165,109,60,17,69842.0
+2025-04-07,Email,Win-Back Campaign,2187.0,14251,531,89,55,36,11,46733.0
+2025-04-07,Google Ads,Performance Max - New Customers,24219.0,33565,1418,135,88,41,10,63684.0
+2025-04-07,Google Ads,Search - Brand,18370.0,12528,643,76,44,23,4,24800.0
+2025-04-07,Google Ads,Search - Non-Brand,25264.0,24702,1250,112,71,40,7,40007.0
+2025-04-07,Google Ads,Shopping - Bestsellers,10408.0,11235,492,56,34,16,3,19798.0
+2025-04-07,LinkedIn Ads,InMail - Account Based Marketing,9740.0,9713,94,6,4,2,1,16122.0
+2025-04-07,LinkedIn Ads,Lead Gen Forms - Enterprise,15024.0,16461,151,11,7,5,1,21421.0
+2025-04-07,LinkedIn Ads,Sponsored Content - Decision Makers,17788.0,19738,115,7,4,3,1,24676.0
+2025-04-07,Meta Ads,Advantage+ Shopping,17687.0,94318,1844,123,59,27,3,9747.0
+2025-04-07,Meta Ads,Prospecting - Lookalike 1%,18703.0,63604,1576,118,57,27,5,21662.0
+2025-04-07,Meta Ads,Retargeting - Cart Abandoners,12768.0,48319,951,72,39,16,2,9233.0
+2025-04-07,Meta Ads,Video Views - Brand Awareness,11114.0,37239,956,50,27,12,2,9449.0
+2025-04-07,YouTube,Bumper Ads - Retargeting,8186.0,73524,1305,46,23,10,1,4458.0
+2025-04-07,YouTube,Discovery Ads - Product Demo,10863.0,83392,930,25,10,3,0,0.0
+2025-04-07,YouTube,In-Stream - Brand Awareness,13812.0,192755,2242,65,29,13,1,4853.0
+2025-04-14,Affiliate,Cashback Partners,6751.0,45634,1442,116,57,25,4,19207.0
+2025-04-14,Affiliate,Content & Review Partners,10374.0,53062,1862,117,63,30,5,24777.0
+2025-04-14,Affiliate,Coupon & Deals Partners,12082.0,85480,2284,170,92,47,10,35450.0
+2025-04-14,Email,Abandoned Cart Series,2810.0,26177,946,150,98,59,20,72467.0
+2025-04-14,Email,Post-Purchase Upsell,2431.0,14492,544,95,70,44,12,53779.0
+2025-04-14,Email,Weekly Newsletter,3122.0,27377,1033,195,130,75,24,97126.0
+2025-04-14,Email,Win-Back Campaign,2039.0,11870,398,91,57,34,9,34573.0
+2025-04-14,Google Ads,Performance Max - New Customers,20754.0,20226,784,87,49,29,7,44295.0
+2025-04-14,Google Ads,Search - Brand,18645.0,15583,786,70,39,23,6,30554.0
+2025-04-14,Google Ads,Search - Non-Brand,24779.0,26443,1066,99,68,33,8,36382.0
+2025-04-14,Google Ads,Shopping - Bestsellers,10651.0,12809,504,54,32,15,3,14880.0
+2025-04-14,LinkedIn Ads,InMail - Account Based Marketing,11194.0,12164,79,6,4,2,1,17470.0
+2025-04-14,LinkedIn Ads,Lead Gen Forms - Enterprise,15910.0,14512,117,8,5,3,1,16456.0
+2025-04-14,LinkedIn Ads,Sponsored Content - Decision Makers,15870.0,26682,175,13,8,5,1,20511.0
+2025-04-14,Meta Ads,Advantage+ Shopping,17265.0,82270,1886,104,50,25,3,14886.0
+2025-04-14,Meta Ads,Prospecting - Lookalike 1%,19423.0,72664,1723,92,47,20,3,11936.0
+2025-04-14,Meta Ads,Retargeting - Cart Abandoners,15423.0,63299,1224,71,42,22,3,13928.0
+2025-04-14,Meta Ads,Video Views - Brand Awareness,11747.0,27990,678,57,29,14,2,9977.0
+2025-04-14,YouTube,Bumper Ads - Retargeting,8786.0,80129,789,20,8,3,0,0.0
+2025-04-14,YouTube,Discovery Ads - Product Demo,10158.0,109956,1033,24,9,4,0,0.0
+2025-04-14,YouTube,In-Stream - Brand Awareness,12278.0,114840,1742,36,13,5,0,0.0
+2025-04-21,Affiliate,Cashback Partners,8096.0,55646,1619,118,68,28,5,23301.0
+2025-04-21,Affiliate,Content & Review Partners,10496.0,57626,1238,118,66,34,7,29826.0
+2025-04-21,Affiliate,Coupon & Deals Partners,11532.0,53210,1933,185,85,42,7,26714.0
+2025-04-21,Email,Abandoned Cart Series,2805.0,18056,643,130,91,62,17,62721.0
+2025-04-21,Email,Post-Purchase Upsell,1859.0,25144,691,130,94,57,16,62406.0
+2025-04-21,Email,Weekly Newsletter,2766.0,37176,1062,237,159,110,28,109870.0
+2025-04-21,Email,Win-Back Campaign,1965.0,19974,571,135,85,50,15,46741.0
+2025-04-21,Google Ads,Performance Max - New Customers,25863.0,32738,1108,119,68,38,8,47932.0
+2025-04-21,Google Ads,Search - Brand,15747.0,17511,780,78,47,25,6,31401.0
+2025-04-21,Google Ads,Search - Non-Brand,26008.0,19480,827,100,67,31,6,35618.0
+2025-04-21,Google Ads,Shopping - Bestsellers,12605.0,10930,484,56,38,22,4,22494.0
+2025-04-21,LinkedIn Ads,InMail - Account Based Marketing,10680.0,16734,84,6,4,2,1,19862.0
+2025-04-21,LinkedIn Ads,Lead Gen Forms - Enterprise,15096.0,12649,96,4,3,2,0,0.0
+2025-04-21,LinkedIn Ads,Sponsored Content - Decision Makers,17115.0,15388,112,7,5,3,1,23025.0
+2025-04-21,Meta Ads,Advantage+ Shopping,18510.0,57946,1122,62,36,19,2,9624.0
+2025-04-21,Meta Ads,Prospecting - Lookalike 1%,18615.0,54752,1125,95,48,21,3,11776.0
+2025-04-21,Meta Ads,Retargeting - Cart Abandoners,12918.0,74288,1332,108,63,30,4,16703.0
+2025-04-21,Meta Ads,Video Views - Brand Awareness,9904.0,38976,1028,73,38,20,3,9380.0
+2025-04-21,YouTube,Bumper Ads - Retargeting,7885.0,50749,845,18,7,3,0,0.0
+2025-04-21,YouTube,Discovery Ads - Product Demo,13852.0,116847,1528,44,20,9,1,3955.0
+2025-04-21,YouTube,In-Stream - Brand Awareness,14570.0,170940,2878,99,47,14,2,10218.0
+2025-04-28,Affiliate,Cashback Partners,6721.0,68698,1660,140,65,33,7,27841.0
+2025-04-28,Affiliate,Content & Review Partners,8594.0,29008,1021,92,48,20,4,17110.0
+2025-04-28,Affiliate,Coupon & Deals Partners,11095.0,63582,2088,149,76,37,8,37532.0
+2025-04-28,Email,Abandoned Cart Series,2304.0,13297,485,77,57,38,10,44461.0
+2025-04-28,Email,Post-Purchase Upsell,2239.0,9764,426,99,69,41,14,44572.0
+2025-04-28,Email,Weekly Newsletter,2756.0,23657,753,139,84,57,19,81581.0
+2025-04-28,Email,Win-Back Campaign,1700.0,15612,440,72,54,34,9,37481.0
+2025-04-28,Google Ads,Performance Max - New Customers,21507.0,27766,1293,112,62,35,9,54579.0
+2025-04-28,Google Ads,Search - Brand,18004.0,16895,683,63,38,21,4,18424.0
+2025-04-28,Google Ads,Search - Non-Brand,27171.0,26741,963,93,65,36,8,40614.0
+2025-04-28,Google Ads,Shopping - Bestsellers,11221.0,11589,472,46,29,15,3,19128.0
+2025-04-28,LinkedIn Ads,InMail - Account Based Marketing,10709.0,11954,75,4,2,1,0,0.0
+2025-04-28,LinkedIn Ads,Lead Gen Forms - Enterprise,15781.0,17302,133,6,4,3,1,19189.0
+2025-04-28,LinkedIn Ads,Sponsored Content - Decision Makers,18466.0,21208,198,12,7,4,1,21494.0
+2025-04-28,Meta Ads,Advantage+ Shopping,19076.0,54568,1560,97,47,25,4,19882.0
+2025-04-28,Meta Ads,Prospecting - Lookalike 1%,21015.0,48708,1449,112,52,22,4,20771.0
+2025-04-28,Meta Ads,Retargeting - Cart Abandoners,14260.0,53892,1425,75,34,18,3,14818.0
+2025-04-28,Meta Ads,Video Views - Brand Awareness,10858.0,24232,586,45,26,12,2,8817.0
+2025-04-28,YouTube,Bumper Ads - Retargeting,8312.0,54176,873,20,9,4,0,0.0
+2025-04-28,YouTube,Discovery Ads - Product Demo,10681.0,122351,1879,42,19,6,1,3825.0
+2025-04-28,YouTube,In-Stream - Brand Awareness,12980.0,152647,2230,71,32,12,1,3849.0
+2025-05-05,Affiliate,Cashback Partners,6375.0,27560,828,50,25,13,3,10547.0
+2025-05-05,Affiliate,Content & Review Partners,8194.0,48993,1267,93,51,25,4,14711.0
+2025-05-05,Affiliate,Coupon & Deals Partners,9604.0,47887,1659,142,82,45,7,31796.0
+2025-05-05,Email,Abandoned Cart Series,2129.0,21273,805,159,105,63,16,64333.0
+2025-05-05,Email,Post-Purchase Upsell,1945.0,22087,676,156,111,76,25,86722.0
+2025-05-05,Email,Weekly Newsletter,2483.0,19856,741,172,116,73,21,85288.0
+2025-05-05,Email,Win-Back Campaign,1650.0,10035,430,93,59,38,10,32911.0
+2025-05-05,Google Ads,Performance Max - New Customers,21875.0,20706,869,94,57,33,6,32055.0
+2025-05-05,Google Ads,Search - Brand,15546.0,19703,702,70,41,20,5,27459.0
+2025-05-05,Google Ads,Search - Non-Brand,28553.0,51837,1728,175,98,48,12,58317.0
+2025-05-05,Google Ads,Shopping - Bestsellers,12329.0,10471,412,44,25,12,2,12003.0
+2025-05-05,LinkedIn Ads,InMail - Account Based Marketing,9756.0,13190,108,5,3,2,0,0.0
+2025-05-05,LinkedIn Ads,Lead Gen Forms - Enterprise,14190.0,23721,124,7,5,3,1,20087.0
+2025-05-05,LinkedIn Ads,Sponsored Content - Decision Makers,16046.0,14644,123,6,4,3,1,16961.0
+2025-05-05,Meta Ads,Advantage+ Shopping,15576.0,55449,1589,127,75,35,5,18942.0
+2025-05-05,Meta Ads,Prospecting - Lookalike 1%,20474.0,80912,1296,74,44,24,4,12324.0
+2025-05-05,Meta Ads,Retargeting - Cart Abandoners,14533.0,33302,876,47,25,11,2,7055.0
+2025-05-05,Meta Ads,Video Views - Brand Awareness,11529.0,35167,921,76,44,19,3,10475.0
+2025-05-05,YouTube,Bumper Ads - Retargeting,8281.0,94656,1539,54,24,9,1,4980.0
+2025-05-05,YouTube,Discovery Ads - Product Demo,10317.0,173400,1818,47,22,9,1,3624.0
+2025-05-05,YouTube,In-Stream - Brand Awareness,10684.0,80990,953,29,14,5,1,3653.0
+2025-05-12,Affiliate,Cashback Partners,6475.0,31134,974,66,40,17,3,14749.0
+2025-05-12,Affiliate,Content & Review Partners,7906.0,24313,913,55,32,14,3,13552.0
+2025-05-12,Affiliate,Coupon & Deals Partners,11089.0,68635,1527,130,77,35,6,21254.0
+2025-05-12,Email,Abandoned Cart Series,2760.0,17563,584,99,73,46,13,57370.0
+2025-05-12,Email,Post-Purchase Upsell,2143.0,16126,418,92,57,37,11,44679.0
+2025-05-12,Email,Weekly Newsletter,2644.0,18013,576,86,53,35,9,35092.0
+2025-05-12,Email,Win-Back Campaign,1691.0,16264,442,71,47,31,9,36310.0
+2025-05-12,Google Ads,Performance Max - New Customers,22868.0,32703,1359,164,106,59,12,63850.0
+2025-05-12,Google Ads,Search - Brand,16371.0,19481,959,114,64,29,5,31390.0
+2025-05-12,Google Ads,Search - Non-Brand,21821.0,21736,881,103,64,34,8,37842.0
+2025-05-12,Google Ads,Shopping - Bestsellers,10254.0,10213,421,41,25,12,2,9460.0
+2025-05-12,LinkedIn Ads,InMail - Account Based Marketing,8854.0,9105,71,4,3,1,0,0.0
+2025-05-12,LinkedIn Ads,Lead Gen Forms - Enterprise,13276.0,14858,98,7,5,3,1,17080.0
+2025-05-12,LinkedIn Ads,Sponsored Content - Decision Makers,14526.0,17251,91,5,3,2,0,0.0
+2025-05-12,Meta Ads,Advantage+ Shopping,14125.0,52400,1393,104,55,30,5,19358.0
+2025-05-12,Meta Ads,Prospecting - Lookalike 1%,17426.0,46507,1203,64,39,21,3,14716.0
+2025-05-12,Meta Ads,Retargeting - Cart Abandoners,12461.0,26995,761,63,36,17,3,13559.0
+2025-05-12,Meta Ads,Video Views - Brand Awareness,9753.0,24539,648,47,25,13,2,9654.0
+2025-05-12,YouTube,Bumper Ads - Retargeting,6917.0,71860,925,23,10,4,0,0.0
+2025-05-12,YouTube,Discovery Ads - Product Demo,9736.0,88631,1119,40,15,5,1,3601.0
+2025-05-12,YouTube,In-Stream - Brand Awareness,12668.0,175509,2283,75,36,13,1,4481.0
+2025-05-19,Affiliate,Cashback Partners,7339.0,31170,1123,100,48,22,5,17647.0
+2025-05-19,Affiliate,Content & Review Partners,9693.0,46559,1735,164,97,49,8,30343.0
+2025-05-19,Affiliate,Coupon & Deals Partners,10955.0,99532,2037,144,73,35,6,28911.0
+2025-05-19,Email,Abandoned Cart Series,2509.0,11888,514,81,55,37,10,33954.0
+2025-05-19,Email,Post-Purchase Upsell,1941.0,23146,671,119,88,53,13,41762.0
+2025-05-19,Email,Weekly Newsletter,2636.0,32270,916,188,122,80,25,98311.0
+2025-05-19,Email,Win-Back Campaign,1603.0,11761,380,80,55,36,10,41511.0
+2025-05-19,Google Ads,Performance Max - New Customers,20580.0,15559,806,77,44,21,5,28561.0
+2025-05-19,Google Ads,Search - Brand,17518.0,21049,966,115,67,32,6,27024.0
+2025-05-19,Google Ads,Search - Non-Brand,27263.0,26064,857,99,55,30,7,36332.0
+2025-05-19,Google Ads,Shopping - Bestsellers,12476.0,8923,445,52,31,16,3,15377.0
+2025-05-19,LinkedIn Ads,InMail - Account Based Marketing,9952.0,7390,69,4,2,1,0,0.0
+2025-05-19,LinkedIn Ads,Lead Gen Forms - Enterprise,12545.0,14671,127,9,6,4,1,16358.0
+2025-05-19,LinkedIn Ads,Sponsored Content - Decision Makers,16103.0,15634,132,8,6,3,1,24855.0
+2025-05-19,Meta Ads,Advantage+ Shopping,14326.0,48222,903,64,36,18,3,11197.0
+2025-05-19,Meta Ads,Prospecting - Lookalike 1%,17743.0,77851,1255,97,54,26,4,14642.0
+2025-05-19,Meta Ads,Retargeting - Cart Abandoners,12419.0,46944,993,77,45,23,3,11417.0
+2025-05-19,Meta Ads,Video Views - Brand Awareness,10401.0,43632,718,61,32,15,2,7659.0
+2025-05-19,YouTube,Bumper Ads - Retargeting,7505.0,100525,882,33,13,6,1,4368.0
+2025-05-19,YouTube,Discovery Ads - Product Demo,9522.0,151868,1751,40,15,5,1,3683.0
+2025-05-19,YouTube,In-Stream - Brand Awareness,10693.0,80720,1198,25,9,3,0,0.0
+2025-05-26,Affiliate,Cashback Partners,7232.0,50414,1524,114,55,27,4,15658.0
+2025-05-26,Affiliate,Content & Review Partners,8991.0,66873,1602,150,68,36,8,35561.0
+2025-05-26,Affiliate,Coupon & Deals Partners,13149.0,116834,2909,238,137,65,10,36908.0
+2025-05-26,Email,Abandoned Cart Series,2503.0,21517,753,159,99,67,19,59659.0
+2025-05-26,Email,Post-Purchase Upsell,1801.0,12724,344,80,54,37,11,44079.0
+2025-05-26,Email,Weekly Newsletter,2414.0,14514,494,111,68,42,13,52157.0
+2025-05-26,Email,Win-Back Campaign,1753.0,8902,380,87,56,36,12,40389.0
+2025-05-26,Google Ads,Performance Max - New Customers,21165.0,17518,782,90,61,34,7,35766.0
+2025-05-26,Google Ads,Search - Brand,18070.0,14179,572,61,38,18,3,16682.0
+2025-05-26,Google Ads,Search - Non-Brand,23274.0,21844,753,70,47,22,5,29983.0
+2025-05-26,Google Ads,Shopping - Bestsellers,12364.0,9025,395,44,27,15,4,19011.0
+2025-05-26,LinkedIn Ads,InMail - Account Based Marketing,9997.0,20825,108,6,4,2,1,22157.0
+2025-05-26,LinkedIn Ads,Lead Gen Forms - Enterprise,14131.0,22618,144,9,6,3,1,19200.0
+2025-05-26,LinkedIn Ads,Sponsored Content - Decision Makers,17585.0,30810,156,7,5,3,1,18585.0
+2025-05-26,Meta Ads,Advantage+ Shopping,16593.0,59932,1440,74,40,21,3,11192.0
+2025-05-26,Meta Ads,Prospecting - Lookalike 1%,16584.0,51524,1130,97,57,25,3,14183.0
+2025-05-26,Meta Ads,Retargeting - Cart Abandoners,15707.0,58000,891,53,24,13,2,8260.0
+2025-05-26,Meta Ads,Video Views - Brand Awareness,11354.0,41526,703,41,22,10,1,3341.0
+2025-05-26,YouTube,Bumper Ads - Retargeting,7115.0,78856,639,16,6,2,0,0.0
+2025-05-26,YouTube,Discovery Ads - Product Demo,11166.0,90446,1176,47,23,10,1,4655.0
+2025-05-26,YouTube,In-Stream - Brand Awareness,13052.0,179907,1733,54,23,10,1,5252.0
+2025-06-02,Affiliate,Cashback Partners,6340.0,38736,806,78,35,17,3,12618.0
+2025-06-02,Affiliate,Content & Review Partners,10324.0,50544,1491,127,74,40,6,22845.0
+2025-06-02,Affiliate,Coupon & Deals Partners,11607.0,122602,2455,174,93,44,7,30944.0
+2025-06-02,Email,Abandoned Cart Series,2673.0,23845,616,97,67,40,11,36192.0
+2025-06-02,Email,Post-Purchase Upsell,1849.0,14195,435,101,70,42,14,62017.0
+2025-06-02,Email,Weekly Newsletter,2502.0,13126,571,135,100,65,20,76574.0
+2025-06-02,Email,Win-Back Campaign,1995.0,9853,370,87,64,37,10,33174.0
+2025-06-02,Google Ads,Performance Max - New Customers,21244.0,15553,709,63,40,19,4,24881.0
+2025-06-02,Google Ads,Search - Brand,15624.0,15178,659,57,35,19,4,23385.0
+2025-06-02,Google Ads,Search - Non-Brand,24443.0,19468,931,102,65,35,7,35007.0
+2025-06-02,Google Ads,Shopping - Bestsellers,10790.0,10929,424,44,30,17,4,20840.0
+2025-06-02,LinkedIn Ads,InMail - Account Based Marketing,9700.0,11249,83,6,4,2,1,22850.0
+2025-06-02,LinkedIn Ads,Lead Gen Forms - Enterprise,14291.0,11831,114,9,6,3,1,17234.0
+2025-06-02,LinkedIn Ads,Sponsored Content - Decision Makers,13656.0,24949,132,8,5,3,1,22280.0
+2025-06-02,Meta Ads,Advantage+ Shopping,16316.0,41532,1151,59,33,14,2,8328.0
+2025-06-02,Meta Ads,Prospecting - Lookalike 1%,17027.0,64013,1130,89,44,19,3,14182.0
+2025-06-02,Meta Ads,Retargeting - Cart Abandoners,15206.0,69862,1092,66,31,16,2,10252.0
+2025-06-02,Meta Ads,Video Views - Brand Awareness,9189.0,34405,530,29,17,8,1,4398.0
+2025-06-02,YouTube,Bumper Ads - Retargeting,8225.0,85778,1042,23,8,3,0,0.0
+2025-06-02,YouTube,Discovery Ads - Product Demo,11274.0,163470,1865,63,23,10,1,4715.0
+2025-06-02,YouTube,In-Stream - Brand Awareness,11070.0,182750,1488,50,19,7,1,4524.0
+2025-06-09,Affiliate,Cashback Partners,6944.0,26223,782,58,31,12,2,9707.0
+2025-06-09,Affiliate,Content & Review Partners,9806.0,41495,1525,140,66,27,5,22644.0
+2025-06-09,Affiliate,Coupon & Deals Partners,12067.0,67484,1861,166,98,51,10,42316.0
+2025-06-09,Email,Abandoned Cart Series,2352.0,29682,917,142,94,63,19,76203.0
+2025-06-09,Email,Post-Purchase Upsell,2164.0,13832,530,86,55,39,13,45298.0
+2025-06-09,Email,Weekly Newsletter,2992.0,14886,551,126,77,49,14,42792.0
+2025-06-09,Email,Win-Back Campaign,1655.0,11809,330,58,40,27,9,37566.0
+2025-06-09,Google Ads,Performance Max - New Customers,18414.0,12047,598,63,40,19,5,27485.0
+2025-06-09,Google Ads,Search - Brand,13838.0,18368,725,89,56,27,5,25721.0
+2025-06-09,Google Ads,Search - Non-Brand,24423.0,23255,1103,129,73,40,10,52847.0
+2025-06-09,Google Ads,Shopping - Bestsellers,9165.0,6672,340,40,24,11,3,19385.0
+2025-06-09,LinkedIn Ads,InMail - Account Based Marketing,10127.0,14312,100,5,3,2,0,0.0
+2025-06-09,LinkedIn Ads,Lead Gen Forms - Enterprise,16010.0,14501,125,7,5,3,1,17380.0
+2025-06-09,LinkedIn Ads,Sponsored Content - Decision Makers,15127.0,18982,111,7,5,3,1,23566.0
+2025-06-09,Meta Ads,Advantage+ Shopping,17520.0,60037,1638,135,79,32,6,21271.0
+2025-06-09,Meta Ads,Prospecting - Lookalike 1%,17576.0,57800,1700,92,49,22,3,12924.0
+2025-06-09,Meta Ads,Retargeting - Cart Abandoners,15857.0,33728,945,58,30,12,2,7330.0
+2025-06-09,Meta Ads,Video Views - Brand Awareness,10592.0,48469,922,66,32,15,2,9679.0
+2025-06-09,YouTube,Bumper Ads - Retargeting,7608.0,66369,664,15,7,3,0,0.0
+2025-06-09,YouTube,Discovery Ads - Product Demo,10414.0,103663,885,25,9,3,0,0.0
+2025-06-09,YouTube,In-Stream - Brand Awareness,12447.0,176312,1986,47,22,8,1,3614.0
+2025-06-16,Affiliate,Cashback Partners,5936.0,29200,814,53,30,12,2,8687.0
+2025-06-16,Affiliate,Content & Review Partners,8573.0,63378,1639,159,89,45,10,35087.0
+2025-06-16,Affiliate,Coupon & Deals Partners,11505.0,65561,1436,135,76,36,6,23593.0
+2025-06-16,Email,Abandoned Cart Series,2296.0,15390,587,130,84,55,15,59500.0
+2025-06-16,Email,Post-Purchase Upsell,1783.0,11001,438,94,69,44,15,64977.0
+2025-06-16,Email,Weekly Newsletter,2402.0,20609,607,127,77,44,12,49994.0
+2025-06-16,Email,Win-Back Campaign,1692.0,7181,321,70,52,30,9,29678.0
+2025-06-16,Google Ads,Performance Max - New Customers,20553.0,13413,671,79,51,28,6,35515.0
+2025-06-16,Google Ads,Search - Brand,17012.0,17996,727,65,37,18,4,18883.0
+2025-06-16,Google Ads,Search - Non-Brand,23057.0,25633,931,85,54,27,6,38441.0
+2025-06-16,Google Ads,Shopping - Bestsellers,9914.0,7240,316,37,22,10,2,11032.0
+2025-06-16,LinkedIn Ads,InMail - Account Based Marketing,9489.0,9649,60,4,3,2,0,0.0
+2025-06-16,LinkedIn Ads,Lead Gen Forms - Enterprise,15353.0,18959,112,7,5,3,1,20960.0
+2025-06-16,LinkedIn Ads,Sponsored Content - Decision Makers,16232.0,11216,111,7,4,2,1,21792.0
+2025-06-16,Meta Ads,Advantage+ Shopping,15721.0,51066,1003,51,24,11,2,9055.0
+2025-06-16,Meta Ads,Prospecting - Lookalike 1%,19180.0,67200,1831,94,46,19,3,11431.0
+2025-06-16,Meta Ads,Retargeting - Cart Abandoners,15552.0,57113,1247,85,39,18,3,12604.0
+2025-06-16,Meta Ads,Video Views - Brand Awareness,10553.0,32692,631,47,27,12,2,8356.0
+2025-06-16,YouTube,Bumper Ads - Retargeting,7516.0,68634,915,24,9,3,0,0.0
+2025-06-16,YouTube,Discovery Ads - Product Demo,12615.0,267997,2319,88,35,14,1,4798.0
+2025-06-16,YouTube,In-Stream - Brand Awareness,14303.0,144073,2306,75,36,12,1,3758.0
+2025-06-23,Affiliate,Cashback Partners,6448.0,36664,769,54,29,15,3,12346.0
+2025-06-23,Affiliate,Content & Review Partners,8593.0,76361,1774,130,64,34,6,24849.0
+2025-06-23,Affiliate,Coupon & Deals Partners,11314.0,76317,2748,267,139,56,11,43713.0
+2025-06-23,Email,Abandoned Cart Series,2845.0,33541,1080,231,153,87,27,102166.0
+2025-06-23,Email,Post-Purchase Upsell,1934.0,17557,733,164,102,66,21,80565.0
+2025-06-23,Email,Weekly Newsletter,2649.0,16285,647,154,93,55,16,54925.0
+2025-06-23,Email,Win-Back Campaign,2107.0,9926,444,74,53,33,11,40715.0
+2025-06-23,Google Ads,Performance Max - New Customers,21976.0,30036,1332,149,99,52,12,63256.0
+2025-06-23,Google Ads,Search - Brand,15632.0,18371,782,78,54,26,5,25234.0
+2025-06-23,Google Ads,Search - Non-Brand,24639.0,22888,1027,126,75,41,8,39818.0
+2025-06-23,Google Ads,Shopping - Bestsellers,9864.0,12427,560,70,39,21,5,31095.0
+2025-06-23,LinkedIn Ads,InMail - Account Based Marketing,9808.0,7076,68,5,3,2,1,24626.0
+2025-06-23,LinkedIn Ads,Lead Gen Forms - Enterprise,14149.0,20256,119,6,4,2,1,20498.0
+2025-06-23,LinkedIn Ads,Sponsored Content - Decision Makers,19358.0,19414,129,9,6,4,1,21003.0
+2025-06-23,Meta Ads,Advantage+ Shopping,16654.0,35614,1049,91,49,22,3,14385.0
+2025-06-23,Meta Ads,Prospecting - Lookalike 1%,21912.0,74223,1955,125,59,30,4,16745.0
+2025-06-23,Meta Ads,Retargeting - Cart Abandoners,16995.0,54960,1374,89,41,19,3,12190.0
+2025-06-23,Meta Ads,Video Views - Brand Awareness,12842.0,34221,747,41,22,9,1,4097.0
+2025-06-23,YouTube,Bumper Ads - Retargeting,8033.0,80432,1056,25,9,3,0,0.0
+2025-06-23,YouTube,Discovery Ads - Product Demo,9880.0,52572,834,26,10,3,0,0.0
+2025-06-23,YouTube,In-Stream - Brand Awareness,11849.0,96397,1448,41,20,8,1,4933.0
+2025-06-30,Affiliate,Cashback Partners,6319.0,29737,887,58,29,15,3,14833.0
+2025-06-30,Affiliate,Content & Review Partners,9817.0,42059,1279,111,51,27,4,19737.0
+2025-06-30,Affiliate,Coupon & Deals Partners,10771.0,59929,1575,115,52,28,4,15625.0
+2025-06-30,Email,Abandoned Cart Series,2630.0,13350,508,103,64,39,12,37474.0
+2025-06-30,Email,Post-Purchase Upsell,1917.0,21731,753,117,84,48,13,47969.0
+2025-06-30,Email,Weekly Newsletter,2845.0,16309,643,134,95,54,18,61717.0
+2025-06-30,Email,Win-Back Campaign,1576.0,9087,288,52,33,22,6,25114.0
+2025-06-30,Google Ads,Performance Max - New Customers,24771.0,27164,937,91,62,29,6,38841.0
+2025-06-30,Google Ads,Search - Brand,17077.0,12791,629,57,39,18,4,18275.0
+2025-06-30,Google Ads,Search - Non-Brand,23074.0,35119,1437,141,81,42,9,54800.0
+2025-06-30,Google Ads,Shopping - Bestsellers,12542.0,12249,555,57,38,17,3,17254.0
+2025-06-30,LinkedIn Ads,InMail - Account Based Marketing,11473.0,15194,119,7,4,2,1,16742.0
+2025-06-30,LinkedIn Ads,Lead Gen Forms - Enterprise,16755.0,11785,111,7,5,3,1,15642.0
+2025-06-30,LinkedIn Ads,Sponsored Content - Decision Makers,17303.0,12833,115,8,6,3,1,21401.0
+2025-06-30,Meta Ads,Advantage+ Shopping,19098.0,39138,1098,62,29,16,2,7622.0
+2025-06-30,Meta Ads,Prospecting - Lookalike 1%,20353.0,43414,1209,97,54,22,3,9795.0
+2025-06-30,Meta Ads,Retargeting - Cart Abandoners,13418.0,46440,1270,101,60,33,6,19755.0
+2025-06-30,Meta Ads,Video Views - Brand Awareness,11136.0,71006,1087,98,57,30,4,13937.0
+2025-06-30,YouTube,Bumper Ads - Retargeting,7609.0,45959,757,23,10,3,0,0.0
+2025-06-30,YouTube,Discovery Ads - Product Demo,10898.0,131749,1967,72,27,8,1,3764.0
+2025-06-30,YouTube,In-Stream - Brand Awareness,14523.0,106868,1399,51,25,10,1,4802.0
+2025-07-07,Affiliate,Cashback Partners,6305.0,24481,814,72,41,17,3,11678.0
+2025-07-07,Affiliate,Content & Review Partners,8008.0,80396,1839,155,91,37,7,27147.0
+2025-07-07,Affiliate,Coupon & Deals Partners,10755.0,53241,1516,131,73,36,7,30870.0
+2025-07-07,Email,Abandoned Cart Series,2398.0,11282,493,106,70,48,13,50382.0
+2025-07-07,Email,Post-Purchase Upsell,1600.0,9350,320,64,47,31,9,27226.0
+2025-07-07,Email,Weekly Newsletter,2385.0,13945,614,97,67,44,11,43502.0
+2025-07-07,Email,Win-Back Campaign,1675.0,7556,327,52,37,21,7,28357.0
+2025-07-07,Google Ads,Performance Max - New Customers,20285.0,20627,891,88,52,25,5,27462.0
+2025-07-07,Google Ads,Search - Brand,15208.0,14145,703,83,52,29,6,32924.0
+2025-07-07,Google Ads,Search - Non-Brand,20346.0,14100,683,83,56,33,7,45150.0
+2025-07-07,Google Ads,Shopping - Bestsellers,10900.0,9852,418,43,26,13,3,14509.0
+2025-07-07,LinkedIn Ads,InMail - Account Based Marketing,11014.0,11197,70,4,2,1,0,0.0
+2025-07-07,LinkedIn Ads,Lead Gen Forms - Enterprise,15132.0,13739,96,5,3,2,0,0.0
+2025-07-07,LinkedIn Ads,Sponsored Content - Decision Makers,14898.0,26069,150,9,7,4,1,20915.0
+2025-07-07,Meta Ads,Advantage+ Shopping,14270.0,35779,970,83,45,21,3,11649.0
+2025-07-07,Meta Ads,Prospecting - Lookalike 1%,16573.0,68570,1830,164,87,40,6,19268.0
+2025-07-07,Meta Ads,Retargeting - Cart Abandoners,12656.0,42026,903,65,37,16,2,6168.0
+2025-07-07,Meta Ads,Video Views - Brand Awareness,9652.0,24452,545,32,16,7,1,3111.0
+2025-07-07,YouTube,Bumper Ads - Retargeting,7297.0,79975,1358,27,12,4,1,4079.0
+2025-07-07,YouTube,Discovery Ads - Product Demo,11442.0,79387,1300,51,21,6,1,3543.0
+2025-07-07,YouTube,In-Stream - Brand Awareness,11970.0,162068,1731,36,14,4,1,4012.0
+2025-07-14,Affiliate,Cashback Partners,6631.0,37911,941,78,35,16,3,12584.0
+2025-07-14,Affiliate,Content & Review Partners,9405.0,53365,1298,119,55,29,5,21922.0
+2025-07-14,Affiliate,Coupon & Deals Partners,12349.0,111631,2721,213,127,53,10,40119.0
+2025-07-14,Email,Abandoned Cart Series,2042.0,17599,456,90,64,36,10,43169.0
+2025-07-14,Email,Post-Purchase Upsell,1732.0,12461,366,59,42,27,8,32955.0
+2025-07-14,Email,Weekly Newsletter,2098.0,18793,599,118,83,48,15,65632.0
+2025-07-14,Email,Win-Back Campaign,1474.0,8475,316,52,37,23,6,26544.0
+2025-07-14,Google Ads,Performance Max - New Customers,21973.0,34006,1242,147,90,46,9,49334.0
+2025-07-14,Google Ads,Search - Brand,16854.0,13579,669,65,44,25,6,35172.0
+2025-07-14,Google Ads,Search - Non-Brand,25774.0,20004,808,95,63,33,8,42142.0
+2025-07-14,Google Ads,Shopping - Bestsellers,11610.0,11463,383,41,26,14,3,15831.0
+2025-07-14,LinkedIn Ads,InMail - Account Based Marketing,10088.0,14650,75,5,3,1,0,0.0
+2025-07-14,LinkedIn Ads,Lead Gen Forms - Enterprise,13622.0,22807,149,11,7,4,1,22219.0
+2025-07-14,LinkedIn Ads,Sponsored Content - Decision Makers,14513.0,21429,151,9,6,3,1,15163.0
+2025-07-14,Meta Ads,Advantage+ Shopping,15446.0,95444,1598,119,65,35,5,15716.0
+2025-07-14,Meta Ads,Prospecting - Lookalike 1%,14493.0,37070,847,64,32,13,2,6844.0
+2025-07-14,Meta Ads,Retargeting - Cart Abandoners,11143.0,46564,757,41,23,11,1,3767.0
+2025-07-14,Meta Ads,Video Views - Brand Awareness,9497.0,36114,617,45,21,11,2,7890.0
+2025-07-14,YouTube,Bumper Ads - Retargeting,8099.0,92086,1380,35,15,7,1,3966.0
+2025-07-14,YouTube,Discovery Ads - Product Demo,9906.0,223438,1842,42,20,9,1,4748.0
+2025-07-14,YouTube,In-Stream - Brand Awareness,13292.0,143007,1656,60,28,10,1,3578.0
+2025-07-21,Affiliate,Cashback Partners,6531.0,22540,835,56,28,13,2,7409.0
+2025-07-21,Affiliate,Content & Review Partners,8907.0,49064,1145,80,38,19,4,15134.0
+2025-07-21,Affiliate,Coupon & Deals Partners,11193.0,50939,1814,138,82,43,8,32390.0
+2025-07-21,Email,Abandoned Cart Series,2245.0,13059,577,133,84,49,14,60477.0
+2025-07-21,Email,Post-Purchase Upsell,1853.0,20054,583,130,79,49,13,45232.0
+2025-07-21,Email,Weekly Newsletter,2400.0,13225,494,97,69,44,15,63406.0
+2025-07-21,Email,Win-Back Campaign,1831.0,12226,373,86,52,32,9,34226.0
+2025-07-21,Google Ads,Performance Max - New Customers,23136.0,21142,1047,130,89,42,10,44707.0
+2025-07-21,Google Ads,Search - Brand,15619.0,15693,650,77,51,25,6,37668.0
+2025-07-21,Google Ads,Search - Non-Brand,21065.0,22062,832,95,56,31,6,33147.0
+2025-07-21,Google Ads,Shopping - Bestsellers,10176.0,7427,340,36,22,13,3,16291.0
+2025-07-21,LinkedIn Ads,InMail - Account Based Marketing,8900.0,8395,61,3,2,1,0,0.0
+2025-07-21,LinkedIn Ads,Lead Gen Forms - Enterprise,12192.0,20061,119,9,6,3,1,17389.0
+2025-07-21,LinkedIn Ads,Sponsored Content - Decision Makers,15556.0,12735,112,6,4,2,0,0.0
+2025-07-21,Meta Ads,Advantage+ Shopping,17883.0,90044,1440,90,44,18,3,9770.0
+2025-07-21,Meta Ads,Prospecting - Lookalike 1%,20450.0,96845,1987,147,68,31,4,20378.0
+2025-07-21,Meta Ads,Retargeting - Cart Abandoners,14359.0,41519,864,48,28,11,1,3802.0
+2025-07-21,Meta Ads,Video Views - Brand Awareness,10442.0,26182,678,41,20,9,2,6838.0
+2025-07-21,YouTube,Bumper Ads - Retargeting,7697.0,92278,1532,40,16,7,1,3746.0
+2025-07-21,YouTube,Discovery Ads - Product Demo,10897.0,106511,1405,43,18,7,1,4103.0
+2025-07-21,YouTube,In-Stream - Brand Awareness,11180.0,260259,2155,50,23,8,1,5476.0
+2025-07-28,Affiliate,Cashback Partners,6354.0,33699,899,63,33,14,3,12615.0
+2025-07-28,Affiliate,Content & Review Partners,7298.0,24124,868,52,28,12,2,9639.0
+2025-07-28,Affiliate,Coupon & Deals Partners,11084.0,72170,1652,125,59,27,5,18341.0
+2025-07-28,Email,Abandoned Cart Series,1976.0,12655,474,96,69,39,11,47252.0
+2025-07-28,Email,Post-Purchase Upsell,1825.0,16888,462,103,71,40,12,41096.0
+2025-07-28,Email,Weekly Newsletter,2522.0,21044,652,147,90,60,16,70032.0
+2025-07-28,Email,Win-Back Campaign,1751.0,12121,438,96,69,47,15,54325.0
+2025-07-28,Google Ads,Performance Max - New Customers,21896.0,25028,1172,136,78,40,10,44060.0
+2025-07-28,Google Ads,Search - Brand,15346.0,18270,820,102,60,29,6,37759.0
+2025-07-28,Google Ads,Search - Non-Brand,22999.0,18454,956,82,52,27,6,31090.0
+2025-07-28,Google Ads,Shopping - Bestsellers,10648.0,11064,428,41,25,12,3,17864.0
+2025-07-28,LinkedIn Ads,InMail - Account Based Marketing,9237.0,9428,92,6,5,3,1,19373.0
+2025-07-28,LinkedIn Ads,Lead Gen Forms - Enterprise,13140.0,14798,109,7,5,3,1,21105.0
+2025-07-28,LinkedIn Ads,Sponsored Content - Decision Makers,14715.0,18932,115,8,6,3,1,15070.0
+2025-07-28,Meta Ads,Advantage+ Shopping,13698.0,64784,1014,51,30,15,2,7501.0
+2025-07-28,Meta Ads,Prospecting - Lookalike 1%,16033.0,84830,1472,79,43,21,3,14104.0
+2025-07-28,Meta Ads,Retargeting - Cart Abandoners,12456.0,26348,685,56,31,14,2,7859.0
+2025-07-28,Meta Ads,Video Views - Brand Awareness,9913.0,22325,553,41,21,10,2,10316.0
+2025-07-28,YouTube,Bumper Ads - Retargeting,6403.0,77398,1182,26,10,4,0,0.0
+2025-07-28,YouTube,Discovery Ads - Product Demo,8882.0,49423,787,17,8,3,0,0.0
+2025-07-28,YouTube,In-Stream - Brand Awareness,11081.0,75653,931,23,10,4,0,0.0
+2025-08-04,Affiliate,Cashback Partners,6287.0,40362,1327,105,49,24,5,20059.0
+2025-08-04,Affiliate,Content & Review Partners,7569.0,31197,851,62,30,16,3,10815.0
+2025-08-04,Affiliate,Coupon & Deals Partners,10619.0,43508,1331,108,62,25,5,20573.0
+2025-08-04,Email,Abandoned Cart Series,2360.0,34531,930,177,127,88,26,91863.0
+2025-08-04,Email,Post-Purchase Upsell,1678.0,9673,324,65,48,28,9,32360.0
+2025-08-04,Email,Weekly Newsletter,2381.0,14343,507,76,52,29,10,34010.0
+2025-08-04,Email,Win-Back Campaign,1379.0,9947,324,75,51,34,11,34622.0
+2025-08-04,Google Ads,Performance Max - New Customers,23281.0,18835,857,91,59,35,6,30568.0
+2025-08-04,Google Ads,Search - Brand,14150.0,13507,479,55,33,19,4,19243.0
+2025-08-04,Google Ads,Search - Non-Brand,23505.0,38958,1422,162,109,51,12,73854.0
+2025-08-04,Google Ads,Shopping - Bestsellers,9595.0,7538,308,35,23,14,3,18477.0
+2025-08-04,LinkedIn Ads,InMail - Account Based Marketing,11007.0,16202,81,5,3,2,1,20574.0
+2025-08-04,LinkedIn Ads,Lead Gen Forms - Enterprise,14613.0,22330,145,9,6,4,1,18722.0
+2025-08-04,LinkedIn Ads,Sponsored Content - Decision Makers,15441.0,29418,157,11,8,5,1,22233.0
+2025-08-04,Meta Ads,Advantage+ Shopping,16296.0,39081,1079,60,29,14,2,7829.0
+2025-08-04,Meta Ads,Prospecting - Lookalike 1%,16521.0,58174,1244,111,62,28,4,15791.0
+2025-08-04,Meta Ads,Retargeting - Cart Abandoners,12059.0,31084,845,65,31,16,3,10733.0
+2025-08-04,Meta Ads,Video Views - Brand Awareness,10880.0,47373,1037,93,49,23,4,13637.0
+2025-08-04,YouTube,Bumper Ads - Retargeting,7288.0,40892,621,20,9,4,0,0.0
+2025-08-04,YouTube,Discovery Ads - Product Demo,10393.0,116334,1086,40,18,6,1,4362.0
+2025-08-04,YouTube,In-Stream - Brand Awareness,13582.0,206876,2540,94,38,15,2,8389.0
+2025-08-11,Affiliate,Cashback Partners,6235.0,33910,1085,105,51,28,5,18030.0
+2025-08-11,Affiliate,Content & Review Partners,8043.0,43967,980,86,44,18,3,11634.0
+2025-08-11,Affiliate,Coupon & Deals Partners,11309.0,84112,2401,196,95,41,6,21630.0
+2025-08-11,Email,Abandoned Cart Series,2176.0,20568,695,120,74,48,15,60419.0
+2025-08-11,Email,Post-Purchase Upsell,1942.0,20213,567,93,57,35,9,34322.0
+2025-08-11,Email,Weekly Newsletter,2429.0,22899,595,93,61,37,11,33626.0
+2025-08-11,Email,Win-Back Campaign,1598.0,8476,316,65,41,24,7,23497.0
+2025-08-11,Google Ads,Performance Max - New Customers,21898.0,22251,745,85,60,34,8,46231.0
+2025-08-11,Google Ads,Search - Brand,14725.0,13420,525,58,37,18,3,13972.0
+2025-08-11,Google Ads,Search - Non-Brand,22411.0,21913,855,80,52,29,6,38741.0
+2025-08-11,Google Ads,Shopping - Bestsellers,10862.0,8526,404,50,32,14,3,13986.0
+2025-08-11,LinkedIn Ads,InMail - Account Based Marketing,9861.0,8015,73,5,3,2,1,15319.0
+2025-08-11,LinkedIn Ads,Lead Gen Forms - Enterprise,12133.0,20300,109,5,4,2,1,20325.0
+2025-08-11,LinkedIn Ads,Sponsored Content - Decision Makers,14279.0,17264,114,8,6,4,1,23274.0
+2025-08-11,Meta Ads,Advantage+ Shopping,14129.0,56106,964,68,32,15,2,7990.0
+2025-08-11,Meta Ads,Prospecting - Lookalike 1%,16937.0,67557,1307,67,39,16,3,11521.0
+2025-08-11,Meta Ads,Retargeting - Cart Abandoners,13304.0,66889,1159,83,46,20,3,11935.0
+2025-08-11,Meta Ads,Video Views - Brand Awareness,9592.0,23741,531,44,21,10,1,3926.0
+2025-08-11,YouTube,Bumper Ads - Retargeting,7528.0,86793,1027,38,19,8,1,3725.0
+2025-08-11,YouTube,Discovery Ads - Product Demo,10868.0,117652,1021,27,10,4,0,0.0
+2025-08-11,YouTube,In-Stream - Brand Awareness,11143.0,88714,1360,39,17,7,1,4145.0
+2025-08-18,Affiliate,Cashback Partners,6945.0,24825,831,81,43,23,4,15097.0
+2025-08-18,Affiliate,Content & Review Partners,8369.0,44334,1030,99,59,30,5,18583.0
+2025-08-18,Affiliate,Coupon & Deals Partners,11303.0,40826,1530,135,69,37,8,37500.0
+2025-08-18,Email,Abandoned Cart Series,2040.0,16862,425,93,57,32,10,40343.0
+2025-08-18,Email,Post-Purchase Upsell,1737.0,12930,339,54,33,21,7,25228.0
+2025-08-18,Email,Weekly Newsletter,2448.0,10887,461,93,62,40,13,48546.0
+2025-08-18,Email,Win-Back Campaign,1636.0,7845,330,63,47,29,8,34152.0
+2025-08-18,Google Ads,Performance Max - New Customers,18224.0,11282,582,67,41,20,5,30100.0
+2025-08-18,Google Ads,Search - Brand,14351.0,14524,518,47,26,15,4,17952.0
+2025-08-18,Google Ads,Search - Non-Brand,19907.0,21201,798,87,53,31,6,35365.0
+2025-08-18,Google Ads,Shopping - Bestsellers,9523.0,9941,410,48,32,17,4,19980.0
+2025-08-18,LinkedIn Ads,InMail - Account Based Marketing,8858.0,8139,69,3,2,1,0,0.0
+2025-08-18,LinkedIn Ads,Lead Gen Forms - Enterprise,15202.0,12023,113,6,4,2,0,0.0
+2025-08-18,LinkedIn Ads,Sponsored Content - Decision Makers,17033.0,29081,166,9,6,4,1,19641.0
+2025-08-18,Meta Ads,Advantage+ Shopping,18193.0,40371,1000,54,28,12,2,6609.0
+2025-08-18,Meta Ads,Prospecting - Lookalike 1%,19175.0,53171,1308,75,34,18,2,6401.0
+2025-08-18,Meta Ads,Retargeting - Cart Abandoners,15678.0,34703,841,55,32,14,2,7571.0
+2025-08-18,Meta Ads,Video Views - Brand Awareness,9503.0,27171,592,49,23,12,1,3062.0
+2025-08-18,YouTube,Bumper Ads - Retargeting,7403.0,107079,955,19,7,3,0,0.0
+2025-08-18,YouTube,Discovery Ads - Product Demo,10546.0,113694,1875,42,16,7,1,3702.0
+2025-08-18,YouTube,In-Stream - Brand Awareness,11251.0,99361,1690,56,23,8,1,4452.0
+2025-08-25,Affiliate,Cashback Partners,6997.0,57545,1382,102,53,25,5,21914.0
+2025-08-25,Affiliate,Content & Review Partners,9228.0,49219,1326,94,43,19,3,11112.0
+2025-08-25,Affiliate,Coupon & Deals Partners,10671.0,50385,1732,108,60,25,5,19014.0
+2025-08-25,Email,Abandoned Cart Series,2133.0,14862,491,75,48,32,9,38039.0
+2025-08-25,Email,Post-Purchase Upsell,1841.0,14278,475,84,53,36,9,39179.0
+2025-08-25,Email,Weekly Newsletter,2266.0,16885,639,133,82,50,15,50824.0
+2025-08-25,Email,Win-Back Campaign,1546.0,9761,394,73,46,26,8,29639.0
+2025-08-25,Google Ads,Performance Max - New Customers,23119.0,21411,870,100,62,32,7,35693.0
+2025-08-25,Google Ads,Search - Brand,13664.0,11754,478,49,29,14,3,14735.0
+2025-08-25,Google Ads,Search - Non-Brand,20598.0,18426,728,73,45,26,5,30338.0
+2025-08-25,Google Ads,Shopping - Bestsellers,9463.0,12125,418,42,27,16,3,17302.0
+2025-08-25,LinkedIn Ads,InMail - Account Based Marketing,11786.0,10594,100,6,4,2,1,18605.0
+2025-08-25,LinkedIn Ads,Lead Gen Forms - Enterprise,14945.0,13949,106,7,5,3,1,18365.0
+2025-08-25,LinkedIn Ads,Sponsored Content - Decision Makers,18556.0,19671,137,9,7,4,1,24086.0
+2025-08-25,Meta Ads,Advantage+ Shopping,17873.0,51048,1448,114,67,36,6,19738.0
+2025-08-25,Meta Ads,Prospecting - Lookalike 1%,16063.0,69885,1075,55,31,13,2,9300.0
+2025-08-25,Meta Ads,Retargeting - Cart Abandoners,12315.0,38763,738,48,22,12,2,8221.0
+2025-08-25,Meta Ads,Video Views - Brand Awareness,11062.0,26312,649,40,24,10,2,8295.0
+2025-08-25,YouTube,Bumper Ads - Retargeting,7991.0,128621,1211,36,15,6,1,5324.0
+2025-08-25,YouTube,Discovery Ads - Product Demo,11615.0,98065,1080,26,13,5,1,4856.0
+2025-08-25,YouTube,In-Stream - Brand Awareness,11656.0,167334,1584,41,16,7,1,4491.0
+2025-09-01,Affiliate,Cashback Partners,8341.0,76877,1545,94,56,27,5,24384.0
+2025-09-01,Affiliate,Content & Review Partners,11324.0,66965,1854,177,96,45,8,30941.0
+2025-09-01,Affiliate,Coupon & Deals Partners,12736.0,72909,2390,174,100,49,10,42632.0
+2025-09-01,Email,Abandoned Cart Series,2722.0,28170,712,138,100,61,19,77107.0
+2025-09-01,Email,Post-Purchase Upsell,1869.0,24693,645,153,104,69,22,77626.0
+2025-09-01,Email,Weekly Newsletter,2737.0,25205,1023,173,118,81,25,81687.0
+2025-09-01,Email,Win-Back Campaign,1796.0,13095,518,95,59,35,12,41101.0
+2025-09-01,Google Ads,Performance Max - New Customers,22683.0,36017,1258,156,100,54,14,64324.0
+2025-09-01,Google Ads,Search - Brand,16246.0,23643,813,76,45,23,5,22011.0
+2025-09-01,Google Ads,Search - Non-Brand,25305.0,33639,1446,142,90,43,8,51768.0
+2025-09-01,Google Ads,Shopping - Bestsellers,13944.0,16280,724,74,45,26,5,32968.0
+2025-09-01,LinkedIn Ads,InMail - Account Based Marketing,11244.0,13632,70,5,4,2,1,22878.0
+2025-09-01,LinkedIn Ads,Lead Gen Forms - Enterprise,17042.0,26631,145,9,7,4,1,24282.0
+2025-09-01,LinkedIn Ads,Sponsored Content - Decision Makers,15792.0,23199,158,10,6,3,1,19087.0
+2025-09-01,Meta Ads,Advantage+ Shopping,16879.0,47186,1320,72,39,17,3,12822.0
+2025-09-01,Meta Ads,Prospecting - Lookalike 1%,20366.0,81094,2060,173,87,44,6,29167.0
+2025-09-01,Meta Ads,Retargeting - Cart Abandoners,17144.0,64175,1629,114,61,31,5,21604.0
+2025-09-01,Meta Ads,Video Views - Brand Awareness,11330.0,45719,985,87,46,22,4,15336.0
+2025-09-01,YouTube,Bumper Ads - Retargeting,9175.0,101217,957,38,18,6,1,4276.0
+2025-09-01,YouTube,Discovery Ads - Product Demo,12859.0,97096,1186,36,16,6,1,4699.0
+2025-09-01,YouTube,In-Stream - Brand Awareness,16123.0,241681,2913,94,41,13,2,8399.0
+2025-09-08,Affiliate,Cashback Partners,7667.0,33570,1079,86,46,20,3,13659.0
+2025-09-08,Affiliate,Content & Review Partners,9860.0,61109,1467,137,77,42,8,39719.0
+2025-09-08,Affiliate,Coupon & Deals Partners,13756.0,63240,1808,164,98,42,6,28393.0
+2025-09-08,Email,Abandoned Cart Series,2929.0,15244,566,86,61,42,13,55798.0
+2025-09-08,Email,Post-Purchase Upsell,2182.0,10673,454,92,57,34,11,38735.0
+2025-09-08,Email,Weekly Newsletter,3431.0,18509,726,137,100,56,18,63774.0
+2025-09-08,Email,Win-Back Campaign,2220.0,13698,437,84,61,42,11,35995.0
+2025-09-08,Google Ads,Performance Max - New Customers,21874.0,25889,1177,103,66,36,8,41627.0
+2025-09-08,Google Ads,Search - Brand,18841.0,18049,598,73,46,26,5,27867.0
+2025-09-08,Google Ads,Search - Non-Brand,28423.0,34755,1220,116,78,36,8,52789.0
+2025-09-08,Google Ads,Shopping - Bestsellers,12990.0,14086,509,55,37,21,4,20430.0
+2025-09-08,LinkedIn Ads,InMail - Account Based Marketing,10823.0,18254,110,5,3,2,0,0.0
+2025-09-08,LinkedIn Ads,Lead Gen Forms - Enterprise,16342.0,20448,115,8,6,3,1,19667.0
+2025-09-08,LinkedIn Ads,Sponsored Content - Decision Makers,18360.0,19986,160,10,7,4,1,21640.0
+2025-09-08,Meta Ads,Advantage+ Shopping,18608.0,70475,1586,100,59,28,4,15064.0
+2025-09-08,Meta Ads,Prospecting - Lookalike 1%,19469.0,72066,1853,157,92,49,7,25375.0
+2025-09-08,Meta Ads,Retargeting - Cart Abandoners,16746.0,34854,903,63,35,18,3,14037.0
+2025-09-08,Meta Ads,Video Views - Brand Awareness,12564.0,52243,885,75,38,18,2,8435.0
+2025-09-08,YouTube,Bumper Ads - Retargeting,9116.0,46705,823,30,14,5,0,0.0
+2025-09-08,YouTube,Discovery Ads - Product Demo,13768.0,269128,2734,71,35,13,1,4309.0
+2025-09-08,YouTube,In-Stream - Brand Awareness,15306.0,91402,1544,45,20,7,1,4450.0
+2025-09-15,Affiliate,Cashback Partners,7225.0,46374,1077,96,46,24,4,17809.0
+2025-09-15,Affiliate,Content & Review Partners,9387.0,62804,2136,142,84,46,7,31672.0
+2025-09-15,Affiliate,Coupon & Deals Partners,12826.0,93359,2324,204,98,54,12,50246.0
+2025-09-15,Email,Abandoned Cart Series,2365.0,16775,693,153,102,70,20,85930.0
+2025-09-15,Email,Post-Purchase Upsell,1907.0,12801,489,99,73,45,12,39862.0
+2025-09-15,Email,Weekly Newsletter,2632.0,15343,535,89,57,40,11,40286.0
+2025-09-15,Email,Win-Back Campaign,1635.0,10967,462,107,76,50,16,64981.0
+2025-09-15,Google Ads,Performance Max - New Customers,23804.0,31680,1113,95,56,33,8,52268.0
+2025-09-15,Google Ads,Search - Brand,16316.0,19494,1008,95,64,30,6,31921.0
+2025-09-15,Google Ads,Search - Non-Brand,24974.0,16967,868,104,60,34,6,38457.0
+2025-09-15,Google Ads,Shopping - Bestsellers,10716.0,11325,421,45,27,13,3,14410.0
+2025-09-15,LinkedIn Ads,InMail - Account Based Marketing,10824.0,9842,89,5,4,2,1,19745.0
+2025-09-15,LinkedIn Ads,Lead Gen Forms - Enterprise,16545.0,15945,105,6,4,3,1,22291.0
+2025-09-15,LinkedIn Ads,Sponsored Content - Decision Makers,19381.0,26782,152,8,5,3,1,18876.0
+2025-09-15,Meta Ads,Advantage+ Shopping,18745.0,61490,1823,106,50,25,3,9880.0
+2025-09-15,Meta Ads,Prospecting - Lookalike 1%,23168.0,82252,2435,190,94,40,6,29560.0
+2025-09-15,Meta Ads,Retargeting - Cart Abandoners,16131.0,46262,1184,100,55,28,4,19721.0
+2025-09-15,Meta Ads,Video Views - Brand Awareness,13045.0,29234,786,44,24,12,2,6914.0
+2025-09-15,YouTube,Bumper Ads - Retargeting,9197.0,131024,1654,55,24,7,1,4203.0
+2025-09-15,YouTube,Discovery Ads - Product Demo,13797.0,108464,1291,46,18,7,1,4354.0
+2025-09-15,YouTube,In-Stream - Brand Awareness,13599.0,133015,1330,34,13,6,1,4561.0
+2025-09-22,Affiliate,Cashback Partners,8273.0,68188,1768,134,72,32,6,29172.0
+2025-09-22,Affiliate,Content & Review Partners,11868.0,56694,2039,142,65,32,6,29398.0
+2025-09-22,Affiliate,Coupon & Deals Partners,14968.0,81938,2233,175,88,48,8,32912.0
+2025-09-22,Email,Abandoned Cart Series,2918.0,16045,687,109,71,46,16,68359.0
+2025-09-22,Email,Post-Purchase Upsell,2074.0,13793,614,122,77,48,15,63635.0
+2025-09-22,Email,Weekly Newsletter,2750.0,20621,538,100,72,44,14,44106.0
+2025-09-22,Email,Win-Back Campaign,2251.0,15314,556,126,92,62,20,86389.0
+2025-09-22,Google Ads,Performance Max - New Customers,25644.0,31245,1381,161,108,54,12,67663.0
+2025-09-22,Google Ads,Search - Brand,19261.0,21082,1067,112,76,41,10,59755.0
+2025-09-22,Google Ads,Search - Non-Brand,30392.0,31337,1177,105,67,31,6,27201.0
+2025-09-22,Google Ads,Shopping - Bestsellers,12591.0,13134,475,59,33,19,4,19755.0
+2025-09-22,LinkedIn Ads,InMail - Account Based Marketing,12363.0,13048,104,5,3,2,1,18157.0
+2025-09-22,LinkedIn Ads,Lead Gen Forms - Enterprise,15793.0,10738,105,6,4,2,1,15936.0
+2025-09-22,LinkedIn Ads,Sponsored Content - Decision Makers,20282.0,25653,201,13,9,5,2,47443.0
+2025-09-22,Meta Ads,Advantage+ Shopping,18528.0,65134,1493,115,65,27,3,9755.0
+2025-09-22,Meta Ads,Prospecting - Lookalike 1%,19094.0,67440,1744,154,74,37,5,15198.0
+2025-09-22,Meta Ads,Retargeting - Cart Abandoners,16128.0,41400,1209,86,41,19,3,14795.0
+2025-09-22,Meta Ads,Video Views - Brand Awareness,11102.0,47652,812,54,28,12,2,8636.0
+2025-09-22,YouTube,Bumper Ads - Retargeting,9164.0,84939,780,29,14,6,1,4223.0
+2025-09-22,YouTube,Discovery Ads - Product Demo,12609.0,277699,2366,69,31,13,1,5216.0
+2025-09-22,YouTube,In-Stream - Brand Awareness,16449.0,151093,2295,72,36,11,1,4685.0
+2025-09-29,Affiliate,Cashback Partners,8457.0,51469,1839,114,56,24,5,21342.0
+2025-09-29,Affiliate,Content & Review Partners,9622.0,45858,1137,113,59,26,5,18876.0
+2025-09-29,Affiliate,Coupon & Deals Partners,13634.0,76985,2650,188,101,45,7,27856.0
+2025-09-29,Email,Abandoned Cart Series,2942.0,16873,633,100,66,41,12,49686.0
+2025-09-29,Email,Post-Purchase Upsell,2120.0,11895,434,102,72,46,15,49943.0
+2025-09-29,Email,Weekly Newsletter,2769.0,28225,717,165,103,66,20,78766.0
+2025-09-29,Email,Win-Back Campaign,1979.0,14211,397,87,55,34,10,39560.0
+2025-09-29,Google Ads,Performance Max - New Customers,25886.0,22383,929,100,60,28,6,37748.0
+2025-09-29,Google Ads,Search - Brand,17539.0,14105,618,55,31,17,4,25426.0
+2025-09-29,Google Ads,Search - Non-Brand,31062.0,30426,1143,130,90,42,8,39330.0
+2025-09-29,Google Ads,Shopping - Bestsellers,13610.0,12915,617,54,32,15,4,23814.0
+2025-09-29,LinkedIn Ads,InMail - Account Based Marketing,11085.0,18480,114,7,4,3,1,20783.0
+2025-09-29,LinkedIn Ads,Lead Gen Forms - Enterprise,15167.0,23027,155,9,6,4,1,24144.0
+2025-09-29,LinkedIn Ads,Sponsored Content - Decision Makers,17624.0,18394,113,7,4,3,1,19515.0
+2025-09-29,Meta Ads,Advantage+ Shopping,18920.0,64465,1612,129,67,34,5,22842.0
+2025-09-29,Meta Ads,Prospecting - Lookalike 1%,20350.0,60256,1676,122,64,34,6,28729.0
+2025-09-29,Meta Ads,Retargeting - Cart Abandoners,15183.0,56869,1442,99,55,28,4,14505.0
+2025-09-29,Meta Ads,Video Views - Brand Awareness,11385.0,27004,695,42,22,12,2,9238.0
+2025-09-29,YouTube,Bumper Ads - Retargeting,10304.0,126169,1388,44,18,7,1,3796.0
+2025-09-29,YouTube,Discovery Ads - Product Demo,12400.0,72423,1202,27,12,5,1,4842.0
+2025-09-29,YouTube,In-Stream - Brand Awareness,15131.0,105861,1898,49,20,9,1,3805.0
+2025-10-06,Affiliate,Cashback Partners,12978.0,52206,1589,135,65,31,5,22490.0
+2025-10-06,Affiliate,Content & Review Partners,19518.0,114758,4009,275,156,82,17,71631.0
+2025-10-06,Affiliate,Coupon & Deals Partners,21469.0,151504,5107,425,244,113,23,86402.0
+2025-10-06,Email,Abandoned Cart Series,4740.0,46966,1519,363,268,149,44,136317.0
+2025-10-06,Email,Post-Purchase Upsell,3491.0,24215,695,115,76,51,13,54506.0
+2025-10-06,Email,Weekly Newsletter,4562.0,37830,964,182,127,79,21,77627.0
+2025-10-06,Email,Win-Back Campaign,3441.0,26966,900,157,108,62,20,74736.0
+2025-10-06,Google Ads,Performance Max - New Customers,43259.0,39954,1675,184,105,51,10,57151.0
+2025-10-06,Google Ads,Search - Brand,26177.0,30898,1381,138,95,54,11,66538.0
+2025-10-06,Google Ads,Search - Non-Brand,49644.0,47352,2124,259,152,89,17,99052.0
+2025-10-06,Google Ads,Shopping - Bestsellers,19972.0,20200,1003,100,62,32,6,36057.0
+2025-10-06,LinkedIn Ads,InMail - Account Based Marketing,16637.0,14206,141,10,7,4,1,22542.0
+2025-10-06,LinkedIn Ads,Lead Gen Forms - Enterprise,23664.0,15468,154,9,6,4,1,19270.0
+2025-10-06,LinkedIn Ads,Sponsored Content - Decision Makers,28721.0,38446,216,11,7,4,1,15248.0
+2025-10-06,Meta Ads,Advantage+ Shopping,35197.0,122500,3049,155,93,41,7,34077.0
+2025-10-06,Meta Ads,Prospecting - Lookalike 1%,37527.0,119598,2883,259,138,58,7,33171.0
+2025-10-06,Meta Ads,Retargeting - Cart Abandoners,27090.0,116852,2362,190,99,52,9,46285.0
+2025-10-06,Meta Ads,Video Views - Brand Awareness,19010.0,71630,1088,74,38,17,3,15038.0
+2025-10-06,YouTube,Bumper Ads - Retargeting,15023.0,110788,1661,54,19,8,1,5046.0
+2025-10-06,YouTube,Discovery Ads - Product Demo,21629.0,397909,3285,66,26,9,1,3590.0
+2025-10-06,YouTube,In-Stream - Brand Awareness,21393.0,150707,2343,47,18,6,1,4183.0
+2025-10-13,Affiliate,Cashback Partners,11763.0,72503,1548,118,67,32,7,28322.0
+2025-10-13,Affiliate,Content & Review Partners,16244.0,116676,3424,224,122,64,10,41854.0
+2025-10-13,Affiliate,Coupon & Deals Partners,19349.0,78670,2347,225,109,51,9,36908.0
+2025-10-13,Email,Abandoned Cart Series,3820.0,30799,992,158,118,82,23,101662.0
+2025-10-13,Email,Post-Purchase Upsell,3473.0,43146,1181,204,145,88,26,85623.0
+2025-10-13,Email,Weekly Newsletter,4661.0,42554,1112,192,137,84,25,110433.0
+2025-10-13,Email,Win-Back Campaign,2721.0,11982,500,85,58,39,11,38837.0
+2025-10-13,Google Ads,Performance Max - New Customers,36771.0,36822,1581,193,131,77,18,117397.0
+2025-10-13,Google Ads,Search - Brand,25649.0,16894,816,93,63,37,8,45953.0
+2025-10-13,Google Ads,Search - Non-Brand,44663.0,60449,2203,197,128,73,17,86629.0
+2025-10-13,Google Ads,Shopping - Bestsellers,19621.0,34770,1171,118,69,33,8,38639.0
+2025-10-13,LinkedIn Ads,InMail - Account Based Marketing,19519.0,26305,164,11,8,5,1,16092.0
+2025-10-13,LinkedIn Ads,Lead Gen Forms - Enterprise,25211.0,34717,202,15,10,5,1,23433.0
+2025-10-13,LinkedIn Ads,Sponsored Content - Decision Makers,30053.0,35789,272,14,10,5,1,17453.0
+2025-10-13,Meta Ads,Advantage+ Shopping,27238.0,76602,2262,154,70,30,4,20796.0
+2025-10-13,Meta Ads,Prospecting - Lookalike 1%,31959.0,67607,1798,93,55,22,3,12797.0
+2025-10-13,Meta Ads,Retargeting - Cart Abandoners,26814.0,144571,2558,205,97,46,7,31029.0
+2025-10-13,Meta Ads,Video Views - Brand Awareness,17926.0,85268,1935,103,51,28,5,15557.0
+2025-10-13,YouTube,Bumper Ads - Retargeting,13635.0,158366,1580,58,29,11,1,5496.0
+2025-10-13,YouTube,Discovery Ads - Product Demo,17107.0,155614,2434,69,31,13,2,9694.0
+2025-10-13,YouTube,In-Stream - Brand Awareness,22354.0,164126,2384,56,25,10,1,4181.0
+2025-10-20,Affiliate,Cashback Partners,13397.0,50814,1564,112,54,27,6,29213.0
+2025-10-20,Affiliate,Content & Review Partners,16642.0,69112,2179,138,77,41,8,28106.0
+2025-10-20,Affiliate,Coupon & Deals Partners,20034.0,152343,4496,354,193,84,14,64731.0
+2025-10-20,Email,Abandoned Cart Series,4466.0,52256,1351,271,172,106,34,142369.0
+2025-10-20,Email,Post-Purchase Upsell,3074.0,28455,884,180,128,88,23,74188.0
+2025-10-20,Email,Weekly Newsletter,4530.0,41805,1604,298,209,127,41,126417.0
+2025-10-20,Email,Win-Back Campaign,2985.0,16028,549,84,61,36,9,27945.0
+2025-10-20,Google Ads,Performance Max - New Customers,40638.0,56548,2185,215,133,64,12,67102.0
+2025-10-20,Google Ads,Search - Brand,33493.0,28024,1276,125,81,39,10,50639.0
+2025-10-20,Google Ads,Search - Non-Brand,44502.0,36017,1625,168,108,51,12,59944.0
+2025-10-20,Google Ads,Shopping - Bestsellers,19577.0,14239,724,74,51,24,4,23948.0
+2025-10-20,LinkedIn Ads,InMail - Account Based Marketing,18258.0,14510,139,7,4,2,1,22877.0
+2025-10-20,LinkedIn Ads,Lead Gen Forms - Enterprise,24957.0,29260,267,20,14,9,2,31318.0
+2025-10-20,LinkedIn Ads,Sponsored Content - Decision Makers,28893.0,18272,182,12,8,5,1,18336.0
+2025-10-20,Meta Ads,Advantage+ Shopping,28081.0,99760,1614,91,46,24,3,14778.0
+2025-10-20,Meta Ads,Prospecting - Lookalike 1%,29558.0,121376,2889,203,114,61,8,40245.0
+2025-10-20,Meta Ads,Retargeting - Cart Abandoners,25780.0,80350,2225,114,61,31,4,19599.0
+2025-10-20,Meta Ads,Video Views - Brand Awareness,18003.0,65600,1331,73,43,20,3,12797.0
+2025-10-20,YouTube,Bumper Ads - Retargeting,13012.0,115687,1436,36,17,7,1,4770.0
+2025-10-20,YouTube,Discovery Ads - Product Demo,20304.0,189492,2057,60,23,8,1,3754.0
+2025-10-20,YouTube,In-Stream - Brand Awareness,23578.0,239108,2480,52,22,9,1,5069.0
+2025-10-27,Affiliate,Cashback Partners,14411.0,108726,2450,186,111,48,8,39332.0
+2025-10-27,Affiliate,Content & Review Partners,17268.0,103455,3070,185,94,44,9,40963.0
+2025-10-27,Affiliate,Coupon & Deals Partners,21475.0,140160,3059,195,90,48,8,33788.0
+2025-10-27,Email,Abandoned Cart Series,4162.0,21882,876,150,104,68,19,69876.0
+2025-10-27,Email,Post-Purchase Upsell,3458.0,32100,1004,218,135,90,28,121148.0
+2025-10-27,Email,Weekly Newsletter,4218.0,31144,1168,257,163,106,33,141551.0
+2025-10-27,Email,Win-Back Campaign,3064.0,25411,636,124,78,50,16,60027.0
+2025-10-27,Google Ads,Performance Max - New Customers,40389.0,62880,2246,221,124,57,14,71213.0
+2025-10-27,Google Ads,Search - Brand,33222.0,41330,1965,197,117,56,14,63561.0
+2025-10-27,Google Ads,Search - Non-Brand,49656.0,40533,1893,215,146,70,13,74318.0
+2025-10-27,Google Ads,Shopping - Bestsellers,23350.0,21317,743,84,54,30,6,28889.0
+2025-10-27,LinkedIn Ads,InMail - Account Based Marketing,20126.0,18901,132,8,6,3,1,23502.0
+2025-10-27,LinkedIn Ads,Lead Gen Forms - Enterprise,28745.0,31283,194,11,8,5,1,17093.0
+2025-10-27,LinkedIn Ads,Sponsored Content - Decision Makers,30335.0,47338,244,13,8,5,1,18645.0
+2025-10-27,Meta Ads,Advantage+ Shopping,30141.0,173026,2604,231,134,64,9,40721.0
+2025-10-27,Meta Ads,Prospecting - Lookalike 1%,33366.0,72789,1855,132,72,36,5,21872.0
+2025-10-27,Meta Ads,Retargeting - Cart Abandoners,25615.0,52322,1545,137,78,38,6,20350.0
+2025-10-27,Meta Ads,Video Views - Brand Awareness,19170.0,37523,1125,72,35,15,2,7734.0
+2025-10-27,YouTube,Bumper Ads - Retargeting,12099.0,96802,1372,42,21,9,1,5111.0
+2025-10-27,YouTube,Discovery Ads - Product Demo,16734.0,334144,3095,77,31,14,1,4139.0
+2025-10-27,YouTube,In-Stream - Brand Awareness,22795.0,144354,2072,64,27,10,1,4526.0
+2025-11-03,Affiliate,Cashback Partners,15026.0,86114,2369,190,97,47,8,30879.0
+2025-11-03,Affiliate,Content & Review Partners,15633.0,68934,2189,197,116,60,12,46568.0
+2025-11-03,Affiliate,Coupon & Deals Partners,20674.0,94989,2635,210,110,60,10,46596.0
+2025-11-03,Email,Abandoned Cart Series,4433.0,36215,1600,368,274,184,51,197489.0
+2025-11-03,Email,Post-Purchase Upsell,3004.0,34203,971,172,128,80,22,71623.0
+2025-11-03,Email,Weekly Newsletter,4436.0,39195,1695,357,248,164,45,175761.0
+2025-11-03,Email,Win-Back Campaign,2684.0,20075,564,128,82,47,12,48805.0
+2025-11-03,Google Ads,Performance Max - New Customers,33804.0,24824,1223,111,66,32,6,33705.0
+2025-11-03,Google Ads,Search - Brand,28254.0,19562,889,101,70,39,7,44152.0
+2025-11-03,Google Ads,Search - Non-Brand,40004.0,59068,2489,305,179,94,18,81485.0
+2025-11-03,Google Ads,Shopping - Bestsellers,19696.0,18788,747,80,45,21,5,30377.0
+2025-11-03,LinkedIn Ads,InMail - Account Based Marketing,19650.0,27060,159,10,6,4,1,19045.0
+2025-11-03,LinkedIn Ads,Lead Gen Forms - Enterprise,25322.0,36697,192,14,8,4,1,24497.0
+2025-11-03,LinkedIn Ads,Sponsored Content - Decision Makers,29567.0,25972,241,17,13,6,2,48431.0
+2025-11-03,Meta Ads,Advantage+ Shopping,30397.0,139704,2655,219,107,43,6,18165.0
+2025-11-03,Meta Ads,Prospecting - Lookalike 1%,27254.0,133695,2326,184,86,46,6,19433.0
+2025-11-03,Meta Ads,Retargeting - Cart Abandoners,21202.0,69639,1313,92,43,24,3,11719.0
+2025-11-03,Meta Ads,Video Views - Brand Awareness,19792.0,54061,1284,75,41,21,3,14814.0
+2025-11-03,YouTube,Bumper Ads - Retargeting,14878.0,92989,1627,43,18,8,1,5092.0
+2025-11-03,YouTube,Discovery Ads - Product Demo,16996.0,168403,1982,71,25,8,1,4683.0
+2025-11-03,YouTube,In-Stream - Brand Awareness,22474.0,190142,3013,71,27,8,1,4877.0
+2025-11-10,Affiliate,Cashback Partners,13095.0,56609,1671,109,49,21,4,18971.0
+2025-11-10,Affiliate,Content & Review Partners,17378.0,133935,2880,284,138,65,10,44704.0
+2025-11-10,Affiliate,Coupon & Deals Partners,24910.0,102989,3843,295,150,80,16,74300.0
+2025-11-10,Email,Abandoned Cart Series,4087.0,27695,794,176,128,89,29,92384.0
+2025-11-10,Email,Post-Purchase Upsell,3289.0,29997,1185,232,171,99,26,85653.0
+2025-11-10,Email,Weekly Newsletter,4118.0,56973,1455,232,150,99,25,100450.0
+2025-11-10,Email,Win-Back Campaign,3142.0,21725,635,105,78,44,14,50510.0
+2025-11-10,Google Ads,Performance Max - New Customers,40922.0,51279,1922,226,150,83,16,98836.0
+2025-11-10,Google Ads,Search - Brand,34846.0,26113,1320,134,74,34,6,27659.0
+2025-11-10,Google Ads,Search - Non-Brand,45826.0,35210,1684,183,105,59,12,53143.0
+2025-11-10,Google Ads,Shopping - Bestsellers,22517.0,26196,1178,123,76,35,8,36959.0
+2025-11-10,LinkedIn Ads,InMail - Account Based Marketing,18842.0,18113,122,8,5,3,1,20714.0
+2025-11-10,LinkedIn Ads,Lead Gen Forms - Enterprise,25259.0,29236,261,15,9,5,1,19654.0
+2025-11-10,LinkedIn Ads,Sponsored Content - Decision Makers,27216.0,21214,181,9,5,3,1,24340.0
+2025-11-10,Meta Ads,Advantage+ Shopping,32045.0,67733,1696,120,64,29,5,25547.0
+2025-11-10,Meta Ads,Prospecting - Lookalike 1%,35379.0,180758,3042,238,135,62,8,38401.0
+2025-11-10,Meta Ads,Retargeting - Cart Abandoners,24581.0,81230,1984,107,49,20,3,11055.0
+2025-11-10,Meta Ads,Video Views - Brand Awareness,21206.0,80125,1601,137,64,34,5,22872.0
+2025-11-10,YouTube,Bumper Ads - Retargeting,13384.0,103899,1252,40,19,8,1,4038.0
+2025-11-10,YouTube,Discovery Ads - Product Demo,17712.0,168511,1519,43,18,6,1,4930.0
+2025-11-10,YouTube,In-Stream - Brand Awareness,20758.0,244320,3418,123,44,14,1,4012.0
+2025-11-17,Affiliate,Cashback Partners,13500.0,65243,2193,212,113,50,8,37711.0
+2025-11-17,Affiliate,Content & Review Partners,15199.0,56033,2067,188,102,48,10,40921.0
+2025-11-17,Affiliate,Coupon & Deals Partners,20867.0,111939,4013,396,223,92,17,84758.0
+2025-11-17,Email,Abandoned Cart Series,4341.0,31961,983,200,146,88,28,101465.0
+2025-11-17,Email,Post-Purchase Upsell,2836.0,17166,537,94,58,37,10,42643.0
+2025-11-17,Email,Weekly Newsletter,4800.0,57672,1673,373,238,139,43,154720.0
+2025-11-17,Email,Win-Back Campaign,2899.0,23530,617,118,72,48,15,52356.0
+2025-11-17,Google Ads,Performance Max - New Customers,38910.0,45799,1913,165,111,52,10,56437.0
+2025-11-17,Google Ads,Search - Brand,25691.0,21797,822,82,49,29,6,38533.0
+2025-11-17,Google Ads,Search - Non-Brand,40234.0,52304,2256,223,149,87,19,124203.0
+2025-11-17,Google Ads,Shopping - Bestsellers,17103.0,21567,990,87,54,27,5,24077.0
+2025-11-17,LinkedIn Ads,InMail - Account Based Marketing,15799.0,16818,136,9,6,4,1,20786.0
+2025-11-17,LinkedIn Ads,Lead Gen Forms - Enterprise,25877.0,27524,211,13,8,4,1,21239.0
+2025-11-17,LinkedIn Ads,Sponsored Content - Decision Makers,31364.0,30851,206,14,9,5,1,16356.0
+2025-11-17,Meta Ads,Advantage+ Shopping,34553.0,151668,3078,270,157,76,11,43916.0
+2025-11-17,Meta Ads,Prospecting - Lookalike 1%,34156.0,113007,3127,202,101,48,7,31519.0
+2025-11-17,Meta Ads,Retargeting - Cart Abandoners,25084.0,66184,1878,97,50,25,4,17225.0
+2025-11-17,Meta Ads,Video Views - Brand Awareness,18425.0,37694,1028,70,35,16,2,9176.0
+2025-11-17,YouTube,Bumper Ads - Retargeting,15606.0,181812,2610,98,44,19,3,12655.0
+2025-11-17,YouTube,Discovery Ads - Product Demo,22645.0,311074,3574,100,46,19,2,10154.0
+2025-11-17,YouTube,In-Stream - Brand Awareness,26260.0,169388,2486,99,41,17,2,9928.0
+2025-11-24,Affiliate,Cashback Partners,13510.0,81063,1625,111,61,27,4,14492.0
+2025-11-24,Affiliate,Content & Review Partners,19043.0,77234,2824,255,140,63,10,39151.0
+2025-11-24,Affiliate,Coupon & Deals Partners,20493.0,66821,2443,233,126,69,15,54846.0
+2025-11-24,Email,Abandoned Cart Series,4129.0,21133,759,125,85,59,17,61846.0
+2025-11-24,Email,Post-Purchase Upsell,3073.0,23383,898,158,115,71,22,95168.0
+2025-11-24,Email,Weekly Newsletter,4189.0,33679,998,151,105,61,20,77201.0
+2025-11-24,Email,Win-Back Campaign,3141.0,33300,940,190,140,92,24,86431.0
+2025-11-24,Google Ads,Performance Max - New Customers,39310.0,33638,1499,153,86,44,9,53865.0
+2025-11-24,Google Ads,Search - Brand,34513.0,36955,1892,206,133,74,17,105461.0
+2025-11-24,Google Ads,Search - Non-Brand,46522.0,49283,1896,169,110,50,10,46073.0
+2025-11-24,Google Ads,Shopping - Bestsellers,21633.0,21718,906,112,74,39,8,35666.0
+2025-11-24,LinkedIn Ads,InMail - Account Based Marketing,20300.0,18672,150,7,5,3,1,20128.0
+2025-11-24,LinkedIn Ads,Lead Gen Forms - Enterprise,26680.0,32790,291,18,11,7,2,36212.0
+2025-11-24,LinkedIn Ads,Sponsored Content - Decision Makers,25989.0,31351,288,15,10,6,2,46670.0
+2025-11-24,Meta Ads,Advantage+ Shopping,32709.0,77086,1879,128,65,30,4,13138.0
+2025-11-24,Meta Ads,Prospecting - Lookalike 1%,31023.0,68612,2037,112,58,28,4,16678.0
+2025-11-24,Meta Ads,Retargeting - Cart Abandoners,27185.0,148435,2571,217,108,53,8,38769.0
+2025-11-24,Meta Ads,Video Views - Brand Awareness,19520.0,97549,1514,92,52,25,4,16776.0
+2025-11-24,YouTube,Bumper Ads - Retargeting,15601.0,168943,2646,64,27,9,1,3992.0
+2025-11-24,YouTube,Discovery Ads - Product Demo,20691.0,154976,2565,74,27,12,2,9640.0
+2025-11-24,YouTube,In-Stream - Brand Awareness,23741.0,278943,2901,72,27,11,1,4363.0
+2025-12-01,Affiliate,Cashback Partners,9388.0,70397,2166,210,107,53,10,48346.0
+2025-12-01,Affiliate,Content & Review Partners,14731.0,62278,1721,110,52,27,6,25113.0
+2025-12-01,Affiliate,Coupon & Deals Partners,18038.0,84742,2175,142,81,44,8,38384.0
+2025-12-01,Email,Abandoned Cart Series,3434.0,23041,728,172,104,63,21,71633.0
+2025-12-01,Email,Post-Purchase Upsell,2561.0,21752,655,149,102,59,20,84687.0
+2025-12-01,Email,Weekly Newsletter,4205.0,23498,854,151,97,66,17,75007.0
+2025-12-01,Email,Win-Back Campaign,2421.0,11199,466,74,51,30,8,31385.0
+2025-12-01,Google Ads,Performance Max - New Customers,31933.0,48098,1839,157,97,54,13,74483.0
+2025-12-01,Google Ads,Search - Brand,24769.0,23709,1233,140,78,36,7,40034.0
+2025-12-01,Google Ads,Search - Non-Brand,34845.0,22201,1126,120,77,38,7,42157.0
+2025-12-01,Google Ads,Shopping - Bestsellers,19124.0,17351,850,89,52,31,6,26746.0
+2025-12-01,LinkedIn Ads,InMail - Account Based Marketing,15493.0,12921,125,7,5,3,1,17397.0
+2025-12-01,LinkedIn Ads,Lead Gen Forms - Enterprise,24610.0,31065,189,14,9,5,1,19645.0
+2025-12-01,LinkedIn Ads,Sponsored Content - Decision Makers,23841.0,18863,171,12,8,5,1,21972.0
+2025-12-01,Meta Ads,Advantage+ Shopping,27404.0,156781,2989,242,142,66,8,38058.0
+2025-12-01,Meta Ads,Prospecting - Lookalike 1%,30063.0,101549,3011,152,82,43,6,25901.0
+2025-12-01,Meta Ads,Retargeting - Cart Abandoners,21712.0,149414,2260,122,57,28,4,16008.0
+2025-12-01,Meta Ads,Video Views - Brand Awareness,18398.0,75092,1400,72,39,21,3,11094.0
+2025-12-01,YouTube,Bumper Ads - Retargeting,10314.0,126926,1264,30,12,4,0,0.0
+2025-12-01,YouTube,Discovery Ads - Product Demo,14766.0,247838,2578,55,23,8,1,4534.0
+2025-12-01,YouTube,In-Stream - Brand Awareness,15977.0,145158,1591,48,19,8,1,5382.0
+2025-12-08,Affiliate,Cashback Partners,11824.0,81311,1764,171,92,40,9,33132.0
+2025-12-08,Affiliate,Content & Review Partners,13554.0,63366,1529,147,76,30,6,26655.0
+2025-12-08,Affiliate,Coupon & Deals Partners,16930.0,65001,2292,223,120,51,10,44987.0
+2025-12-08,Email,Abandoned Cart Series,3145.0,32471,1045,170,126,83,27,111296.0
+2025-12-08,Email,Post-Purchase Upsell,2662.0,29741,1046,194,142,93,24,100423.0
+2025-12-08,Email,Weekly Newsletter,3991.0,39160,1208,223,139,91,27,117226.0
+2025-12-08,Email,Win-Back Campaign,2248.0,22901,769,173,112,62,19,62702.0
+2025-12-08,Google Ads,Performance Max - New Customers,28169.0,48130,1577,155,97,49,11,60031.0
+2025-12-08,Google Ads,Search - Brand,22522.0,24513,1042,125,74,39,8,49663.0
+2025-12-08,Google Ads,Search - Non-Brand,32031.0,43133,1814,203,136,73,17,89487.0
+2025-12-08,Google Ads,Shopping - Bestsellers,16541.0,16166,620,61,39,21,4,20507.0
+2025-12-08,LinkedIn Ads,InMail - Account Based Marketing,13982.0,16620,141,9,6,3,1,24619.0
+2025-12-08,LinkedIn Ads,Lead Gen Forms - Enterprise,20961.0,18414,153,10,7,4,1,21105.0
+2025-12-08,LinkedIn Ads,Sponsored Content - Decision Makers,23123.0,19969,155,8,6,3,1,23633.0
+2025-12-08,Meta Ads,Advantage+ Shopping,26149.0,109604,2722,191,99,50,8,38894.0
+2025-12-08,Meta Ads,Prospecting - Lookalike 1%,29424.0,78349,2139,140,71,34,5,25748.0
+2025-12-08,Meta Ads,Retargeting - Cart Abandoners,21888.0,81394,1703,122,62,31,4,15380.0
+2025-12-08,Meta Ads,Video Views - Brand Awareness,15860.0,50264,1293,95,52,25,4,13672.0
+2025-12-08,YouTube,Bumper Ads - Retargeting,11060.0,62285,974,28,14,4,1,3621.0
+2025-12-08,YouTube,Discovery Ads - Product Demo,17798.0,144880,1910,52,19,8,1,4011.0
+2025-12-08,YouTube,In-Stream - Brand Awareness,20802.0,184675,3060,83,31,13,1,4310.0
+2025-12-15,Affiliate,Cashback Partners,9446.0,37283,1233,83,44,24,4,18290.0
+2025-12-15,Affiliate,Content & Review Partners,11822.0,96391,2688,254,146,75,11,52784.0
+2025-12-15,Affiliate,Coupon & Deals Partners,16411.0,78893,2303,224,110,60,9,33100.0
+2025-12-15,Email,Abandoned Cart Series,3752.0,24892,1091,232,149,102,29,109455.0
+2025-12-15,Email,Post-Purchase Upsell,3177.0,20596,657,120,80,52,16,66627.0
+2025-12-15,Email,Weekly Newsletter,4065.0,18719,769,130,86,52,15,66459.0
+2025-12-15,Email,Win-Back Campaign,2595.0,16239,492,89,62,42,11,36463.0
+2025-12-15,Google Ads,Performance Max - New Customers,34702.0,39457,1803,193,133,69,14,65859.0
+2025-12-15,Google Ads,Search - Brand,25994.0,35064,1431,173,96,55,11,60675.0
+2025-12-15,Google Ads,Search - Non-Brand,36975.0,45475,2288,236,164,81,19,122156.0
+2025-12-15,Google Ads,Shopping - Bestsellers,17934.0,17434,568,65,45,21,4,23689.0
+2025-12-15,LinkedIn Ads,InMail - Account Based Marketing,14980.0,15723,114,8,5,3,1,20177.0
+2025-12-15,LinkedIn Ads,Lead Gen Forms - Enterprise,20957.0,17784,158,8,5,3,1,19963.0
+2025-12-15,LinkedIn Ads,Sponsored Content - Decision Makers,26165.0,25509,222,13,10,5,1,20686.0
+2025-12-15,Meta Ads,Advantage+ Shopping,23305.0,85095,1519,83,50,25,4,16311.0
+2025-12-15,Meta Ads,Prospecting - Lookalike 1%,24749.0,75850,1893,132,67,36,6,24947.0
+2025-12-15,Meta Ads,Retargeting - Cart Abandoners,23899.0,67281,1805,102,50,23,3,12312.0
+2025-12-15,Meta Ads,Video Views - Brand Awareness,14365.0,41683,974,49,29,14,2,8173.0
+2025-12-15,YouTube,Bumper Ads - Retargeting,11670.0,117803,1123,30,14,5,1,4945.0
+2025-12-15,YouTube,Discovery Ads - Product Demo,14038.0,103527,1463,56,23,8,1,3889.0
+2025-12-15,YouTube,In-Stream - Brand Awareness,16186.0,78725,1350,43,16,6,1,4146.0
+2025-12-22,Affiliate,Cashback Partners,10942.0,55651,1869,159,80,37,7,25826.0
+2025-12-22,Affiliate,Content & Review Partners,16114.0,61721,2302,201,120,51,8,38622.0
+2025-12-22,Affiliate,Coupon & Deals Partners,18117.0,108395,3051,282,145,69,11,54808.0
+2025-12-22,Email,Abandoned Cart Series,3363.0,18304,650,129,83,56,15,51775.0
+2025-12-22,Email,Post-Purchase Upsell,2457.0,12095,474,74,54,33,9,36083.0
+2025-12-22,Email,Weekly Newsletter,3740.0,32816,1399,215,133,77,21,75656.0
+2025-12-22,Email,Win-Back Campaign,2092.0,18124,666,107,66,45,12,46945.0
+2025-12-22,Google Ads,Performance Max - New Customers,35092.0,37033,1227,146,99,50,11,58143.0
+2025-12-22,Google Ads,Search - Brand,22425.0,17991,764,93,63,36,8,39630.0
+2025-12-22,Google Ads,Search - Non-Brand,37574.0,47222,2133,193,121,55,11,54016.0
+2025-12-22,Google Ads,Shopping - Bestsellers,15639.0,18959,639,77,53,30,7,39387.0
+2025-12-22,LinkedIn Ads,InMail - Account Based Marketing,13461.0,16548,131,10,7,4,1,16573.0
+2025-12-22,LinkedIn Ads,Lead Gen Forms - Enterprise,19054.0,17159,167,9,6,4,1,16375.0
+2025-12-22,LinkedIn Ads,Sponsored Content - Decision Makers,23533.0,17647,150,8,6,3,1,20266.0
+2025-12-22,Meta Ads,Advantage+ Shopping,23666.0,42655,1277,83,46,21,3,11224.0
+2025-12-22,Meta Ads,Prospecting - Lookalike 1%,25721.0,65334,1373,78,36,18,3,14912.0
+2025-12-22,Meta Ads,Retargeting - Cart Abandoners,22909.0,46888,1212,77,42,17,2,7837.0
+2025-12-22,Meta Ads,Video Views - Brand Awareness,15338.0,68528,1249,68,33,18,2,7429.0
+2025-12-22,YouTube,Bumper Ads - Retargeting,11304.0,83712,995,30,11,5,1,5088.0
+2025-12-22,YouTube,Discovery Ads - Product Demo,16538.0,127759,1667,38,14,5,1,4616.0
+2025-12-22,YouTube,In-Stream - Brand Awareness,16790.0,91700,1580,33,12,5,1,4265.0
