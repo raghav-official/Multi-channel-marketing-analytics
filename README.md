@@ -22,7 +22,7 @@ An end-to-end marketing analytics project simulating 2 years of performance data
 
 ## The dataset
 
-Simulated (non-confidential) data — 2 years (Jan 2024–Dec 2025), weekly grain, 6 channels × 3–4 named campaigns each (2,184 rows). Full funnel tracked per row: Impressions → Clicks → Leads → MQLs → SQLs → Customers → Revenue, with realistic seasonality (festive-season spikes, monsoon slowdown). Methodology and all assumption ranges are documented in the Excel file's Channel Benchmarks sheet.
+Simulated (non-confidential) data - 2 years (Jan 2024–Dec 2025), weekly grain, 6 channels × 3-4 named campaigns each (2,184 rows). Full funnel tracked per row: Impressions → Clicks → Leads → MQLs → SQLs → Customers → Revenue, with realistic seasonality (festive-season spikes, monsoon slowdown). Methodology and all assumption ranges are documented in the Excel file's Channel Benchmarks sheet.
 
 ## Dashboard
 
@@ -54,10 +54,10 @@ Simulated (non-confidential) data — 2 years (Jan 2024–Dec 2025), weekly grai
 ## Key findings
 
 - Blended ROAS across all channels: 2.15x
-- Email is the standout performer (23.8x ROAS) — low cost, high-intent existing audience
-- Google Ads is the solid workhorse (1.8x ROAS) — largest scalable paid channel
+- Email is the standout performer (23.8x ROAS) - low cost, high-intent existing audience
+- Google Ads is the solid workhorse (1.8x ROAS) - largest scalable paid channel
 - Meta and YouTube underperform on last-click ROAS (below 1x) - likely stronger as upper-funnel/awareness channels than direct-response
-- LinkedIn has the highest CAC (~₹18,000) but also the highest average order value — justified for enterprise deals, not a pure efficiency play
+- LinkedIn has the highest CAC (~₹18,000) but also the highest average order value - justified for enterprise deals, not a pure efficiency play
 - Reallocating the same ₹50L monthly budget toward the response-curve-optimized mix projects a ~51% revenue improvement
 
 ## How to explore this project
